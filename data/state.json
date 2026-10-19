@@ -10679,6 +10679,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4092011174-departamento-alquiler-2-amb-lavadero-palermo-_JM"
  },
+ "ml:MLA4095599120": {
+  "first_seen": "2026-10-19T03:01:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4095599120-alquiler-3-ambientes-dependencia-palermorecoleta-_JM"
+ },
  "ml:MLA4095609350": {
   "first_seen": "2026-10-19T02:01:20+00:00",
   "ok": false,

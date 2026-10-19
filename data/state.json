@@ -5807,6 +5807,50 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2212280029-departamento-en-alquiler-en-palermo-chico-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA2212527259": {
+  "first_seen": "2026-10-19T19:31:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.350.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212527259-alquiler-2-ambientes-julian-alvarez-2800-amoblado-_JM"
+ },
+ "ml:MLA2212635299": {
+  "antiguedad": 40,
+  "cochera": false,
+  "first_seen": "2026-10-19T19:31:25+00:00",
+  "listing": {
+   "address": "Sanchez De Bustamante Al 2100, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 0.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2212635299",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_821845-MLA119792519181_102026-O.webp"
+   ],
+   "lat": -34.5879756,
+   "lon": -58.4064485,
+   "m2_cubiertos": 38.0,
+   "price": 800000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento - Recoleta",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2212635299-departamento-recoleta-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-19T19:31:34+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 39,
+  "total_ars": 800000,
+  "zone": "Recoleta alta"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -11791,6 +11835,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4095609350-alquiler-penthouse-palermo-_JM"
  },
+ "ml:MLA4098193724": {
+  "first_seen": "2026-10-19T19:31:33+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098193724-monoambiente-alquiler-palermo-_JM"
+ },
  "ml:MLA4098314324": {
   "first_seen": "2026-10-19T14:13:50+00:00",
   "ok": false,
@@ -11892,5 +11944,14 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099337610-departamento-en-las-canitas-_JM"
+ },
+ "ml:MLA4099342092": {
+  "first_seen": "2026-10-19T19:31:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.390.000 supera el máximo",
+   "del otro lado de Santa Fe (324 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099342092-excelente-departamento-2-amb-recoleta-_JM"
  }
 }

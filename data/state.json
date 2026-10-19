@@ -5685,6 +5685,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2209790131-alquiler-departamento-2-ambientes-y-12-pereyra-lucena-2500-recoleta-_JM"
  },
+ "ml:MLA2211068061": {
+  "first_seen": "2026-10-19T13:18:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.851.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211068061-departamento-en-alquiler-en-las-canitas-capital-federal-buenos-aires-_JM"
+ },
+ "ml:MLA2211389417": {
+  "first_seen": "2026-10-19T13:18:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.851.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211389417-departamento-en-alquiler-en-las-canitas-capital-federal-buenos-aires-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

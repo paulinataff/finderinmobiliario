@@ -5877,6 +5877,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2212770415-departamento-2-ambientes-en-alquiler-palermo-_JM"
  },
+ "ml:MLA2212988537": {
+  "first_seen": "2026-10-19T23:58:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo",
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212988537-montevideo-1500-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -12060,5 +12069,13 @@
    "del otro lado de Santa Fe (681 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099805290-amplio-2-ambientes-en-alquiler-con-balcon-palermo-_JM"
+ },
+ "ml:MLA4099806328": {
+  "first_seen": "2026-10-19T23:58:17+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099806328-excelente-departamento-2-ambientes-en-excelente-en-muy-buena-ubicacion-en-recoleta-_JM"
  }
 }

@@ -5799,6 +5799,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2212271963-departamentos-2-ambientes-alquiler-_JM"
  },
+ "ml:MLA2212280029": {
+  "first_seen": "2026-10-19T17:58:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.696.480 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212280029-departamento-en-alquiler-en-palermo-chico-capital-federal-buenos-aires-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -11813,5 +11821,32 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4098970446-departamento-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA4099147336": {
+  "first_seen": "2026-10-19T17:58:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.469.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099147336-alquiler-2-amb-muy-amplio-con-patio-canitas-_JM"
+ },
+ "ml:MLA4099194674": {
+  "first_seen": "2026-10-19T17:58:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.430.000 supera el máximo",
+   "del otro lado de Santa Fe (1226 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099194674-alquiler-2-amb-palermo-coch-amenities-parrilla-_JM"
+ },
+ "ml:MLA4099195526": {
+  "first_seen": "2026-10-19T17:58:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.360.000 supera el máximo",
+   "del otro lado de Santa Fe (699 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099195526-alquiler-depto-2-ambientes-recoleta-54m2-balcon-corrido-_JM"
  }
 }

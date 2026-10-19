@@ -1,0 +1,186 @@
+<title>Departamentos del lado del río</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: mapa del corredor Santa Fe–río a la izquierda, lista de avisos tipo clasificado a la derecha; apilado en celular. */
+:root {
+  --bg: #f6f7f5;
+  --panel: #ffffff;
+  --ink: #17201f;
+  --muted: #5d6b69;
+  --line: #dde3e1;
+  --river: #0e6b73;      /* pasando Las Heras */
+  --mid: #c27a12;        /* entre Santa Fe y Las Heras */
+  --north: #6b4fa0;      /* Cañitas / fuera del tramo de Las Heras */
+  --avenue: #9aa7a5;
+  --display: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #111716; --panel: #182120; --ink: #e6ecea; --muted: #94a3a0; --line: #2a3634;
+  --river: #3fb6bf; --mid: #e8a440; --north: #a68be0; --avenue: #4f5f5c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #111716; --panel: #182120; --ink: #e6ecea; --muted: #94a3a0; --line: #2a3634;
+  --river: #3fb6bf; --mid: #e8a440; --north: #a68be0; --avenue: #4f5f5c; color-scheme: dark }
+
+body { background: var(--bg); color: var(--ink); font-family: var(--display); font-size: 15px; line-height: 1.45; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-block: 28px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 12px 24px; margin-bottom: 22px; }
+h1 { font-size: clamp(26px, 4vw, 38px); font-weight: 800; letter-spacing: -0.02em; margin: 0; text-wrap: balance; line-height: 1.05; }
+.sub { color: var(--muted); margin: 6px 0 0; max-width: 60ch; }
+.stamp { font-family: var(--mono); font-size: 12px; color: var(--muted); text-align: right; }
+
+.grid { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 24px; align-items: start; }
+@media (max-width: 860px) { .grid { grid-template-columns: minmax(0, 1fr); } }
+
+.mapbox { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+.mapbox svg { width: 100%; height: auto; display: block; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.chip { font: 600 12px var(--display); letter-spacing: 0.02em; border: 1px solid var(--line); background: transparent; color: var(--ink);
+  border-radius: 999px; padding: 5px 10px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--panel); border-color: var(--ink); }
+.chip:focus-visible, .card a:focus-visible { outline: 2px solid var(--river); outline-offset: 2px; }
+.dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.note { color: var(--muted); font-size: 12px; margin: 10px 2px 0; }
+
+.list { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+  display: grid; grid-template-columns: 52px minmax(0, 1fr); gap: 4px 14px; transition: border-color .15s; }
+.card.hl { border-color: var(--ink); }
+.score { grid-row: span 3; font: 500 22px var(--mono); text-align: center; align-self: start; padding-top: 2px; }
+.score small { display: block; font-size: 10px; color: var(--muted); letter-spacing: 0.06em; text-transform: uppercase; }
+.card h2 { font-size: 16px; margin: 0; font-weight: 600; text-wrap: balance; }
+.card h2 a { color: inherit; text-decoration: none; }
+.card h2 a:hover { text-decoration: underline; }
+.addr { color: var(--muted); font-size: 13px; }
+.facts { display: flex; flex-wrap: wrap; gap: 4px 14px; font-family: var(--mono); font-size: 13px; font-variant-numeric: tabular-nums; margin-top: 4px; }
+.facts b { font-weight: 500; }
+.tags { grid-column: 2; display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.tag { font-size: 11px; font-weight: 600; letter-spacing: 0.03em; padding: 2px 8px; border-radius: 4px; border: 1px solid var(--line); color: var(--muted); }
+.tag.z { color: var(--panel); border-color: transparent; }
+.empty { color: var(--muted); padding: 24px; text-align: center; }
+@media (prefers-reduced-motion: reduce) { .card { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Departamentos del lado del río</h1>
+      <p class="sub" id="sub"></p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </header>
+  <div class="grid">
+    <div class="mapbox">
+      <svg id="map" viewBox="0 0 600 520" role="img" aria-label="Mapa de Palermo, Recoleta y Las Cañitas con los departamentos encontrados"></svg>
+      <div class="legend" id="legend"></div>
+      <p class="note">Línea gruesa: Av. Santa Fe y Cabildo. Línea punteada: Av. Las Heras. Tocá un punto para ver el aviso.</p>
+    </div>
+    <div class="list" id="list"></div>
+  </div>
+</div>
+
+<script>
+const DATA = /*DATA*/null;
+const ZONES = [
+  { key: "pasando Las Heras", label: "Pasando Las Heras", color: "--river" },
+  { key: "entre Santa Fe y Las Heras", label: "Entre Santa Fe y Las Heras", color: "--mid" },
+  { key: "fuera del tramo de Las Heras", label: "Cañitas y Palermo norte", color: "--north" },
+];
+const zoneOf = k => ZONES.find(z => z.key === k) || ZONES[2];
+const money = v => "$" + Math.round(v).toLocaleString("es-AR");
+let filter = null;
+
+// Proyección: encuadre fijo del corredor entre Recoleta y Belgrano.
+const B = { minLon: -58.452, maxLon: -58.378, minLat: -34.600, maxLat: -34.556 };
+const W = 600, H = 520, PAD = 18;
+const kx = Math.cos(-34.58 * Math.PI / 180);
+const sx = (W - 2 * PAD) / ((B.maxLon - B.minLon) * kx), sy = (H - 2 * PAD) / (B.maxLat - B.minLat);
+const s = Math.min(sx, sy);
+const px = lon => PAD + (lon - B.minLon) * kx * s;
+const py = lat => H - PAD - (lat - B.minLat) * s;
+
+function drawMap() {
+  const svg = document.getElementById("map");
+  const ns = "http://www.w3.org/2000/svg";
+  const el = (tag, attrs) => { const e = document.createElementNS(ns, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; };
+  svg.innerHTML = "";
+  const road = (ways, width, dash) => ways.forEach(w => svg.appendChild(el("polyline", {
+    points: w.map(([lo, la]) => `${px(lo).toFixed(1)},${py(la).toFixed(1)}`).join(" "),
+    fill: "none", stroke: "var(--avenue)", "stroke-width": width, "stroke-linecap": "round", "stroke-dasharray": dash || "none" })));
+  road(DATA.avenidas.santa_fe, 3.5);
+  road(DATA.avenidas.las_heras, 2, "5 4");
+  const lbl = (x, y, t) => { const e = el("text", { x, y, fill: "var(--muted)", "font-size": 12, "font-family": "var(--mono)" }); e.textContent = t; svg.appendChild(e); };
+  lbl(px(-58.4035), py(-34.5985), "Av. Santa Fe");
+  lbl(px(-58.4505), py(-34.5585), "Cabildo");
+  lbl(px(-58.4000), py(-34.5845), "Las Heras");
+  lbl(px(-58.3960), py(-34.5640), "río →");
+  DATA.items.forEach((it, i) => {
+    if (it.lat == null) return;
+    const z = zoneOf(it.zone);
+    const c = el("circle", { cx: px(it.lon).toFixed(1), cy: py(it.lat).toFixed(1), r: 6.5,
+      fill: `var(${z.color})`, stroke: "var(--panel)", "stroke-width": 2, tabindex: 0, role: "link",
+      "aria-label": `${it.addr}, ${money(it.total)}`, style: "cursor:pointer" });
+    c.dataset.i = i;
+    if (filter && filter !== z.key) c.setAttribute("opacity", 0.15);
+    c.addEventListener("click", () => focusCard(i));
+    c.addEventListener("keydown", e => { if (e.key === "Enter") focusCard(i); });
+    svg.appendChild(c);
+  });
+}
+
+function focusCard(i) {
+  const card = document.getElementById("c" + i);
+  if (!card) return;
+  document.querySelectorAll(".card.hl").forEach(c => c.classList.remove("hl"));
+  card.classList.add("hl");
+  card.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "center" });
+}
+
+function drawLegend() {
+  const box = document.getElementById("legend");
+  box.innerHTML = "";
+  ZONES.forEach(z => {
+    const n = DATA.items.filter(it => it.zone === z.key).length;
+    const b = document.createElement("button");
+    b.className = "chip"; b.type = "button"; b.id = "f-" + ZONES.indexOf(z);
+    b.setAttribute("aria-pressed", filter === z.key);
+    b.innerHTML = `<span class="dot" style="background:var(${z.color})"></span>${z.label} · ${n}`;
+    b.onclick = () => { filter = filter === z.key ? null : z.key; render(); };
+    box.appendChild(b);
+  });
+}
+
+function drawList() {
+  const list = document.getElementById("list");
+  const rows = DATA.items.map((it, i) => [it, i]).filter(([it]) => !filter || it.zone === filter);
+  if (!rows.length) { list.innerHTML = '<div class="empty">No hay avisos en esta zona todavía.</div>'; return; }
+  list.innerHTML = rows.map(([it, i]) => {
+    const z = zoneOf(it.zone);
+    const price = it.cur === "USD" ? `USD ${it.price.toLocaleString("es-AR")}` : money(it.price);
+    const exp = it.exp != null ? ` + ${money(it.exp)} exp.` : " · sin expensas informadas";
+    const tags = [`<span class="tag z" style="background:var(${z.color})">${z.label}</span>`];
+    if (it.cochera) tags.push('<span class="tag">Cochera</span>');
+    if (it.pileta) tags.push('<span class="tag">Pileta</span>');
+    tags.push(`<span class="tag">${it.src === "ml" ? "MercadoLibre" : "Argenprop"}</span>`);
+    const esc = t => String(t || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    return `<article class="card" id="c${i}">
+      <div class="score">${it.score}<small>puntos</small></div>
+      <h2><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
+      <div class="addr">${esc(it.addr)}${it.pub ? " · " + esc(it.pub) : ""}</div>
+      <div class="facts"><span><b>${money(it.total)}</b> total</span><span>${price}${exp}</span>
+        <span>${it.m2 ? Math.round(it.m2) + " m² cub." : ""}</span><span>${it.dorm != null ? it.dorm + " dorm." : ""}</span></div>
+      <div class="tags">${tags.join("")}</div>
+    </article>`;
+  }).join("");
+}
+
+function render() { drawLegend(); drawMap(); drawList(); }
+
+document.getElementById("sub").textContent =
+  `${DATA.items.length} avisos cumplen todo: hasta $1.300.000 con expensas ($1.400.000 con cochera), 1 dormitorio o más, 38 m² cubiertos o más, balcón y del lado del río de Santa Fe.`;
+document.getElementById("stamp").innerHTML = `Actualizado ${DATA.generated}<br>${DATA.evaluated.toLocaleString("es-AR")} avisos revisados`;
+render();
+</script>

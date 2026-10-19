@@ -5701,6 +5701,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2211389417-departamento-en-alquiler-en-las-canitas-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA2211397549": {
+  "first_seen": "2026-10-19T14:13:50+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (369 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211397549-alquiler-departamento-2-ambientes-alto-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -11648,5 +11656,13 @@
    "total $5.398.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4095609350-alquiler-penthouse-palermo-_JM"
+ },
+ "ml:MLA4098314324": {
+  "first_seen": "2026-10-19T14:13:50+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.995.240 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098314324-departamento-en-recoleta-_JM"
  }
 }

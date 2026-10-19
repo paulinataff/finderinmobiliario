@@ -5210,6 +5210,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2209170683-alquiler-dpto-2-ambientes-amoblado-con-patio-en-las-canitas-_JM"
  },
+ "ml:MLA2209703805": {
+  "first_seen": "2026-10-19T08:13:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.164.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2209703805-tres-dormitorios-cochera-fija-seguridad-24-hs-piscina-una-suite-luminoso-recoleta-alquiler-_JM"
+ },
  "ml:MLA2209787287": {
   "first_seen": "2026-10-19T05:07:20+00:00",
   "ok": false,

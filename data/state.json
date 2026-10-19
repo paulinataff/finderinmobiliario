@@ -241,6 +241,7 @@
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20642928"
  },
  "ap:20657859": {
+  "antiguedad": 5,
   "cochera": null,
   "first_seen": "2026-10-19T02:01:27+00:00",
   "listing": {
@@ -271,9 +272,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 31,
+  "score": 35,
   "total_ars": 972000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Las Cañitas"
  },
  "ap:20663471": {
   "first_seen": "2026-10-19T00:57:27+00:00",
@@ -1397,6 +1398,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2060558617-departamento-tipo-duplex-en-alquiler-en-palermo-_JM"
  },
  "ml:MLA2060755381": {
+  "antiguedad": 70,
   "cochera": false,
   "first_seen": "2026-10-19T01:52:43+00:00",
   "listing": {
@@ -1427,9 +1429,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 44,
+  "score": 37,
   "total_ars": 1070000.0,
-  "zone": "pasando Las Heras"
+  "zone": "Recoleta: Plaza Francia, Alvear, Posadas"
  },
  "ml:MLA2061145335": {
   "first_seen": "2026-10-19T01:50:31+00:00",
@@ -1631,6 +1633,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2073782433-departamento-en-venta-palacio-alcorta-en-palermo-250m2-_JM"
  },
  "ml:MLA2074325391": {
+  "antiguedad": 40,
   "cochera": true,
   "first_seen": "2026-10-19T01:20:40+00:00",
   "listing": {
@@ -1661,9 +1664,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 46,
+  "score": 52,
   "total_ars": 1300000.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "zone": "Recoleta alta"
  },
  "ml:MLA2074325581": {
   "first_seen": "2026-10-19T01:19:07+00:00",
@@ -2399,6 +2402,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2107432355-local-oficina-en-alquiler-con-jardin-privado-_JM"
  },
  "ml:MLA2109015717": {
+  "antiguedad": 50,
   "cochera": false,
   "first_seen": "2026-10-18T16:28:52+00:00",
   "listing": {
@@ -2429,9 +2433,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 50,
+  "score": 39,
   "total_ars": 1040000.0,
-  "zone": "pasando Las Heras"
+  "zone": "Palermo Nuevo"
  },
  "ml:MLA2112065121": {
   "first_seen": "2026-10-19T01:16:16+00:00",
@@ -2659,6 +2663,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2123217235-alquiler-departamento-de-2-amb-con-balcon-en-recoleta-_JM"
  },
  "ml:MLA2123227693": {
+  "antiguedad": 29,
   "cochera": false,
   "first_seen": "2026-10-19T01:07:05+00:00",
   "listing": {
@@ -2689,9 +2694,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 40,
+  "score": 35,
   "total_ars": 1199060.0,
-  "zone": "pasando Las Heras"
+  "zone": "Palermo Nuevo"
  },
  "ml:MLA2123252347": {
   "first_seen": "2026-10-19T01:59:07+00:00",
@@ -2718,6 +2723,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2123707087-departamento-en-alquiler-3-amb-super-luminosos-recien-pintado-_JM"
  },
  "ml:MLA2123751879": {
+  "antiguedad": 50,
   "cochera": false,
   "first_seen": "2026-10-19T01:14:43+00:00",
   "listing": {
@@ -2748,9 +2754,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 24,
+  "score": 17,
   "total_ars": 1150000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Las Cañitas"
  },
  "ml:MLA2124035303": {
   "first_seen": "2026-10-19T01:56:15+00:00",
@@ -3016,6 +3022,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2134700559-alquiler-departamento-3-ambientes-con-dependencia-y-cochera-en-recoleta-_JM"
  },
  "ml:MLA2134702389": {
+  "antiguedad": 45,
   "cochera": false,
   "first_seen": "2026-10-19T01:59:54+00:00",
   "listing": {
@@ -3046,9 +3053,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 30,
+  "score": 19,
   "total_ars": 1040000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Luis María Campos norte"
  },
  "ml:MLA2136972395": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -3100,6 +3107,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2137739777-piso-de-3-ambientes-en-planta-baja-muy-luminoso-patio-interno-lavadero-_JM"
  },
  "ml:MLA2137780853": {
+  "antiguedad": 45,
   "cochera": false,
   "first_seen": "2026-10-18T16:21:37+00:00",
   "listing": {
@@ -3130,9 +3138,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 26,
+  "score": 37,
   "total_ars": 1005000.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "zone": "Recoleta alta"
  },
  "ml:MLA2137809859": {
   "first_seen": "2026-10-19T01:10:04+00:00",
@@ -3152,6 +3160,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2137815067-alquiler-recoleta-av-santa-fe-y-aguero-2-amb-38m2-apto-profesional-bajas-expensas-subte-d-_JM"
  },
  "ml:MLA2137820415": {
+  "antiguedad": 50,
   "cochera": false,
   "first_seen": "2026-10-18T16:18:53+00:00",
   "listing": {
@@ -3182,9 +3191,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 22,
+  "score": 13,
   "total_ars": 1160000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Luis María Campos norte"
  },
  "ml:MLA2138073391": {
   "first_seen": "2026-10-19T01:51:58+00:00",
@@ -3301,39 +3310,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2140793625-departamento-2-ambientes-en-alquiler-palermo-_JM"
  },
  "ml:MLA2140809245": {
-  "cochera": false,
   "first_seen": "2026-10-19T01:57:48+00:00",
-  "listing": {
-   "address": "Calle Jorge Newbery 1764, Las Cañitas, Capital Federal",
-   "ambientes": 1,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "USD",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 190000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2140809245",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_747930-MLA118510124005_092026-O.webp"
-   ],
-   "lat": -34.5678438,
-   "lon": -58.4351454,
-   "m2_cubiertos": 50.0,
-   "price": 650,
-   "publisher": "",
-   "source": "ml",
-   "title": "Alquiler Monoambiente Con Balcón En Excelente Ubicación Las Cañitas",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2140809245-alquiler-monoambiente-con-balcon-en-excelente-ubicacion-las-canitas-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": true,
-  "reasons": [],
-  "score": 45,
-  "total_ars": 1192625.0,
-  "zone": "fuera del tramo de Las Heras"
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2140809245-alquiler-monoambiente-con-balcon-en-excelente-ubicacion-las-canitas-_JM"
  },
  "ml:MLA2140812611": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -3592,6 +3574,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2149438863-alquiler-departamento-2-ambientes-amoblado-canitas-_JM"
  },
  "ml:MLA2149886811": {
+  "antiguedad": 15,
   "cochera": true,
   "first_seen": "2026-10-19T01:18:19+00:00",
   "listing": {
@@ -3622,9 +3605,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 44,
+  "score": 55,
   "total_ars": 1280000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Palermo Nuevo"
  },
  "ml:MLA2149888047": {
   "first_seen": "2026-10-18T16:18:17+00:00",
@@ -3871,6 +3854,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2157531501-departamento-monoambiente-con-balcon-amenities-y-cochera-_JM"
  },
  "ml:MLA2157542869": {
+  "antiguedad": 50,
   "cochera": false,
   "first_seen": "2026-10-19T01:51:25+00:00",
   "listing": {
@@ -3901,9 +3885,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 28,
+  "score": 20,
   "total_ars": 1135000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Las Cañitas"
  },
  "ml:MLA2157544831": {
   "first_seen": "2026-10-19T01:57:26+00:00",
@@ -3930,6 +3914,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2157863337-duplex-de-3-ambientes-balcon-aterrazado-cochera-amenities-completos-_JM"
  },
  "ml:MLA2157974703": {
+  "antiguedad": null,
   "cochera": true,
   "first_seen": "2026-10-19T01:07:47+00:00",
   "listing": {
@@ -3960,9 +3945,9 @@
   "ok": true,
   "pileta": true,
   "reasons": [],
-  "score": 59,
+  "score": 45,
   "total_ars": 1400000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Las Cañitas"
  },
  "ml:MLA2157974889": {
   "first_seen": "2026-10-19T02:00:23+00:00",
@@ -4773,6 +4758,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2190504653-departamento-3-ambientes-en-alquiler-recoleta-_JM"
  },
  "ml:MLA2190641441": {
+  "antiguedad": 30,
   "cochera": false,
   "first_seen": "2026-10-19T01:58:46+00:00",
   "listing": {
@@ -4803,9 +4789,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 29,
+  "score": 42,
   "total_ars": 930000.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "zone": "Recoleta alta"
  },
  "ml:MLA2190891475": {
   "first_seen": "2026-10-18T16:19:28+00:00",
@@ -6521,6 +6507,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3907831554-departamentos-alquiler-recoleta-_JM"
  },
  "ml:MLA3908849692": {
+  "antiguedad": 0,
   "cochera": false,
   "first_seen": "2026-10-19T01:16:44+00:00",
   "listing": {
@@ -6551,9 +6538,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 30,
+  "score": 51,
   "total_ars": 1156875.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "zone": "Botánico y Plaza Italia"
  },
  "ml:MLA3910580736": {
   "first_seen": "2026-10-19T01:14:01+00:00",
@@ -6976,6 +6963,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3940444408-alquiler-excelente-departamento-de-2-ambientes-en-palermo-_JM"
  },
  "ml:MLA3940617418": {
+  "antiguedad": 50,
   "cochera": false,
   "first_seen": "2026-10-18T16:36:30+00:00",
   "listing": {
@@ -7006,9 +6994,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 26,
+  "score": 19,
   "total_ars": 1100000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Las Cañitas"
  },
  "ml:MLA3940718956": {
   "first_seen": "2026-10-18T16:27:10+00:00",
@@ -7227,39 +7215,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3954552566-alquiler-dos-ambientes-piso-5-frente-palermo-soho-_JM"
  },
  "ml:MLA3955058416": {
-  "cochera": false,
   "first_seen": "2026-10-19T01:51:30+00:00",
-  "listing": {
-   "address": "Laprida Al 1800, Recoleta, Capital Federal",
-   "ambientes": 1,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 180000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3955058416",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_623653-MLA117707788167_092026-O.webp"
-   ],
-   "lat": -34.589663,
-   "lon": -58.4022573,
-   "m2_cubiertos": 38.0,
-   "price": 840000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Alquiler Hermoso Monoambiente En Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3955058416-alquiler-hermoso-monoambiente-en-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": true,
-  "reasons": [],
-  "score": 42,
-  "total_ars": 1020000.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3955058416-alquiler-hermoso-monoambiente-en-recoleta-_JM"
  },
  "ml:MLA3955063492": {
   "first_seen": "2026-10-19T01:51:41+00:00",
@@ -7394,6 +7355,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3960553510-departamento-temporario-de-3-ambientes-en-inmejorable-ubicacion-de-palermo-_JM"
  },
  "ml:MLA3962980976": {
+  "antiguedad": 10,
   "cochera": false,
   "first_seen": "2026-10-19T01:17:17+00:00",
   "listing": {
@@ -7424,9 +7386,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 31,
+  "score": 33,
   "total_ars": 1234400.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Las Cañitas"
  },
  "ml:MLA3963899008": {
   "first_seen": "2026-10-19T01:18:23+00:00",
@@ -7805,6 +7767,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3987375834-departamento-4-ambientes-en-palermo-quartier-ocampo-2-cocheras-_JM"
  },
  "ml:MLA3987484700": {
+  "antiguedad": 50,
   "cochera": false,
   "first_seen": "2026-10-19T01:18:48+00:00",
   "listing": {
@@ -7835,9 +7798,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 24,
+  "score": 17,
   "total_ars": 1180000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "zone": "Las Cañitas"
  },
  "ml:MLA3987962504": {
   "first_seen": "2026-10-19T01:55:47+00:00",
@@ -8077,6 +8040,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4001653536-av-alvear-piso-de-categoria-reciclado-vista-abierta-a-plaza-_JM"
  },
  "ml:MLA4002263018": {
+  "antiguedad": 61,
   "cochera": false,
   "first_seen": "2026-10-19T01:19:53+00:00",
   "listing": {
@@ -8107,9 +8071,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 29,
+  "score": 39,
   "total_ars": 878000.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "zone": "Botánico y Plaza Italia"
  },
  "ml:MLA4003708278": {
   "first_seen": "2026-10-18T16:24:24+00:00",
@@ -8491,39 +8455,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4017952658-exelente-3-ambientes-en-recoleta-_JM"
  },
  "ml:MLA4018125852": {
-  "cochera": false,
   "first_seen": "2026-10-18T16:28:37+00:00",
-  "listing": {
-   "address": "Dorrego 2400 - 2700, Las Cañitas, Capital Federal",
-   "ambientes": 1,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 200000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4018125852",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_669666-MLA116993115658_102026-O.webp"
-   ],
-   "lat": -34.5743552,
-   "lon": -58.4334622,
-   "m2_cubiertos": 38.0,
-   "price": 700000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Hermoso Monoambiente En Las Cañitas - Super Luminoso - Excelente Ubicación",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4018125852-hermoso-monoambiente-en-las-canitas-super-luminoso-excelente-ubicacion-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": true,
-  "reasons": [],
-  "score": 52,
-  "total_ars": 900000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4018125852-hermoso-monoambiente-en-las-canitas-super-luminoso-excelente-ubicacion-_JM"
  },
  "ml:MLA4018357524": {
   "first_seen": "2026-10-19T01:51:07+00:00",
@@ -8882,6 +8819,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4031964824-departamentos-2-dorcdep-alquiler-_JM"
  },
  "ml:MLA4032010346": {
+  "antiguedad": null,
   "cochera": false,
   "first_seen": "2026-10-18T16:24:50+00:00",
   "listing": {
@@ -8912,9 +8850,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 19,
+  "score": 31,
   "total_ars": 1180000.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "zone": "Recoleta alta"
  },
  "ml:MLA4032135324": {
   "first_seen": "2026-10-19T01:09:28+00:00",
@@ -9657,6 +9595,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4056088220-alquiler-monoambiente-a-estrenar-palermo-_JM"
  },
  "ml:MLA4056088326": {
+  "antiguedad": 57,
   "cochera": false,
   "first_seen": "2026-10-19T01:15:13+00:00",
   "listing": {
@@ -9687,9 +9626,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 49,
+  "score": 38,
   "total_ars": 1076000.0,
-  "zone": "pasando Las Heras"
+  "zone": "Botánico y Plaza Italia"
  },
  "ml:MLA4056571578": {
   "first_seen": "2026-10-19T01:10:04+00:00",
@@ -10107,39 +10046,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4074500380-alquiler-dpto-3-ambientes-en-palermo-con-muebles-_JM"
  },
  "ml:MLA4075254584": {
-  "cochera": false,
   "first_seen": "2026-10-18T16:33:57+00:00",
-  "listing": {
-   "address": "Vicente López 2200, Recoleta, Capital Federal",
-   "ambientes": 1,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 224000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4075254584",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_987754-MLA119360404507_102026-O.webp"
-   ],
-   "lat": -34.5879297,
-   "lon": -58.3952607,
-   "m2_cubiertos": 38.0,
-   "price": 900000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Vicente López- Pueyrredón Alto, Gran Ambiente Dividido, Amoblado",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4075254584-vicente-lopez-pueyrredon-alto-gran-ambiente-dividido-amoblado-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 40,
-  "total_ars": 1124000.0,
-  "zone": "pasando Las Heras"
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4075254584-vicente-lopez-pueyrredon-alto-gran-ambiente-dividido-amoblado-_JM"
  },
  "ml:MLA4075525622": {
   "first_seen": "2026-10-18T16:25:07+00:00",
@@ -10175,6 +10087,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4075662508-2-ambientes-av-cordoba-facultad-de-medicina-_JM"
  },
  "ml:MLA4075662924": {
+  "antiguedad": 50,
   "cochera": false,
   "first_seen": "2026-10-19T01:22:51+00:00",
   "listing": {
@@ -10205,9 +10118,9 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 50,
+  "score": 39,
   "total_ars": 770000.0,
-  "zone": "pasando Las Heras"
+  "zone": "Recoleta alta"
  },
  "ml:MLA4075686834": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -10352,6 +10265,7 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4080156792-alquiler-departamento-de-3-ambientes-en-palermo-_JM"
  },
  "ml:MLA4080258678": {
+  "antiguedad": 40,
   "cochera": false,
   "first_seen": "2026-10-18T16:23:50+00:00",
   "listing": {
@@ -10382,9 +10296,9 @@
   "ok": true,
   "pileta": null,
   "reasons": [],
-  "score": 29,
+  "score": 28,
   "total_ars": 930000.0,
-  "zone": "entre Santa Fe y Las Heras"
+  "zone": "Recoleta baja"
  },
  "ml:MLA4080309162": {
   "first_seen": "2026-10-19T02:00:50+00:00",

@@ -45,6 +45,26 @@ def has_pileta(text):
     return True if re.search(r"\b(pileta|piscina|natatorio)\b", t) else None
 
 
+def antiguedad(text):
+    """Años del edificio según el aviso; 0 si es a estrenar, None si no lo dice."""
+    t = _norm(text)
+    if re.search(r"a estrenar|antiguedad\s*:?\s*\|?\s*(a estrenar|0\b|en construccion)", t):
+        return 0
+    m = re.search(r"antiguedad\s*:?\s*\|?\s*(\d{1,3})", t)
+    return int(m.group(1)) if m else None
+
+
+def es_monoambiente(l, ambientes_min=2):
+    if l.ambientes is not None:
+        return l.ambientes < ambientes_min
+    return bool(re.search(r"\bmono\s?ambiente\b", _norm(l.title)))
+
+
+def microzona(lat, lon, zonas):
+    kx = 0.82  # cos(latitud de Buenos Aires): los grados de longitud son más cortos
+    return min(zonas, key=lambda z: (lat - z["lat"]) ** 2 + ((lon - z["lon"]) * kx) ** 2)
+
+
 def cochera_incluida(l):
     t = _norm(l.text)
     extra = re.search(r"cochera\s+(opcional|aparte|adicional|por separado|a convenir|con costo)", t)
@@ -66,6 +86,7 @@ class Evaluation:
     balcon: Optional[bool] = None
     pileta: Optional[bool] = None
     cochera: Optional[bool] = None
+    antiguedad: Optional[int] = None
     # Falta información que solo está en la ficha del aviso.
     needs_detail: bool = False
 
@@ -97,6 +118,8 @@ def evaluate(l, cfg):
             ev.needs_detail = ev.needs_detail or not l.detailed
             ev.notes.append("no informa expensas")
 
+    if es_monoambiente(l, req.get("ambientes_min", 2)):
+        ev.reasons.append("monoambiente")
     if l.dormitorios is not None and l.dormitorios < req["dormitorios_min"]:
         ev.reasons.append(f"{l.dormitorios} dormitorios")
     elif l.dormitorios is None:
@@ -125,13 +148,11 @@ def evaluate(l, cfg):
         if sf < cfg["zona"]["santa_fe_min_m"]:
             ev.reasons.append(f"del otro lado de Santa Fe ({-sf:.0f} m)")
         else:
-            lh = geo.side_of("las_heras", l.lat, l.lon, bounded=True)
-            if lh is None:
-                ev.zone, zpts = "fuera del tramo de Las Heras", pts["zona"]["fuera_del_tramo_las_heras"]
-            elif lh > 0:
-                ev.zone, zpts = "pasando Las Heras", pts["zona"]["pasando_las_heras"]
-            else:
-                ev.zone, zpts = "entre Santa Fe y Las Heras", pts["zona"]["entre_santa_fe_y_las_heras"]
+            z = microzona(l.lat, l.lon, cfg["zona"]["microzonas"])
+            ev.zone = z["nombre"]
+            if z.get("descartar"):
+                ev.reasons.append(f"zona descartada ({z['nombre']})")
+            zpts = pts["zona"] * z["calificacion"] / 10
             ev.score += zpts
 
     if ev.reasons:
@@ -149,8 +170,13 @@ def evaluate(l, cfg):
         span = max(1, pts["m2_ideal"] - req["m2_cubiertos_min"])
         frac = min(1.0, (l.m2_cubiertos - req["m2_cubiertos_min"]) / span)
         ev.score += round(pts["superficie"] * frac)
+    ev.antiguedad = antiguedad(l.text)
+    if ev.antiguedad is not None:
+        span = max(1, pts["antiguedad_max"] - pts["antiguedad_ideal"])
+        frac = 1 - min(1.0, max(0.0, (ev.antiguedad - pts["antiguedad_ideal"]) / span))
+        ev.score += pts["antiguedad"] * frac
     if l.expensas is None:
         ev.score += pts["sin_expensas"]
-    best = max(pts["zona"].values()) + pts["pileta"] + pts["cochera"] + pts["precio"] + pts["superficie"]
+    best = pts["zona"] + pts["pileta"] + pts["cochera"] + pts["precio"] + pts["superficie"] + pts["antiguedad"]
     ev.score = max(0, min(100, round(100 * ev.score / best)))
     return ev

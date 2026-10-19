@@ -9,6 +9,8 @@ presupuesto:
 
 requisitos:
   dormitorios_min: 1
+  # Monoambientes no (aunque el aviso diga "1 dormitorio").
+  ambientes_min: 2
   m2_cubiertos_min: 38
   balcon: true
 
@@ -16,13 +18,22 @@ zona:
   barrios: [palermo, recoleta, las-canitas]
   # Tiene que estar del lado del río de Av. Santa Fe / Cabildo (metros, 0 = sobre la avenida).
   santa_fe_min_m: 0
+  # Microzonas: cada aviso toma la de centro más cercano. Calificación de 0 a 10.
+  # Con "descartar: true" una zona deja de aparecer en vez de solo sumar menos.
+  microzonas:
+    - {nombre: "Recoleta: Plaza Francia, Alvear, Posadas", lat: -34.5875, lon: -58.3900, calificacion: 8}
+    - {nombre: "Recoleta baja", lat: -34.5935, lon: -58.3985, calificacion: 4}
+    - {nombre: "Recoleta alta", lat: -34.5880, lon: -58.4045, calificacion: 7}
+    - {nombre: "Palermo Chico y Barrio Parque", lat: -34.5790, lon: -58.4045, calificacion: 10}
+    - {nombre: "Botánico y Plaza Italia", lat: -34.5835, lon: -58.4135, calificacion: 7}
+    - {nombre: "Palermo Nuevo", lat: -34.5755, lon: -58.4255, calificacion: 7}
+    - {nombre: "Las Cañitas", lat: -34.5690, lon: -58.4335, calificacion: 3}
+    - {nombre: "Luis María Campos norte", lat: -34.5645, lon: -58.4405, calificacion: 2}
 
 # Puntaje de 0 a 100 para ordenar los resultados.
 puntaje:
-  zona:
-    pasando_las_heras: 25   # Del lado del río de Av. Las Heras
-    entre_santa_fe_y_las_heras: 8
-    fuera_del_tramo_las_heras: 12  # Cañitas, Palermo Nuevo: donde Las Heras no aplica
+  # Puntos de una zona calificada 10 (proporcional a la calificación).
+  zona: 35
   pileta: 15
   cochera: 15
   # Hasta estos puntos por estar más barato que el máximo.
@@ -30,6 +41,10 @@ puntaje:
   # Hasta estos puntos por superficie (lineal entre el mínimo y m2_ideal).
   superficie: 10
   m2_ideal: 60
+  # Edificio nuevo: puntaje completo hasta antiguedad_ideal años, baja a 0 en antiguedad_max.
+  antiguedad: 12
+  antiguedad_ideal: 5
+  antiguedad_max: 40
   # Resta si el aviso no informa expensas (el total puede ser más alto).
   sin_expensas: -10
 

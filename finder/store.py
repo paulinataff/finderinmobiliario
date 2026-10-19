@@ -46,6 +46,7 @@ class Store:
             "zone": ev.zone,
             "pileta": ev.pileta,
             "cochera": ev.cochera,
+            "antiguedad": ev.antiguedad,
             "listing": {k: v for k, v in listing.to_dict().items() if k != "text"},
         }
 

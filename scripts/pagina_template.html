@@ -76,7 +76,7 @@ h1 { font-size: clamp(26px, 4vw, 38px); font-weight: 800; letter-spacing: -0.02e
     <div class="mapbox">
       <svg id="map" viewBox="0 0 600 520" role="img" aria-label="Mapa de Palermo, Recoleta y Las Cañitas con los departamentos encontrados"></svg>
       <div class="legend" id="legend"></div>
-      <p class="note">Línea gruesa: Av. Santa Fe y Cabildo. Línea punteada: Av. Las Heras. Tocá un punto para ver el aviso.</p>
+      <p class="note">Color según tu calificación de la zona: verde azulado 8 a 10, ámbar 5 a 7, violeta 0 a 4. Línea gruesa: Av. Santa Fe y Cabildo; punteada: Las Heras. Tocá un punto para ver el aviso.</p>
     </div>
     <div class="list" id="list"></div>
   </div>
@@ -84,12 +84,11 @@ h1 { font-size: clamp(26px, 4vw, 38px); font-weight: 800; letter-spacing: -0.02e
 
 <script>
 const DATA = /*DATA*/null;
-const ZONES = [
-  { key: "pasando Las Heras", label: "Pasando Las Heras", color: "--river" },
-  { key: "entre Santa Fe y Las Heras", label: "Entre Santa Fe y Las Heras", color: "--mid" },
-  { key: "fuera del tramo de Las Heras", label: "Cañitas y Palermo norte", color: "--north" },
-];
-const zoneOf = k => ZONES.find(z => z.key === k) || ZONES[2];
+// Color por calificación de la zona: 8-10 río, 5-7 ámbar, 0-4 violeta.
+const tier = r => r >= 8 ? "--river" : r >= 5 ? "--mid" : "--north";
+const ZONES = DATA.zones.map(z => ({ key: z.name, label: `${z.name} · ${z.rating}/10`, color: tier(z.rating) }))
+  .filter(z => DATA.items.some(it => it.zone === z.key));
+const zoneOf = k => ZONES.find(z => z.key === k) || { key: k, label: k, color: "--north" };
 const money = v => "$" + Math.round(v).toLocaleString("es-AR");
 let filter = null;
 
@@ -171,7 +170,8 @@ function drawList() {
       <h2><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
       <div class="addr">${esc(it.addr)}${it.pub ? " · " + esc(it.pub) : ""}</div>
       <div class="facts"><span><b>${money(it.total)}</b> total</span><span>${price}${exp}</span>
-        <span>${it.m2 ? Math.round(it.m2) + " m² cub." : ""}</span><span>${it.dorm != null ? it.dorm + " dorm." : ""}</span></div>
+        <span>${it.m2 ? Math.round(it.m2) + " m² cub." : ""}</span><span>${it.dorm != null ? it.dorm + " dorm." : ""}</span>
+        <span>${it.age == null ? "antigüedad sin dato" : it.age === 0 ? "a estrenar" : it.age + " años"}</span></div>
       <div class="tags">${tags.join("")}</div>
     </article>`;
   }).join("");
@@ -180,7 +180,7 @@ function drawList() {
 function render() { drawLegend(); drawMap(); drawList(); }
 
 document.getElementById("sub").textContent =
-  `${DATA.items.length} avisos cumplen todo: hasta $1.300.000 con expensas ($1.400.000 con cochera), 1 dormitorio o más, 38 m² cubiertos o más, balcón y del lado del río de Santa Fe.`;
+  `${DATA.items.length} avisos cumplen todo: hasta $1.300.000 con expensas ($1.400.000 con cochera), 2 ambientes o más, 38 m² cubiertos o más, balcón y del lado del río de Santa Fe. El puntaje pesa la zona según tu calificación, y suma pileta, cochera, precio, superficie y edificio nuevo.`;
 document.getElementById("stamp").innerHTML = `Actualizado ${DATA.generated}<br>${DATA.evaluated.toLocaleString("es-AR")} avisos revisados`;
 render();
 </script>

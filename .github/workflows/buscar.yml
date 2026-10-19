@@ -12,6 +12,10 @@ on:
         description: "Recorrer todos los listados"
         type: boolean
         default: false
+      test_email:
+        description: "Mandar un mail de prueba con los mejores avisos encontrados"
+        type: boolean
+        default: false
 
 concurrency:
   group: buscar
@@ -37,7 +41,9 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           ALERT_TO: ${{ secrets.ALERT_TO }}
         run: |
-          if [ "${{ github.event.schedule }}" = "0 10 * * *" ] || [ "${{ inputs.full }}" = "true" ]; then
+          if [ "${{ inputs.test_email }}" = "true" ]; then
+            python -m finder.run --test-email
+          elif [ "${{ github.event.schedule }}" = "0 10 * * *" ] || [ "${{ inputs.full }}" = "true" ]; then
             python -m finder.run --full
           else
             python -m finder.run

@@ -97,13 +97,26 @@ def run(full=False, dry_run=False, max_details=60):
     return pending
 
 
+def send_test(n=5):
+    """Manda por mail los mejores n avisos ya encontrados, para probar que las alertas llegan."""
+    items = sorted((v for v in Store().items.values() if v["ok"]), key=lambda i: -i["score"])[:n]
+    if not items:
+        log.info("Todavía no hay avisos que cumplan todo")
+        return
+    notify.send(items)
+    log.info("Mail de prueba enviado con %d avisos", len(items))
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--full", action="store_true")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--max-details", type=int, default=60)
+    p.add_argument("--test-email", action="store_true", help="manda los mejores avisos encontrados y sale")
     a = p.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+    if a.test_email:
+        return send_test()
     run(full=a.full, dry_run=a.dry_run, max_details=a.max_details)
 
 

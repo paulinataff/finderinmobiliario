@@ -5815,6 +5815,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2212527259-alquiler-2-ambientes-julian-alvarez-2800-amoblado-_JM"
  },
+ "ml:MLA2212580809": {
+  "first_seen": "2026-10-19T20:29:29+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (18 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212580809-departamento-dos-ambientes-en-recoleta-alquiler-_JM"
+ },
  "ml:MLA2212635299": {
   "antiguedad": 40,
   "cochera": false,
@@ -5850,6 +5859,23 @@
   "score": 39,
   "total_ars": 800000,
   "zone": "Recoleta alta"
+ },
+ "ml:MLA2212764613": {
+  "first_seen": "2026-10-19T20:29:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.397.020 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212764613-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2212770415": {
+  "first_seen": "2026-10-19T20:29:39+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (371 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212770415-departamento-2-ambientes-en-alquiler-palermo-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
@@ -11953,5 +11979,53 @@
    "del otro lado de Santa Fe (324 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099342092-excelente-departamento-2-amb-recoleta-_JM"
+ },
+ "ml:MLA4099517736": {
+  "first_seen": "2026-10-19T20:29:24+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099517736-departamento-palermo-_JM"
+ },
+ "ml:MLA4099572224": {
+  "first_seen": "2026-10-19T20:29:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.852.920 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099572224-departamento-triplex-en-venta-recoleta-4-ambientes-_JM"
+ },
+ "ml:MLA4099577484": {
+  "first_seen": "2026-10-19T20:29:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.630.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099577484-av-dorrego-2700-55m2-amoblado-laundry-y-pileta-_JM"
+ },
+ "ml:MLA4099578260": {
+  "first_seen": "2026-10-19T20:29:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.007.330 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099578260-venta-piso-4-ambientes-con-3-balcones-y-dependencia-recoleta-_JM"
+ },
+ "ml:MLA4099579694": {
+  "first_seen": "2026-10-19T20:29:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.648.075 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099579694-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4099628328": {
+  "first_seen": "2026-10-19T20:29:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.088.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099628328-departamento-3-amb-c-dep-balcon-al-frente-cochera-seguridad-24hs-recoleta-_JM"
  }
 }

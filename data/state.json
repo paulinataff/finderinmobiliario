@@ -12052,5 +12052,13 @@
    "total $2.084.535 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099770750-alquiler-departamento-4-ambientes-reciclado-en-recoleta-_JM"
+ },
+ "ml:MLA4099805290": {
+  "first_seen": "2026-10-19T22:32:57+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (681 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099805290-amplio-2-ambientes-en-alquiler-con-balcon-palermo-_JM"
  }
 }

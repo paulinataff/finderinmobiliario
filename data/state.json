@@ -5709,6 +5709,54 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2211397549-alquiler-departamento-2-ambientes-alto-palermo-_JM"
  },
+ "ml:MLA2211786403": {
+  "first_seen": "2026-10-19T15:11:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $6.161.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211786403-alquiler-dpto-230-m2-4-dormitorios-seguridad-24h-palermo-_JM"
+ },
+ "ml:MLA2211821585": {
+  "first_seen": "2026-10-19T15:11:14+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211821585-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2211824579": {
+  "first_seen": "2026-10-19T15:11:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.002.390 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211824579-alquiler-piso-5-ambientes-recoleta-caba-_JM"
+ },
+ "ml:MLA2211843671": {
+  "first_seen": "2026-10-19T15:11:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.850.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211843671-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2211845781": {
+  "first_seen": "2026-10-19T15:11:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.250.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211845781-departamento-en-alquiler-5-ambientes-con-cochera-en-palermo-_JM"
+ },
+ "ml:MLA2211858343": {
+  "first_seen": "2026-10-19T15:11:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.156.420 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211858343-departamento-2-amb-en-suite-en-venta-alquiler-en-exclusiva-torre-deco-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

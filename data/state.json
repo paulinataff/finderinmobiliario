@@ -5773,6 +5773,32 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2211858343-departamento-2-amb-en-suite-en-venta-alquiler-en-exclusiva-torre-deco-recoleta-_JM"
  },
+ "ml:MLA2212234721": {
+  "first_seen": "2026-10-19T17:04:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo",
+   "del otro lado de Santa Fe (155 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212234721-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2212235135": {
+  "first_seen": "2026-10-19T17:04:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.512.160 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212235135-av-dorrego-2700-55m2-amoblado-laundry-y-pileta-_JM"
+ },
+ "ml:MLA2212271963": {
+  "first_seen": "2026-10-19T17:04:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.863.140 supera el máximo",
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2212271963-departamentos-2-ambientes-alquiler-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -11754,6 +11780,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4098665546-departamento-de-3-ambientes-en-excelente-ubicacion-paraguay-1600-_JM"
  },
+ "ml:MLA4098669796": {
+  "first_seen": "2026-10-19T17:04:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.817.436 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098669796-departamento-tres-ambientes-palermo-soho-con-amenities-_JM"
+ },
  "ml:MLA4098766030": {
   "first_seen": "2026-10-19T16:03:38+00:00",
   "ok": false,
@@ -11762,5 +11796,22 @@
    "del otro lado de Santa Fe (145 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4098766030-luminoso-3-ambientes-con-balcon-cerrado-en-recoleta-_JM"
+ },
+ "ml:MLA4098774354": {
+  "first_seen": "2026-10-19T17:04:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo",
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098774354-montevideo-1500-_JM"
+ },
+ "ml:MLA4098970446": {
+  "first_seen": "2026-10-19T17:04:28+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098970446-departamento-en-alquiler-en-palermo-_JM"
  }
 }

@@ -12044,5 +12044,13 @@
    "no menciona balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099688220-dno-dir-3-ambientes-en-las-canitas-_JM"
+ },
+ "ml:MLA4099770750": {
+  "first_seen": "2026-10-19T21:59:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.084.535 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099770750-alquiler-departamento-4-ambientes-reciclado-en-recoleta-_JM"
  }
 }

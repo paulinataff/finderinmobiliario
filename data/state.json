@@ -12027,5 +12027,22 @@
    "total $3.088.200 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099628328-departamento-3-amb-c-dep-balcon-al-frente-cochera-seguridad-24hs-recoleta-_JM"
+ },
+ "ml:MLA4099649412": {
+  "first_seen": "2026-10-19T21:03:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo",
+   "del otro lado de Santa Fe (606 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099649412-departamento-alquiler-2-ambientes-amenities-balcon-palermo--_JM"
+ },
+ "ml:MLA4099688220": {
+  "first_seen": "2026-10-19T21:03:12+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099688220-dno-dir-3-ambientes-en-las-canitas-_JM"
  }
 }

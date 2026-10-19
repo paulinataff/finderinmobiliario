@@ -5749,6 +5749,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2211845781-departamento-en-alquiler-5-ambientes-con-cochera-en-palermo-_JM"
  },
+ "ml:MLA2211850151": {
+  "first_seen": "2026-10-19T16:03:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.156.420 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211850151-alquiler-departamento-2-ambientes-recoleta-_JM"
+ },
+ "ml:MLA2211853445": {
+  "first_seen": "2026-10-19T16:03:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $10.011.950 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2211853445-departamento-en-recoleta-_JM"
+ },
  "ml:MLA2211858343": {
   "first_seen": "2026-10-19T15:11:14+00:00",
   "ok": false,
@@ -11712,5 +11728,39 @@
    "total $1.995.240 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4098314324-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4098663986": {
+  "first_seen": "2026-10-19T16:03:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $10.011.950 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098663986-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4098665332": {
+  "first_seen": "2026-10-19T16:03:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.310.450 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098665332-alquiler-departamento-tres-ambientes-en-las-canitas-_JM"
+ },
+ "ml:MLA4098665546": {
+  "first_seen": "2026-10-19T16:03:42+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (317 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098665546-departamento-de-3-ambientes-en-excelente-ubicacion-paraguay-1600-_JM"
+ },
+ "ml:MLA4098766030": {
+  "first_seen": "2026-10-19T16:03:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.442.000 supera el máximo",
+   "del otro lado de Santa Fe (145 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4098766030-luminoso-3-ambientes-con-balcon-cerrado-en-recoleta-_JM"
  }
 }

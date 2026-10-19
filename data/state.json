@@ -217,39 +217,12 @@
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20612404"
  },
  "ap:20625814": {
-  "cochera": null,
   "first_seen": "2026-10-19T02:01:33+00:00",
-  "listing": {
-   "address": "Avenida Luis María Campos 500, Las Cañitas",
-   "ambientes": 3,
-   "barrio": "",
-   "cocheras": null,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 2,
-   "expensas": 170000.0,
-   "expensas_currency": "ARS",
-   "id": "20625814",
-   "images": [
-    "https://www.argenprop.com/static-content/41852602/48c2ba83-f6ee-497a-a243-6fe2a59cb348_u_small.jpg"
-   ],
-   "lat": -34.5715,
-   "lon": -58.43443,
-   "m2_cubiertos": 45.0,
-   "price": 1200000.0,
-   "publisher": "",
-   "source": "ap",
-   "title": "3 ambientes | alquiler belgrano | luminoso",
-   "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-3-ambientes--20625814"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 19,
-  "total_ars": 1370000.0,
-  "zone": "fuera del tramo de Las Heras"
+  "ok": false,
+  "reasons": [
+   "total supera el máximo sin cochera confirmada"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-3-ambientes--20625814"
  },
  "ap:20634035": {
   "first_seen": "2026-10-19T00:58:26+00:00",

@@ -89,7 +89,7 @@ def evaluate(l, cfg):
         if ev.total_ars > pres["maximo_con_cochera"] or (ev.cochera is False and ev.total_ars > cap):
             ev.reasons.append(f"total ${ev.total_ars:,.0f} supera el máximo".replace(",", "."))
         elif ev.total_ars > cap:
-            if ev.cochera is None:
+            if ev.cochera is None and not l.detailed:
                 ev.needs_detail = True
             else:
                 ev.reasons.append(f"total ${ev.total_ars:,.0f} supera el máximo".replace(",", "."))

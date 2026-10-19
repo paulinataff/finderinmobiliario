@@ -5210,6 +5210,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2209170683-alquiler-dpto-2-ambientes-amoblado-con-patio-en-las-canitas-_JM"
  },
+ "ml:MLA2209787287": {
+  "first_seen": "2026-10-19T05:07:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.393.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2209787287-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

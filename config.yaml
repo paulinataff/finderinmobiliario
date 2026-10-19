@@ -1,0 +1,38 @@
+# Criterios de búsqueda. Todo lo que está acá se puede cambiar sin tocar código.
+
+presupuesto:
+  # Siempre alquiler + expensas, en pesos.
+  maximo: 1300000
+  maximo_con_cochera: 1400000
+  # Cotización para pasar a pesos los avisos en dólares (dolarapi.com: oficial, blue, bolsa).
+  dolar: bolsa
+
+requisitos:
+  dormitorios_min: 1
+  m2_cubiertos_min: 38
+  balcon: true
+
+zona:
+  barrios: [palermo, recoleta, las-canitas]
+  # Tiene que estar del lado del río de Av. Santa Fe / Cabildo (metros, 0 = sobre la avenida).
+  santa_fe_min_m: 0
+
+# Puntaje de 0 a 100 para ordenar los resultados.
+puntaje:
+  zona:
+    pasando_las_heras: 25   # Del lado del río de Av. Las Heras
+    entre_santa_fe_y_las_heras: 8
+    fuera_del_tramo_las_heras: 12  # Cañitas, Palermo Nuevo: donde Las Heras no aplica
+  pileta: 15
+  cochera: 15
+  # Hasta estos puntos por estar más barato que el máximo.
+  precio: 15
+  # Hasta estos puntos por superficie (lineal entre el mínimo y m2_ideal).
+  superficie: 10
+  m2_ideal: 60
+  # Resta si el aviso no informa expensas (el total puede ser más alto).
+  sin_expensas: -10
+
+alertas:
+  # Solo se avisan por mail los que superan este puntaje.
+  puntaje_min: 0

@@ -23,6 +23,6 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 ## En la nube (GitHub Actions)
 
-`.github/workflows/buscar.yml` corre un chequeo cada 15 minutos y una recorrida completa por día.
+`.github/workflows/buscar.yml` corre un chequeo cada 30 minutos y una recorrida completa por día.
 Hay que cargar estos secrets en el repo: `SMTP_USER`, `SMTP_PASSWORD` (contraseña de aplicación de Gmail) y `ALERT_TO`.
 El estado (qué avisos ya se vieron) queda en `data/state.json`.

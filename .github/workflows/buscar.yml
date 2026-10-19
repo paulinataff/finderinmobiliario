@@ -2,8 +2,8 @@ name: Buscar departamentos
 
 on:
   schedule:
-    # Chequeo rápido cada 15 minutos (GitHub puede demorarlo unos minutos).
-    - cron: "*/15 * * * *"
+    # Chequeo rápido cada 30 minutos (GitHub puede demorarlo unos minutos).
+    - cron: "*/30 * * * *"
     # Recorrida completa una vez por día, 7:00 de Buenos Aires.
     - cron: "0 10 * * *"
   workflow_dispatch:

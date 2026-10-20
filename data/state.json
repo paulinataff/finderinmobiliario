@@ -12077,5 +12077,13 @@
    "no menciona balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099806328-excelente-departamento-2-ambientes-en-excelente-en-muy-buena-ubicacion-en-recoleta-_JM"
+ },
+ "ml:MLA4099906096": {
+  "first_seen": "2026-10-20T00:42:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.415.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4099906096-departamento-en-recoleta-_JM"
  }
 }

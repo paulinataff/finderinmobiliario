@@ -6175,6 +6175,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2215990073-alquiler-temporal-2-amb-palermo-paraguay-3700-_JM"
  },
+ "ml:MLA2216000463": {
+  "first_seen": "2026-10-20T16:05:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $6.171.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2216000463-departamento-de-5-amb-seguridad-24-hs-cochera-_JM"
+ },
+ "ml:MLA2216012711": {
+  "first_seen": "2026-10-20T16:06:02+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2216012711-departamento-en-recoleta-amoblado-y-equipado-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -12983,5 +12999,30 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4103211630-2-ambientes-en-alquiler-palermo-_JM"
+ },
+ "ml:MLA4103450402": {
+  "first_seen": "2026-10-20T16:05:56+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (133 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103450402-depto-tipo-duplex-excelente-ubicacion-de-caba-_JM"
+ },
+ "ml:MLA4103466540": {
+  "first_seen": "2026-10-20T16:05:56+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103466540-departamento-en-alquiler-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA4103490888": {
+  "first_seen": "2026-10-20T16:05:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103490888-departamento-en-palermo-_JM"
  }
 }

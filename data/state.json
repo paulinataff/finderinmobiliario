@@ -12085,5 +12085,23 @@
    "total $1.415.600 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4099906096-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4100051810": {
+  "first_seen": "2026-10-20T01:33:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.535.000 supera el máximo",
+   "del otro lado de Santa Fe (168 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100051810-departamento-2-ambientes-en-alquiler-luminoso-en-palermo-botanico-_JM"
+ },
+ "ml:MLA4100117808": {
+  "first_seen": "2026-10-20T01:33:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.830.000 supera el máximo",
+   "del otro lado de Santa Fe (1029 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100117808-departamento-en-palermo-_JM"
  }
 }

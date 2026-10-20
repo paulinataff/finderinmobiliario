@@ -12918,5 +12918,14 @@
    "total $1.420.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4100507352-dueno-alquila-departamento-de-2-amb-ubicado-en-las-canitas-en-torre-de-categoria-full-amenities-piscinas-gym-sum-laundry-seguridad-24-hs-_JM"
+ },
+ "ml:MLA4102445504": {
+  "first_seen": "2026-10-20T13:16:27+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (1092 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4102445504-gran-dos-ambientes-en-alquiler-apto-profesional-en-el-barrio-de-palermo-_JM"
  }
 }

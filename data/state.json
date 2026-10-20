@@ -6191,6 +6191,58 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2216012711-departamento-en-recoleta-amoblado-y-equipado-_JM"
  },
+ "ml:MLA2216316821": {
+  "antiguedad": 41,
+  "cochera": false,
+  "first_seen": "2026-10-20T17:11:54+00:00",
+  "listing": {
+   "address": "PAUNERO 2793, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 135000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2216316821",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_748358-MLA119858760943_102026-O.webp"
+   ],
+   "lat": -34.5816242,
+   "lon": -58.4086934,
+   "m2_cubiertos": 42.0,
+   "price": 895000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Paunero 2700",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2216316821-paunero-2700-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-20T17:12:06+00:00",
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 46,
+  "total_ars": 1030000.0,
+  "zone": "Palermo Chico y Barrio Parque"
+ },
+ "ml:MLA2216378217": {
+  "first_seen": "2026-10-20T17:11:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.091.800 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2216378217-alquiler-de-3-ambientes-en-palermo-chico-_JM"
+ },
+ "ml:MLA2216408159": {
+  "first_seen": "2026-10-20T17:11:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2216408159-departamento-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -13000,6 +13052,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4103211630-2-ambientes-en-alquiler-palermo-_JM"
  },
+ "ml:MLA4103421658": {
+  "first_seen": "2026-10-20T17:11:58+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103421658-las-canitas-2-ambientes-premium-dueno-directo-listo-para-entrar-el-precio-incluye-las-expensas-e-internet-un-lugar-unico-a-metros-de-libertador-y-los-parques-barrio-hiper-seguro--_JM"
+ },
  "ml:MLA4103450402": {
   "first_seen": "2026-10-20T16:05:56+00:00",
   "ok": false,
@@ -13024,5 +13084,41 @@
    "total $2.000.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4103490888-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4103495940": {
+  "antiguedad": 40,
+  "cochera": false,
+  "first_seen": "2026-10-20T17:11:51+00:00",
+  "listing": {
+   "address": "Julián Álvarez 2700, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 160000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4103495940",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_730513-MLA118215119444_102026-O.webp"
+   ],
+   "lat": -34.5851212,
+   "lon": -58.4125557,
+   "m2_cubiertos": 40.0,
+   "price": 1100000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Alquiler Depto. 2 Amb. Julián Álvarez 2700 - Palermo",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4103495940-alquiler-depto-2-amb-julian-alvarez-2700-palermo-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-20T17:12:06+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 27,
+  "total_ars": 1260000.0,
+  "zone": "Botánico y Plaza Italia"
  }
 }

@@ -12927,5 +12927,37 @@
    "del otro lado de Santa Fe (1092 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4102445504-gran-dos-ambientes-en-alquiler-apto-profesional-en-el-barrio-de-palermo-_JM"
+ },
+ "ml:MLA4102447578": {
+  "first_seen": "2026-10-20T14:11:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.200.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4102447578-alquiler-semipiso-de-4-ambientes-con-dependencia-de-servicio-importante-patio-propio-y-cochera-fija-av-coronel-diaz-alto-palermo-_JM"
+ },
+ "ml:MLA4102992018": {
+  "first_seen": "2026-10-20T14:11:13+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4102992018-a-estrenar-monoambiente-en-juan-b-justo-al-1500-contrafrente-balcon-todo-sol-_JM"
+ },
+ "ml:MLA4103017620": {
+  "first_seen": "2026-10-20T14:11:13+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103017620-a-estrenar-monoambiente-en-juan-b-justo-al-1500-contrafrente-balcon-todo-sol-_JM"
+ },
+ "ml:MLA4103020428": {
+  "first_seen": "2026-10-20T14:11:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.392.620 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103020428-palermpo-alquiler-tres-ambientes-con-amenities-seguridad-24hs-dos-cocheras-_JM"
  }
 }

@@ -13120,5 +13120,15 @@
   "score": 27,
   "total_ars": 1260000.0,
   "zone": "Botánico y Plaza Italia"
+ },
+ "ml:MLA4103940146": {
+  "first_seen": "2026-10-20T18:01:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.320.000 supera el máximo",
+   "no menciona balcón",
+   "del otro lado de Santa Fe (124 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103940146-3-amb-en-zona-inmejorable-coc-indep-lavadero-_JM"
  }
 }

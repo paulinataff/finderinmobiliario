@@ -6284,6 +6284,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2217061717-departamento-2-ambientes-_JM"
  },
+ "ml:MLA2217174723": {
+  "first_seen": "2026-10-20T23:58:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.310.000 supera el máximo",
+   "del otro lado de Santa Fe (145 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2217174723-dueno-alquila-a-dos-cuadras-de-alto-palermo-y-subte-d-una-del-boulevard-de-charcas-y-dos-de-plaza-guadalupe-_JM"
+ },
  "ml:MLA2217231677": {
   "first_seen": "2026-10-20T21:29:15+00:00",
   "ok": false,
@@ -13311,5 +13320,14 @@
    "del otro lado de Santa Fe (962 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4104967478-departamento-2-alquiler-almagro-_JM"
+ },
+ "ml:MLA4104975278": {
+  "first_seen": "2026-10-20T23:58:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.580.000 supera el máximo",
+   "del otro lado de Santa Fe (1269 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4104975278-departamento-en-palermo-en-piso-alto-super-luminoso-_JM"
  }
 }

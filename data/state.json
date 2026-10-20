@@ -12127,5 +12127,13 @@
    "del otro lado de Santa Fe (594 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4100249186-alquiler-depto-2-ambientes-en-recoleta-con-balcon-_JM"
+ },
+ "ml:MLA4100496598": {
+  "first_seen": "2026-10-20T04:04:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $6.176.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100496598-departamento-en-alquiler-en-recoleta-_JM"
  }
 }

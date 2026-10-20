@@ -5886,6 +5886,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2212988537-montevideo-1500-_JM"
  },
+ "ml:MLA2213071273": {
+  "first_seen": "2026-10-20T02:27:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.007.330 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2213071273-alquiler-4-amb-cbalcon-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -12095,6 +12103,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4100051810-departamento-2-ambientes-en-alquiler-luminoso-en-palermo-botanico-_JM"
  },
+ "ml:MLA4100052118": {
+  "first_seen": "2026-10-20T02:27:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.530.870 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100052118-2-ambientes-con-balcon-palermo-chico-con-pileta-y-sum-_JM"
+ },
  "ml:MLA4100117808": {
   "first_seen": "2026-10-20T01:33:31+00:00",
   "ok": false,
@@ -12103,5 +12119,13 @@
    "del otro lado de Santa Fe (1029 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4100117808-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4100249186": {
+  "first_seen": "2026-10-20T02:27:49+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (594 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100249186-alquiler-depto-2-ambientes-en-recoleta-con-balcon-_JM"
  }
 }

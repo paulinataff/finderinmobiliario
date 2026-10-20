@@ -6167,6 +6167,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2213071273-alquiler-4-amb-cbalcon-recoleta-_JM"
  },
+ "ml:MLA2215990073": {
+  "first_seen": "2026-10-20T15:07:33+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2215990073-alquiler-temporal-2-amb-palermo-paraguay-3700-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -12936,6 +12944,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4102447578-alquiler-semipiso-de-4-ambientes-con-dependencia-de-servicio-importante-patio-propio-y-cochera-fija-av-coronel-diaz-alto-palermo-_JM"
  },
+ "ml:MLA4102449032": {
+  "first_seen": "2026-10-20T15:07:38+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4102449032-alquiler-departamento-3-ambientes-ideal-para-estudiantes-cerca-del-alto-palermo-_JM"
+ },
  "ml:MLA4102992018": {
   "first_seen": "2026-10-20T14:11:13+00:00",
   "ok": false,
@@ -12959,5 +12975,13 @@
    "total $3.392.620 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4103020428-palermpo-alquiler-tres-ambientes-con-amenities-seguridad-24hs-dos-cocheras-_JM"
+ },
+ "ml:MLA4103211630": {
+  "first_seen": "2026-10-20T15:07:33+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103211630-2-ambientes-en-alquiler-palermo-_JM"
  }
 }

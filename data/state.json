@@ -6267,6 +6267,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2216795933-alquiler-3-ambientes-en-palermo-_JM"
  },
+ "ml:MLA2217061717": {
+  "first_seen": "2026-10-20T20:35:03+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (952 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2217061717-departamento-2-ambientes-_JM"
+ },
+ "ml:MLA2217237695": {
+  "first_seen": "2026-10-20T20:35:00+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (426 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2217237695-departamento-en-thames-2200-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -13187,5 +13205,21 @@
    "del otro lado de Santa Fe (580 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4104404252-departamento-de-2-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4104582050": {
+  "first_seen": "2026-10-20T20:35:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.942.720 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4104582050-alquiler-piso-4-ambientes-dos-cocheras-recoleta-_JM"
+ },
+ "ml:MLA4104588700": {
+  "first_seen": "2026-10-20T20:34:55+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.323.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4104588700-alquiler-dpto-4-ambientes-recoleta-_JM"
  }
 }

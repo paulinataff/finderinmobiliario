@@ -12128,6 +12128,30 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4100249186-alquiler-depto-2-ambientes-en-recoleta-con-balcon-_JM"
  },
+ "ml:MLA4100466856": {
+  "first_seen": "2026-10-20T06:01:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.770.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100466856-departamento-en-alquiler-en-palermo-de-4-ambientes-con-dependencia-y-cochera-fija-_JM"
+ },
+ "ml:MLA4100466920": {
+  "first_seen": "2026-10-20T06:01:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.169.070 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100466920-departamento-en-alquiler-4-ambientes-con-dependencia-y-cochera-fija-palermo-_JM"
+ },
+ "ml:MLA4100466926": {
+  "first_seen": "2026-10-20T06:01:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.007.330 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100466926-departamento-de-2-ambientes-en-alquiler-en-recoleta-con-terraza-y-cochera-_JM"
+ },
  "ml:MLA4100488886": {
   "first_seen": "2026-10-20T05:03:21+00:00",
   "ok": false,
@@ -12151,5 +12175,14 @@
    "total $3.397.020 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4100502126-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4100505722": {
+  "first_seen": "2026-10-20T06:01:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.797.324 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100505722-av-alvear-av-callao-muy-lindo-2-ambientes-con-patio-recoleta-_JM"
  }
 }

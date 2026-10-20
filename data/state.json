@@ -12184,5 +12184,13 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4100505722-av-alvear-av-callao-muy-lindo-2-ambientes-con-patio-recoleta-_JM"
+ },
+ "ml:MLA4100507352": {
+  "first_seen": "2026-10-20T07:17:08+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.420.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4100507352-dueno-alquila-departamento-de-2-amb-ubicado-en-las-canitas-en-torre-de-categoria-full-amenities-piscinas-gym-sum-laundry-seguridad-24-hs-_JM"
  }
 }

@@ -6243,6 +6243,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2216408159-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2216726775": {
+  "first_seen": "2026-10-20T19:11:11+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2216726775-monoambiente-muy-luminoso-con-vestidor-separado-_JM"
+ },
+ "ml:MLA2216795933": {
+  "first_seen": "2026-10-20T19:11:20+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (895 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2216795933-alquiler-3-ambientes-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -13060,6 +13076,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4103421658-las-canitas-2-ambientes-premium-dueno-directo-listo-para-entrar-el-precio-incluye-las-expensas-e-internet-un-lugar-unico-a-metros-de-libertador-y-los-parques-barrio-hiper-seguro--_JM"
  },
+ "ml:MLA4103428342": {
+  "first_seen": "2026-10-20T19:11:11+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.090.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103428342-palermo-3-ambientes-amoblado-paquete-todo-incluido-_JM"
+ },
  "ml:MLA4103450402": {
   "first_seen": "2026-10-20T16:05:56+00:00",
   "ok": false,
@@ -13120,6 +13144,14 @@
   "score": 27,
   "total_ars": 1260000.0,
   "zone": "Botánico y Plaza Italia"
+ },
+ "ml:MLA4103898452": {
+  "first_seen": "2026-10-20T19:11:15+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (427 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4103898452-alquiler-2-amb-con-dep-luminoso-con-balcon-_JM"
  },
  "ml:MLA4103940146": {
   "first_seen": "2026-10-20T18:01:01+00:00",

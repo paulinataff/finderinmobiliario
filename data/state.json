@@ -6688,6 +6688,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2218691647-alquiler-departamento-2-ambientesloft-recoleta-alvear-palace-_JM"
  },
+ "ml:MLA2220159395": {
+  "first_seen": "2026-10-21T14:10:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.864.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220159395-departamento-en-alquiler-mirabilia-humboldt-_JM"
+ },
  "ml:MLA2220179027": {
   "first_seen": "2026-10-21T13:18:40+00:00",
   "ok": false,
@@ -14026,6 +14034,14 @@
    "total $1.382.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4105734990-dpto-2-amb-2do-piso-en-torre-de-categoria-con-amenities-y-vigilancia-24-hs-_JM"
+ },
+ "ml:MLA4105740828": {
+  "first_seen": "2026-10-21T14:11:04+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (305 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4105740828-se-alquila-dpto-3-amb-al-frnte-con-balcon-en-palermo-_JM"
  },
  "ml:MLA4107572374": {
   "first_seen": "2026-10-21T13:18:30+00:00",

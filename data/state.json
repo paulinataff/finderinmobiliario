@@ -14149,5 +14149,21 @@
    "total $1.735.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4109113526-alquiler-semipiso-3-amb-con-dep-y-balcon-recoleta-_JM"
+ },
+ "ml:MLA4109278504": {
+  "first_seen": "2026-10-21T18:00:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $6.502.020 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4109278504-edificio-frances-construccion-arq-pages-_JM"
+ },
+ "ml:MLA4109292032": {
+  "first_seen": "2026-10-21T18:00:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.857.720 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4109292032-depto-2-amb-listo-para-entregar-en-palermo-hollywood-sobre-costa-rica-5400-_JM"
  }
 }

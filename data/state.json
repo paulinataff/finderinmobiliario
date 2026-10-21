@@ -6788,6 +6788,23 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2221154393-departamento-palermo-_JM"
  },
+ "ml:MLA2221538365": {
+  "first_seen": "2026-10-21T19:11:52+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1397 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221538365-departamento-palermo-_JM"
+ },
+ "ml:MLA2221588869": {
+  "first_seen": "2026-10-21T19:11:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221588869-excelente-5-ambientes-dependencia-con-balcon-y-vista-verde-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14165,5 +14182,13 @@
    "total $1.857.720 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4109292032-depto-2-amb-listo-para-entregar-en-palermo-hollywood-sobre-costa-rica-5400-_JM"
+ },
+ "ml:MLA4109729568": {
+  "first_seen": "2026-10-21T19:11:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.723.560 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4109729568-alquiler-departamento-2-ambientes-palermo-diseno-luz-y-amenities-premium-_JM"
  }
 }

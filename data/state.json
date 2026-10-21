@@ -6805,6 +6805,62 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2221588869-excelente-5-ambientes-dependencia-con-balcon-y-vista-verde-en-recoleta-_JM"
  },
+ "ml:MLA2221888675": {
+  "first_seen": "2026-10-21T20:01:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.167.760 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221888675-alquiler-palermo-chico-3-ambiente-escritoriodepen-_JM"
+ },
+ "ml:MLA2221930885": {
+  "first_seen": "2026-10-21T20:01:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.251.640 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221930885-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2221936793": {
+  "first_seen": "2026-10-21T20:01:23+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.858.080 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221936793-pereyra-lucena-al-2500-3-ambientes-_JM"
+ },
+ "ml:MLA2221943115": {
+  "first_seen": "2026-10-21T20:01:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.858.080 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221943115-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2221948809": {
+  "first_seen": "2026-10-21T20:01:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.632.280 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221948809-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2221949471": {
+  "first_seen": "2026-10-21T20:01:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.167.760 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221949471-cuatro-ambientes-palermo-frente-a-plaza-las-heras-_JM"
+ },
+ "ml:MLA2222032669": {
+  "first_seen": "2026-10-21T20:01:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.871.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2222032669-alquiler-con-muebles-departamento-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14190,5 +14246,22 @@
    "total $1.723.560 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4109729568-alquiler-departamento-2-ambientes-palermo-diseno-luz-y-amenities-premium-_JM"
+ },
+ "ml:MLA4109766612": {
+  "first_seen": "2026-10-21T20:01:23+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (19 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4109766612-alquiler-departamento-3-amb-recoleta-facultades-_JM"
+ },
+ "ml:MLA4109874414": {
+  "first_seen": "2026-10-21T20:01:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.167.760 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4109874414-cuatro-ambientes-palermo-frente-a-plaza-las-heras-_JM"
  }
 }

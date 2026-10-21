@@ -6370,6 +6370,39 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2217344939-alquiler-departamento-2-ambientes-en-recoleta-_JM"
  },
+ "ml:MLA2218537913": {
+  "first_seen": "2026-10-21T06:01:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.168.320 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2218537913-departamento-en-alquiler-3-ambientes-dr-thomas-de-anchorena-1500-recoleta-buenos-aires-_JM"
+ },
+ "ml:MLA2218601431": {
+  "first_seen": "2026-10-21T06:01:42+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (542 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2218601431-departamento-palermo-_JM"
+ },
+ "ml:MLA2218691627": {
+  "first_seen": "2026-10-21T06:01:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.013.440 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2218691627-departamento-2-ambientes-en-alquiler-amueblado-av-libertador-palermo-_JM"
+ },
+ "ml:MLA2218691647": {
+  "first_seen": "2026-10-21T06:01:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.097.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2218691647-alquiler-departamento-2-ambientesloft-recoleta-alvear-palace-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -13390,5 +13423,13 @@
    "total $3.407.360 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4105676302-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4105679870": {
+  "first_seen": "2026-10-21T06:01:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.703.680 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4105679870-departamento-en-recoleta-_JM"
  }
 }

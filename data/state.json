@@ -6293,6 +6293,42 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2217174723-dueno-alquila-a-dos-cuadras-de-alto-palermo-y-subte-d-una-del-boulevard-de-charcas-y-dos-de-plaza-guadalupe-_JM"
  },
+ "ml:MLA2217177201": {
+  "antiguedad": 40,
+  "cochera": false,
+  "first_seen": "2026-10-21T05:03:48+00:00",
+  "listing": {
+   "address": "Arce 500, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 250000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2217177201",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_850319-MLA119892414511_102026-O.webp"
+   ],
+   "lat": -34.5701647,
+   "lon": -58.4323987,
+   "m2_cubiertos": 47.0,
+   "price": 900000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Semipiso En Palermo 2 Amb Solo 2 Dptos Por Piso, Camaras De Seguridad, Doble Ventilacion, Patio Lavadero, Muy Luminoso",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2217177201-semipiso-en-palermo-2-amb-solo-2-dptos-por-piso-camaras-de-seguridad-doble-ventilacion-patio-lavadero-muy-luminoso-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-21T05:03:49+00:00",
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 20,
+  "total_ars": 1150000.0,
+  "zone": "Las Cañitas"
+ },
  "ml:MLA2217231677": {
   "first_seen": "2026-10-20T21:29:15+00:00",
   "ok": false,
@@ -13346,5 +13382,13 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4105466502-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4105676302": {
+  "first_seen": "2026-10-21T05:03:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.407.360 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4105676302-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  }
 }

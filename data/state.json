@@ -6688,6 +6688,40 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2218691647-alquiler-departamento-2-ambientesloft-recoleta-alvear-palace-_JM"
  },
+ "ml:MLA2220179027": {
+  "first_seen": "2026-10-21T13:18:40+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220179027-alquiler-dpto-2-amb-recoleta-exc-ubicacion-_JM"
+ },
+ "ml:MLA2220180693": {
+  "first_seen": "2026-10-21T13:18:30+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.713.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220180693-alquiler-departamento-2-ambientes-recoleta-cochera-_JM"
+ },
+ "ml:MLA2220499573": {
+  "first_seen": "2026-10-21T13:18:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.311.600 supera el máximo",
+   "del otro lado de Santa Fe (510 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220499573-alq-temporario-impec-duplex-balcon-con-vista-abierta-todo-luz-y-sol-amob-y-equip-unico-oport-_JM"
+ },
+ "ml:MLA2220499579": {
+  "first_seen": "2026-10-21T13:18:19+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220499579-alq-temporario-balcon-terraza-cvista-abierta-tluz-y-sol-amob-y-equip-amenities-unico-oport-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -13992,5 +14026,21 @@
    "total $1.382.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4105734990-dpto-2-amb-2do-piso-en-torre-de-categoria-con-amenities-y-vigilancia-24-hs-_JM"
+ },
+ "ml:MLA4107572374": {
+  "first_seen": "2026-10-21T13:18:30+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4107572374-alquiler-de-departamento-en-recoleta-de-3-dormitorios-_JM"
+ },
+ "ml:MLA4107617022": {
+  "first_seen": "2026-10-21T13:18:37+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4107617022-alquiler-anual-departamento-3-ambientes-en-recoleta-_JM"
  }
 }

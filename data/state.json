@@ -13329,5 +13329,22 @@
    "del otro lado de Santa Fe (1269 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4104975278-departamento-en-palermo-en-piso-alto-super-luminoso-_JM"
+ },
+ "ml:MLA4105466426": {
+  "first_seen": "2026-10-21T04:04:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.013.440 supera el máximo",
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4105466426-departamento-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA4105466502": {
+  "first_seen": "2026-10-21T04:04:38+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4105466502-departamento-en-alquiler-en-recoleta-_JM"
  }
 }

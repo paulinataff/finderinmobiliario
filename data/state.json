@@ -6730,6 +6730,39 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2220499579-alq-temporario-balcon-terraza-cvista-abierta-tluz-y-sol-amob-y-equip-amenities-unico-oport-_JM"
  },
+ "ml:MLA2220510179": {
+  "first_seen": "2026-10-21T15:06:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.390.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220510179-alquiler-departamento-2-ambientes-con-balcon-y-baulera-recoleta-caba-_JM"
+ },
+ "ml:MLA2220511107": {
+  "first_seen": "2026-10-21T15:06:15+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220511107-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2220517955": {
+  "first_seen": "2026-10-21T15:06:11+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220517955-2-ambientes-cbalcon-amenities-top-torre-aisenson-_JM"
+ },
+ "ml:MLA2220826895": {
+  "first_seen": "2026-10-21T15:06:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2220826895-excelente-5-ambientes-dependencia-con-balcon-y-vista-verde-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14058,5 +14091,13 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4107617022-alquiler-anual-departamento-3-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4108368576": {
+  "first_seen": "2026-10-21T15:06:15+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (877 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4108368576-alquiler-sin-muebles-2-ambientes-cbalcon-palermo-_JM"
  }
 }

@@ -6771,6 +6771,23 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2220999787-departamento-de-2-ambientes-en-alquiler-en-recoleta-_JM"
  },
+ "ml:MLA2221091723": {
+  "first_seen": "2026-10-21T17:05:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.411.075 supera el máximo",
+   "0 dormitorios"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221091723-beruti-2800-recoleta-alquiler-2amb-pileta-y-parrilla-piso-alto-_JM"
+ },
+ "ml:MLA2221154393": {
+  "first_seen": "2026-10-21T17:05:58+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (190 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221154393-departamento-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14124,5 +14141,13 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4108392068-monoambiente-pb-a-la-calle-en-recoleta-_JM"
+ },
+ "ml:MLA4109113526": {
+  "first_seen": "2026-10-21T17:05:46+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.735.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4109113526-alquiler-semipiso-3-amb-con-dep-y-balcon-recoleta-_JM"
  }
 }

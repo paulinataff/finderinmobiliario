@@ -6829,6 +6829,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2221936793-pereyra-lucena-al-2500-3-ambientes-_JM"
  },
+ "ml:MLA2221937793": {
+  "first_seen": "2026-10-21T21:02:05+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221937793-departamento-3-ambientes-en-alquiler-palermo-_JM"
+ },
+ "ml:MLA2221938741": {
+  "first_seen": "2026-10-21T21:02:05+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.884.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2221938741-alquiler-con-muebles-departamento-recoleta-_JM"
+ },
  "ml:MLA2221943115": {
   "first_seen": "2026-10-21T20:01:19+00:00",
   "ok": false,
@@ -14263,5 +14279,13 @@
    "total $2.167.760 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4109874414-cuatro-ambientes-palermo-frente-a-plaza-las-heras-_JM"
+ },
+ "ml:MLA4110123820": {
+  "first_seen": "2026-10-21T21:02:05+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.796.840 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110123820-3-ambientes-i-alquiler-i-palermo-nuevo-_JM"
  }
 }

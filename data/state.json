@@ -6877,6 +6877,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2222032669-alquiler-con-muebles-departamento-recoleta-_JM"
  },
+ "ml:MLA2222184603": {
+  "first_seen": "2026-10-21T22:02:24+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "sin balcón",
+   "del otro lado de Santa Fe (952 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2222184603-departamento-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14287,5 +14297,21 @@
    "total $2.796.840 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4110123820-3-ambientes-i-alquiler-i-palermo-nuevo-_JM"
+ },
+ "ml:MLA4110191448": {
+  "first_seen": "2026-10-21T22:02:30+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.337.660 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110191448-alquiler-2-ambientes-amoblado-en-palermo-_JM"
+ },
+ "ml:MLA4110374748": {
+  "first_seen": "2026-10-21T22:02:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.972.160 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110374748-piso-en-rodriguez-pena-y-alvear-_JM"
  }
 }

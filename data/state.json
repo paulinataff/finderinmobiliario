@@ -583,6 +583,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-1929400305-departamento-2-ambientes-en-alquiler-amueblado-av-libertador-palermo-_JM"
  },
+ "ml:MLA1930018991": {
+  "first_seen": "2026-10-21T10:31:07+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (494 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-1930018991-2-ambientes-alquiler-facultad-de-medicina-recoleta-_JM"
+ },
  "ml:MLA1930149333": {
   "first_seen": "2026-10-19T01:20:29+00:00",
   "ok": false,
@@ -829,6 +838,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-1957783319-monoambiente-dividido-a-estrenar-contrafrente-con-balcon-opcional-cochera-fija-y-cubierta-_JM"
  },
+ "ml:MLA1957783489": {
+  "first_seen": "2026-10-21T10:30:42+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1393 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-1957783489-departamento-2-ambientes-a-estrenar-al-contrafrente-con-balcon-opcional-cochera-fija-y-cubierta-_JM"
+ },
  "ml:MLA1960841029": {
   "first_seen": "2026-10-19T01:54:03+00:00",
   "ok": false,
@@ -1044,6 +1061,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-1995834729-departamento-semipiso-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA1997173087": {
+  "first_seen": "2026-10-21T10:31:17+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente",
+   "no menciona balcón",
+   "del otro lado de Santa Fe (735 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-1997173087-departamento-de-2-ambientes-en-alquiler-en-palermo-_JM"
+ },
  "ml:MLA1999079327": {
   "first_seen": "2026-10-18T16:22:42+00:00",
   "ok": false,
@@ -1117,6 +1144,14 @@
    "total $1.600.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2014525457-departamento-cabrera-3856-3-ambientes-alquiler-moderno-palermo-sum-pileta-laundry-luminoso-_JM"
+ },
+ "ml:MLA2018793667": {
+  "first_seen": "2026-10-21T10:30:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.580.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2018793667-depto-3-ambientes-balcon-excelente-ubicacion-_JM"
  },
  "ml:MLA2018883515": {
   "first_seen": "2026-10-19T01:08:50+00:00",
@@ -1352,6 +1387,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2041854103-departamento-3-ambientes-en-alquiler-con-vista-al-rio-y-cochera-en-quartier-oro-_JM"
  },
+ "ml:MLA2041858047": {
+  "first_seen": "2026-10-21T10:31:24+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "sin balcón",
+   "del otro lado de Santa Fe (1369 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2041858047-ventaalquiler-duplex-2-ambientes-en-palermo-_JM"
+ },
  "ml:MLA2044229069": {
   "first_seen": "2026-10-19T01:54:38+00:00",
   "ok": false,
@@ -1494,6 +1539,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2057946145-en-el-corazon-de-recoleta-con-gran-balcon-aterrazado-_JM"
  },
+ "ml:MLA2058034599": {
+  "first_seen": "2026-10-21T10:27:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.330.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2058034599-alquiler-recoleta-4-amb-con-balcon-_JM"
+ },
  "ml:MLA2058037651": {
   "first_seen": "2026-10-19T01:08:57+00:00",
   "ok": false,
@@ -1509,6 +1562,14 @@
    "total $23.137.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2058050641-alquiler-torre-le-parc-4-ambientes-3-cocheras-400-metros-seguridad-y-amenities-_JM"
+ },
+ "ml:MLA2058114719": {
+  "first_seen": "2026-10-21T10:27:08+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.780.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2058114719-alquiler-3-ambientes-amoblado-en-palermo-frente-al-botanico-_JM"
  },
  "ml:MLA2058182929": {
   "first_seen": "2026-10-18T16:17:49+00:00",
@@ -1564,6 +1625,15 @@
   "total_ars": 1070000.0,
   "zone": "Recoleta: Plaza Francia, Alvear, Posadas"
  },
+ "ml:MLA2060901151": {
+  "first_seen": "2026-10-21T10:30:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.360.000 supera el máximo",
+   "del otro lado de Santa Fe (156 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2060901151-departamento-en-darregueyra-2400-piso-7-_JM"
+ },
  "ml:MLA2061145335": {
   "first_seen": "2026-10-19T01:50:31+00:00",
   "ok": false,
@@ -1611,6 +1681,14 @@
    "total $2.159.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2063355059-alquiler-residencial-de-4-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA2063528953": {
+  "first_seen": "2026-10-21T10:27:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.460.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2063528953-departamento-en-alquiler-en-las-canitas-gorostiaga-al-1500-balcon-y-luminoso-_JM"
  },
  "ml:MLA2063538495": {
   "first_seen": "2026-10-19T01:06:55+00:00",
@@ -1676,6 +1754,15 @@
    "total $1.619.625 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2064019521-departamento-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA2065212541": {
+  "first_seen": "2026-10-21T10:30:46+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.007.000 supera el máximo",
+   "del otro lado de Santa Fe (233 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2065212541-departamento-en-recoleta-_JM"
  },
  "ml:MLA2065558973": {
   "first_seen": "2026-10-19T01:18:08+00:00",
@@ -2110,6 +2197,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2088127679-departamento-4-amb-mas-dependencia-mas-cocera-mas-balcon-terraza-piso-13-orientacion-norte-_JM"
  },
+ "ml:MLA2088262419": {
+  "first_seen": "2026-10-21T10:27:49+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (207 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2088262419-alquiler-2-ambientes-duplex-palermo-excelente-_JM"
+ },
  "ml:MLA2088667965": {
   "first_seen": "2026-10-19T01:10:48+00:00",
   "ok": false,
@@ -2125,6 +2220,15 @@
    "total $2.776.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2088668195-las-plazas-departamento-3-amb-c-balcon-y-espectaculares-vistas-cochera-fija-_JM"
+ },
+ "ml:MLA2090328927": {
+  "first_seen": "2026-10-21T10:29:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2090328927-venta-alquiler-departamento-tres-ambientes-con-dependencia-apto-profesional-coronel-diaz-palermo-_JM"
  },
  "ml:MLA2090328979": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -2351,6 +2455,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2093912461-santa-fe-y-libertad-tres-ambientes-impecable-con-muebles-_JM"
  },
+ "ml:MLA2094389367": {
+  "first_seen": "2026-10-21T10:27:13+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (845 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2094389367-departamento-de-2-ambientes-en-palermo-muy-luminoso-_JM"
+ },
  "ml:MLA2094492693": {
   "first_seen": "2026-10-19T01:10:26+00:00",
   "ok": false,
@@ -2374,6 +2487,15 @@
    "total $1.804.725 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2094494451-departamento-increible-en-alquiler-amplio-4-ambientes-muy-luminoso-y-amoblado-caba-recoleta-_JM"
+ },
+ "ml:MLA2094526475": {
+  "first_seen": "2026-10-21T10:29:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo",
+   "del otro lado de Santa Fe (453 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2094526475-departamento-en-palermo-_JM"
  },
  "ml:MLA2094532913": {
   "first_seen": "2026-10-19T01:08:50+00:00",
@@ -2456,6 +2578,14 @@
    "total $2.622.250 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2097709597-departamentos-3-ambientes-alquiler-_JM"
+ },
+ "ml:MLA2097917235": {
+  "first_seen": "2026-10-21T10:28:38+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (161 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2097917235-alquiler-departamento-2-ambientes-recoleta-impecable-estado-_JM"
  },
  "ml:MLA2098000917": {
   "first_seen": "2026-10-19T01:19:07+00:00",
@@ -2774,6 +2904,42 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2112065121-alquiler-departamento-2-ambientes-luminoso-recoleta-_JM"
  },
+ "ml:MLA2112147665": {
+  "antiguedad": 0,
+  "cochera": false,
+  "first_seen": "2026-10-21T10:30:58+00:00",
+  "listing": {
+   "address": "Vicente Lopez 1600, Recoleta, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 160000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2112147665",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_863130-MLA116497399022_092026-O.webp"
+   ],
+   "lat": -34.5925064,
+   "lon": -58.3892326,
+   "m2_cubiertos": 50.0,
+   "price": 900000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Alquiler 2 Amb Con Balcon Amoblado Luminoso Y Vista Abierta ",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2112147665-alquiler-2-amb-con-balcon-amoblado-luminoso-y-vista-abierta-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-21T10:31:47+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 53,
+  "total_ars": 1060000.0,
+  "zone": "Recoleta: Plaza Francia, Alvear, Posadas"
+ },
  "ml:MLA2113146349": {
   "first_seen": "2026-10-19T01:53:52+00:00",
   "ok": false,
@@ -2815,6 +2981,15 @@
    "del otro lado de Santa Fe (452 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2115750939-departamento-2-ambientes-en-alquiler-cerca-de-plaza-guemes-excelente-conectividad-_JM"
+ },
+ "ml:MLA2116331545": {
+  "first_seen": "2026-10-21T10:28:19+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2116331545-alquiler-dpto-3-amb-centrepiso-retiro-exc-ubic-_JM"
  },
  "ml:MLA2116331709": {
   "first_seen": "2026-10-18T16:22:13+00:00",
@@ -2910,6 +3085,15 @@
    "del otro lado de Santa Fe (1404 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2116944083-alquiler-departamento-3-ambientes-en-palermo-_JM"
+ },
+ "ml:MLA2116983759": {
+  "first_seen": "2026-10-21T10:30:16+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.310.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2116983759-alquiler-departamento-2-ambientes-en-recoleta-_JM"
  },
  "ml:MLA2117400889": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -3831,6 +4015,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2143646239-las-canitas-2-amb-amoblado-balcon-terraza-increible-_JM"
  },
+ "ml:MLA2143650103": {
+  "first_seen": "2026-10-21T10:27:19+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (839 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2143650103-departamento-en-alquiler-2-ambientes-con-pileta-_JM"
+ },
  "ml:MLA2143682657": {
   "first_seen": "2026-10-19T01:58:19+00:00",
   "ok": false,
@@ -4134,6 +4326,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2152035805-alquiler-2-ambientes-amoblado-palermo-balcon-_JM"
  },
+ "ml:MLA2152036173": {
+  "first_seen": "2026-10-21T10:28:33+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (1591 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2152036173-3-amb-luminoso-equipado-cerca-sanat-guemes-hosp-italiano-utn-uba-up-palermoalmagro-_JM"
+ },
  "ml:MLA2152261597": {
   "first_seen": "2026-10-19T01:09:22+00:00",
   "ok": false,
@@ -4291,6 +4492,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2155087063-alquiler-2-amb-palermo-amplio-luminoso-amenities-_JM"
  },
+ "ml:MLA2155204975": {
+  "first_seen": "2026-10-21T10:31:12+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (270 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2155204975-departamento-de-dos-ambientes-en-alquiler-en-palermo-_JM"
+ },
  "ml:MLA2155217853": {
   "first_seen": "2026-10-19T01:58:19+00:00",
   "ok": false,
@@ -4331,6 +4541,14 @@
    "del otro lado de Santa Fe (296 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2155612531-departamento-capital-federal-_JM"
+ },
+ "ml:MLA2155760251": {
+  "first_seen": "2026-10-21T10:30:23+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (173 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2155760251-departamento-en-alquiler-en-palermo-_JM"
  },
  "ml:MLA2155959855": {
   "first_seen": "2026-10-19T01:50:59+00:00",
@@ -4640,6 +4858,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2161548911-juncal-y-larrea-3-ambientes-c-dependencia-recoleta-capital-federal-_JM"
  },
+ "ml:MLA2161562253": {
+  "first_seen": "2026-10-21T10:31:21+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2161562253-recoleta-excelente-ubicacion-departamento-3-amb-_JM"
+ },
  "ml:MLA2161719905": {
   "first_seen": "2026-10-19T01:50:59+00:00",
   "ok": false,
@@ -4680,6 +4906,14 @@
    "total $3.076.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2161821157-departamento-en-alquiler-de-3-ambientes-en-palermo-con-amenities-full-_JM"
+ },
+ "ml:MLA2164477259": {
+  "first_seen": "2026-10-21T10:29:45+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2164477259-departamento-con-patio-cubierto-en-recoleta-super-amplio-inmejorable-ubicacion-_JM"
  },
  "ml:MLA2164530187": {
   "first_seen": "2026-10-19T01:17:29+00:00",
@@ -4789,6 +5023,16 @@
    "total $1.696.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2165330981-alquiler-palermo-departamento-2-amb-cochera-balcon-atrrazado-amoblado-_JM"
+ },
+ "ml:MLA2165343525": {
+  "first_seen": "2026-10-21T10:29:50+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (269 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2165343525-departamento-en-palermo-_JM"
  },
  "ml:MLA2165375279": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -5191,6 +5435,30 @@
    "total $3.085.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2184828843-departamentos-3-dorcdep-alquiler-_JM"
+ },
+ "ml:MLA2185077103": {
+  "first_seen": "2026-10-21T10:31:03+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1393 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2185077103-hermoso-2-ambientes-a-estrenar-al-contrafrente-con-balcon-opcional-cochera-fija-y-cubierta-_JM"
+ },
+ "ml:MLA2185080789": {
+  "first_seen": "2026-10-21T10:27:34+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (163 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2185080789-3-ambientes-al-frente-con-patio-y-balcon-_JM"
+ },
+ "ml:MLA2185282943": {
+  "first_seen": "2026-10-21T10:29:10+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1393 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2185282943-2-ambientes-a-estrenar-al-contrafrente-con-balcon-opcional-cochera-fija-y-cubierta-_JM"
  },
  "ml:MLA2185292143": {
   "first_seen": "2026-10-18T16:17:44+00:00",
@@ -5793,6 +6061,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2200576033-alquiler-dpto-4-amb-con-dep-amoblado-alto-palermo-_JM"
  },
+ "ml:MLA2200820769": {
+  "first_seen": "2026-10-21T10:27:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.340.000 supera el máximo",
+   "del otro lado de Santa Fe (381 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2200820769-departamento-de-2-ambientes-en-alquiler-en-palermo-_JM"
+ },
  "ml:MLA2200910463": {
   "first_seen": "2026-10-18T16:33:45+00:00",
   "ok": false,
@@ -5833,6 +6110,14 @@
    "del otro lado de Santa Fe (521 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2201498787-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA2201569739": {
+  "first_seen": "2026-10-21T10:31:34+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (615 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2201569739-se-alquila-luminoso-2-ambientes-en-pleno-barrio-de-palermo-cerca-del-shopping-alto-_JM"
  },
  "ml:MLA2201708751": {
   "first_seen": "2026-10-18T16:33:09+00:00",
@@ -7221,6 +7506,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3791540404-departamentos-alquiler-palermo-_JM"
  },
+ "ml:MLA3794185094": {
+  "first_seen": "2026-10-21T10:30:20+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3794185094-vista-abierta-muy-luminoso-_JM"
+ },
  "ml:MLA3794185100": {
   "first_seen": "2026-10-19T02:00:50+00:00",
   "ok": false,
@@ -7311,6 +7604,16 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3822371904-alquiler-2-ambientes-amoblado-en-recoleta-_JM"
+ },
+ "ml:MLA3823239096": {
+  "first_seen": "2026-10-21T10:27:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.324.160 supera el máximo",
+   "no menciona balcón",
+   "del otro lado de Santa Fe (338 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3823239096-super-luminoso-amoblado-_JM"
  },
  "ml:MLA3823240712": {
   "first_seen": "2026-10-19T01:14:07+00:00",
@@ -7420,6 +7723,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3853233156-departamento-para-uso-comercial-o-vivienda-_JM"
  },
+ "ml:MLA3853286826": {
+  "first_seen": "2026-10-21T10:30:53+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3853286826-departamento-2-ambientes-a-nuevo-palermo-_JM"
+ },
  "ml:MLA3853627582": {
   "first_seen": "2026-10-19T01:54:55+00:00",
   "ok": false,
@@ -7443,6 +7754,14 @@
    "total $3.875.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3853977120-alquiler-en-palermo-torre-astor-palermo-_JM"
+ },
+ "ml:MLA3853981436": {
+  "first_seen": "2026-10-21T10:29:16+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3853981436-departamento-en-recoleta-2-ambientes-con-patio-_JM"
  },
  "ml:MLA3854237004": {
   "first_seen": "2026-10-20T10:23:52+00:00",
@@ -7610,6 +7929,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3876528044-alquiler-de-2-ambientes-en-palermo-av-santa-fe-4900-_JM"
  },
+ "ml:MLA3877710448": {
+  "first_seen": "2026-10-21T10:28:27+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (922 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3877710448-departamento-palermo-_JM"
+ },
  "ml:MLA3878905920": {
   "first_seen": "2026-10-19T02:00:50+00:00",
   "ok": false,
@@ -7633,6 +7961,15 @@
    "del otro lado de Santa Fe (8 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3881210224-departamento-tres-ambientes-en-alquiler-interno-y-con-una-ubicacion-estrategica-_JM"
+ },
+ "ml:MLA3881347846": {
+  "first_seen": "2026-10-21T10:28:23+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (54 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3881347846-alquiler-depto-amoblado-con-terraza-parrilla-palermo-_JM"
  },
  "ml:MLA3881391534": {
   "first_seen": "2026-10-18T16:25:29+00:00",
@@ -8316,6 +8653,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3932109146-alquiler-duplex-de-categoria-2-suites-cochera-recoleta-_JM"
  },
+ "ml:MLA3932221098": {
+  "first_seen": "2026-10-21T10:29:05+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (156 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3932221098-departamento-en-palermo-_JM"
+ },
  "ml:MLA3932247782": {
   "first_seen": "2026-10-19T01:12:36+00:00",
   "ok": false,
@@ -8406,6 +8752,15 @@
    "del otro lado de Santa Fe (588 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3937415648-dos-ambientes-facultad-de-medicina-con-patio-garantes-con-recibos-de-sueldos-_JM"
+ },
+ "ml:MLA3940127380": {
+  "first_seen": "2026-10-21T10:27:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.570.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3940127380-alquiler-3-ambientes-luminoso-al-frente-70-m-apto-profesional-y-comercial-_JM"
  },
  "ml:MLA3940130266": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -8626,6 +8981,15 @@
    "total $3.085.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3950328266-torre-astor-palermo-i-disponibilidad-inmediata-_JM"
+ },
+ "ml:MLA3950358292": {
+  "first_seen": "2026-10-21T10:28:15+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (822 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3950358292-departamento-2-ambientes-contrafrente-en-palermo-a-200-m-del-subte-d-_JM"
  },
  "ml:MLA3950365688": {
   "first_seen": "2026-10-19T01:07:15+00:00",
@@ -8951,6 +9315,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3967190954-apto-profesional-comercial-lindero-patio-bullrich-amplios-usos-posibles-_JM"
  },
+ "ml:MLA3967670892": {
+  "first_seen": "2026-10-21T10:29:41+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (681 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3967670892-en-alquiler-impecable-2-ambientes-al-frente-y-balcon-aterrazado-de-20m2-en-palermo-_JM"
+ },
  "ml:MLA3968146756": {
   "first_seen": "2026-10-19T01:54:31+00:00",
   "ok": false,
@@ -9028,6 +9400,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3970516956-alquiler-amoblado-palermo-2-ambientes-_JM"
  },
+ "ml:MLA3970910664": {
+  "first_seen": "2026-10-21T10:29:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.585.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3970910664-pb-al-contrafrente-con-50-m2-de-jardin-y-parrilla-_JM"
+ },
  "ml:MLA3971554556": {
   "first_seen": "2026-10-19T01:53:52+00:00",
   "ok": false,
@@ -9079,6 +9460,14 @@
    "no menciona balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3977490696-semipiso-exclusivo-recoleta-vista-al-rio-_JM"
+ },
+ "ml:MLA3977526906": {
+  "first_seen": "2026-10-21T10:29:55+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3977526906-alquiler-2-amb-cdependencias-recoleta-contrafrente-46-m2-luminoso-2-banos-_JM"
  },
  "ml:MLA3977738452": {
   "first_seen": "2026-10-19T01:07:05+00:00",
@@ -9323,6 +9712,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3986554124-espectacular-3-ambientes-muy-grande-al-frente-con-vista-al-rio-en-plena-av-gral-las-heras-_JM"
  },
+ "ml:MLA3986809832": {
+  "first_seen": "2026-10-21T10:28:52+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente",
+   "0 dormitorios",
+   "del otro lado de Santa Fe (1084 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3986809832-departamento-de-1-ambiente-en-alquiler-en-palermo-_JM"
+ },
  "ml:MLA3987237834": {
   "first_seen": "2026-10-19T01:57:37+00:00",
   "ok": false,
@@ -9556,6 +9955,15 @@
    "del otro lado de Santa Fe (947 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-3994938804-departamento-en-alquiler-en-palermo-con-patio-_JM"
+ },
+ "ml:MLA3995100616": {
+  "first_seen": "2026-10-21T10:29:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.560.000 supera el máximo",
+   "del otro lado de Santa Fe (545 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3995100616-3-ambientes-en-alquiler-piso-15-al-frente-vista-abierta-_JM"
  },
  "ml:MLA3995415310": {
   "first_seen": "2026-10-19T01:54:55+00:00",
@@ -9813,6 +10221,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4005412580-departamento-alquiler-temporario-3-ambientes-amoblado-y-equipado-palermo-chico-_JM"
  },
+ "ml:MLA4005726914": {
+  "first_seen": "2026-10-21T10:31:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.780.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4005726914-super-luminoso-tiene-pileta-solarium-sum-_JM"
+ },
  "ml:MLA4005843244": {
   "first_seen": "2026-10-19T01:07:15+00:00",
   "ok": false,
@@ -9909,6 +10325,14 @@
    "total $1.851.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4009223118-departamento-3-ambientes-con-balcon-recoleta-a-una-cuadra-de-plaza-chile-_JM"
+ },
+ "ml:MLA4009493932": {
+  "first_seen": "2026-10-21T10:27:45+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4009493932-3-ambientes-luminoso-en-recoleta-_JM"
  },
  "ml:MLA4009584578": {
   "first_seen": "2026-10-19T01:51:25+00:00",
@@ -10027,6 +10451,15 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4013395680-departamento-2-ambientes-_JM"
+ },
+ "ml:MLA4013419480": {
+  "first_seen": "2026-10-21T10:30:11+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (843 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4013419480-alquiler-2-ambientes-amoblado-con-patio-parrilla-en-palermo-_JM"
  },
  "ml:MLA4013809528": {
   "first_seen": "2026-10-19T01:54:03+00:00",
@@ -10177,6 +10610,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4018360880-departamentos-alquiler-recoleta-_JM"
  },
+ "ml:MLA4018412780": {
+  "first_seen": "2026-10-21T10:30:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.954.735 supera el máximo",
+   "del otro lado de Santa Fe (9 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4018412780-alquiler-departamento-de-2-ambientes-amoblado-en-palermo-_JM"
+ },
  "ml:MLA4018595666": {
   "first_seen": "2026-10-19T02:00:50+00:00",
   "ok": false,
@@ -10303,6 +10745,14 @@
    "del otro lado de Santa Fe (393 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4021974018-monoambiente-divisible-45-m2-excelente-ubicacion-palermo-hollywood-_JM"
+ },
+ "ml:MLA4022017198": {
+  "first_seen": "2026-10-21T10:30:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.554.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4022017198-departamentos-3-ambientes-alquiler-_JM"
  },
  "ml:MLA4022018412": {
   "first_seen": "2026-10-19T01:10:38+00:00",
@@ -10732,6 +11182,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4032986072-oportunidad-depto-alquiler-scalabrini-ortiz-3-ambientes-con-gran-vista-muy-luminoso-_JM"
  },
+ "ml:MLA4033113700": {
+  "first_seen": "2026-10-21T10:28:04+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1032 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4033113700-departamento-en-alquiler-gascon-al-1500-_JM"
+ },
  "ml:MLA4033350392": {
   "first_seen": "2026-10-19T01:56:25+00:00",
   "ok": false,
@@ -10918,6 +11377,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4037008104-departamento-en-recoleta-_JM"
  },
+ "ml:MLA4037504370": {
+  "first_seen": "2026-10-21T10:30:33+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4037504370-disponible-01122026-departamento-de-dos-ambientes-sin-muebles-las-canitas-_JM"
+ },
  "ml:MLA4037508170": {
   "first_seen": "2026-10-19T02:00:50+00:00",
   "ok": false,
@@ -11007,6 +11474,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4039902114-palermo-2-ambientes-interno-luminoso-muy-buena-ubicacion-sobre-av-scalabrini-ortiz-zona-jardin-botanico-a-1-cuadra-av-s-fe-_JM"
  },
+ "ml:MLA4040023820": {
+  "first_seen": "2026-10-21T10:28:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.570.000 supera el máximo",
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4040023820-alquiler-departamento-palermo-3-ambientes-con-dependencia-_JM"
+ },
  "ml:MLA4040031602": {
   "first_seen": "2026-10-19T01:55:21+00:00",
   "ok": false,
@@ -11014,6 +11490,15 @@
    "total $2.005.250 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4040031602-departamento-en-alquiler-2-ambientes-palermo-_JM"
+ },
+ "ml:MLA4040046940": {
+  "first_seen": "2026-10-21T10:29:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.570.000 supera el máximo",
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4040046940-alquiler-departamento-recoleta-3-ambientes-con-dependencia-_JM"
  },
  "ml:MLA4040230748": {
   "first_seen": "2026-10-19T01:56:19+00:00",
@@ -11070,6 +11555,14 @@
    "total $5.398.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4040516404-alquiler-piso-recoleta-av-libertador-al-400-4-dormitorios-lavadero-cochera-dependencia-baulera-_JM"
+ },
+ "ml:MLA4041282920": {
+  "first_seen": "2026-10-21T10:28:10+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (488 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4041282920-departamento-de-2-ambientes-impecable-recoleta-aire-acondicionado-_JM"
  },
  "ml:MLA4042519792": {
   "first_seen": "2026-10-19T02:00:46+00:00",
@@ -11194,6 +11687,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4045460868-con-muebles-excelente-3-amp-cdep-y-cochera-_JM"
  },
+ "ml:MLA4045658400": {
+  "first_seen": "2026-10-21T10:31:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.548.800 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4045658400-departamento-moderno-amoblado-en-palermo-pileta-parrilla-laundry-_JM"
+ },
  "ml:MLA4045740726": {
   "first_seen": "2026-10-19T01:07:28+00:00",
   "ok": false,
@@ -11217,6 +11718,15 @@
    "total $1.600.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4046835326-excelente-semipiso-3-amb-cdpcia-86-mts-laprida-1300-recoleta-_JM"
+ },
+ "ml:MLA4046847456": {
+  "first_seen": "2026-10-21T10:31:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.550.000 supera el máximo",
+   "del otro lado de Santa Fe (462 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4046847456-departamento-palermo-2-ambientes-luminoso-cerca-de-todo-la-movida-de-bares-restaurantes-ferias-exposiciones-_JM"
  },
  "ml:MLA4047093052": {
   "first_seen": "2026-10-19T01:54:55+00:00",
@@ -11885,6 +12395,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4071055172-departamento-4-ambientes-en-alquiler-en-recoleta-_JM"
  },
+ "ml:MLA4071055190": {
+  "first_seen": "2026-10-21T10:28:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.480.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4071055190-departamento-de-2-ambientes-amplios-ccochera-_JM"
+ },
  "ml:MLA4071121306": {
   "first_seen": "2026-10-19T01:21:29+00:00",
   "ok": false,
@@ -11918,6 +12437,15 @@
    "del otro lado de Santa Fe (349 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4071231226-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4071231242": {
+  "first_seen": "2026-10-21T10:28:56+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (371 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4071231242-departamento-en-palermo-_JM"
  },
  "ml:MLA4072932810": {
   "first_seen": "2026-10-19T01:58:19+00:00",
@@ -12431,6 +12959,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4081547908-torre-deco-venta-departamento-palermo-2-ambientes-bano-y-toil-cochera-vigilancia-amenities-_JM"
  },
+ "ml:MLA4081683232": {
+  "first_seen": "2026-10-21T10:31:31+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (192 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4081683232-alquiler-2-ambientes-pura-luz-palermo-a-metros-de-santa-fe-_JM"
+ },
  "ml:MLA4082169646": {
   "first_seen": "2026-10-19T01:21:59+00:00",
   "ok": false,
@@ -12464,6 +13000,14 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4082606582-depto-town-house-a-estrenar-en-canitas-polo-monoambiente-divisible-townhouse-a-estrenar-en-las-canitas-diseno-categoria-y-ubicacion-privilegiada-ubicado-en-una-de-las-cuadras-mas-exclusivas-y-si-_JM"
+ },
+ "ml:MLA4082614424": {
+  "first_seen": "2026-10-21T10:31:38+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4082614424-departamento-2-ambientes-con-patio-recoleta-medicina-barcelo-uba-derecho-ingenieria-_JM"
  },
  "ml:MLA4082615708": {
   "first_seen": "2026-10-18T16:35:21+00:00",
@@ -12695,6 +13239,15 @@
    "total $3.219.540 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4087271856-alquiler-semipiso-en-las-canitas-_JM"
+ },
+ "ml:MLA4087271924": {
+  "first_seen": "2026-10-21T10:27:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo",
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4087271924-departamentos-3-ambientes-alquiler-_JM"
  },
  "ml:MLA4087293204": {
   "first_seen": "2026-10-18T16:30:06+00:00",

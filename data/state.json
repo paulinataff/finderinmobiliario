@@ -7046,6 +7046,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2225563651-dpto-monoambiente-en-alquiler-palermo-con-balcon-_JM"
  },
+ "ml:MLA2225862731": {
+  "first_seen": "2026-10-22T15:07:28+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2225862731-departamento-alquiler-amoblado-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14863,5 +14871,21 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4113339672-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4114273030": {
+  "first_seen": "2026-10-22T15:07:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.200.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4114273030-rep-de-eslovenia-1700-las-canitas-4-ambientes-al-frente-con-balcon-terraza-y-2-cocheras-cubiertas-_JM"
+ },
+ "ml:MLA4114534102": {
+  "first_seen": "2026-10-22T15:07:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.020.720 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4114534102-alquiler-2-amb-amueblado-con-vestidor-y-amenities-de-lujo-_JM"
  }
 }

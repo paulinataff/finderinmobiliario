@@ -14838,5 +14838,14 @@
    "total $2.000.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4111512856-departamento-en-alquiler-de-4-ambientes-amoblado-en-palermo-en-excelente-ubicacion-de-categoria-_JM"
+ },
+ "ml:MLA4113339672": {
+  "first_seen": "2026-10-22T12:03:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.342.660 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4113339672-departamento-en-alquiler-en-recoleta-_JM"
  }
 }

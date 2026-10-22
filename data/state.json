@@ -7148,6 +7148,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2226383245-alquiler-profesional-departamento-3-ambientes-con-cochera-y-balcon-palermo-_JM"
  },
+ "ml:MLA2226761623": {
+  "first_seen": "2026-10-22T19:31:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $7.787.942 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226761623-alquiler-y-venta-departamento-4-ambientes-amenities-lavenue-av-libertador-3800-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15007,6 +15015,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4114573342-icont2-anos-mpecable-recien-pintadocfte-abiert-balcon-frances-lumtranquilo-equipado-lavarrop-nvo2-aires-acond-bano-actbedif-excelente-ubicacion-eberuti-y-juncalbajas-expdno--_JM"
  },
+ "ml:MLA4114582458": {
+  "first_seen": "2026-10-22T19:31:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.583.170 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4114582458-excelente-piso-sobre-av-del-libertador-super-luminoso-con-o-sin-muebles-_JM"
+ },
  "ml:MLA4114613094": {
   "first_seen": "2026-10-22T16:05:42+00:00",
   "ok": false,
@@ -15023,5 +15039,13 @@
    "total $4.121.810 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4115210728-unico-departamento-de-3-ambientes-con-balcon-vista-abierta-y-orientacion-norte-en-recoleta-_JM"
+ },
+ "ml:MLA4115626968": {
+  "first_seen": "2026-10-22T19:31:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.894.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4115626968-departamento-en-av-santa-fe-y-av-callao-piso-de-categoria-_JM"
  }
 }

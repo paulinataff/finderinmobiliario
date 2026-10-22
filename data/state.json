@@ -15080,5 +15080,13 @@
    "total $2.330.400 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4115879064-alquiler-temporario-3-ambientes-con-amenities-en-recoleta-_JM"
+ },
+ "ml:MLA4116034928": {
+  "first_seen": "2026-10-22T22:01:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.425.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4116034928-departamento-en-alquiler-en-recoleta-_JM"
  }
 }

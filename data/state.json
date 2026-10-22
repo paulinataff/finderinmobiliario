@@ -15040,6 +15040,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4115210728-unico-departamento-de-3-ambientes-con-balcon-vista-abierta-y-orientacion-norte-en-recoleta-_JM"
  },
+ "ml:MLA4115483918": {
+  "first_seen": "2026-10-22T20:27:51+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.573.280 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4115483918-malela-orliacq-propiedades-cucicba5008-depto-luminoso-frente-a-plaza-alemania-cercano-a-museos-y-atractivos-parques-de-buenos-aires-_JM"
+ },
  "ml:MLA4115626968": {
   "first_seen": "2026-10-22T19:31:39+00:00",
   "ok": false,
@@ -15047,5 +15055,14 @@
    "total $3.894.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4115626968-departamento-en-av-santa-fe-y-av-callao-piso-de-categoria-_JM"
+ },
+ "ml:MLA4115664456": {
+  "first_seen": "2026-10-22T20:27:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.350.000 supera el máximo",
+   "del otro lado de Santa Fe (686 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4115664456-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
  }
 }

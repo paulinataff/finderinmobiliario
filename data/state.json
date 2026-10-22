@@ -6887,6 +6887,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2222184603-departamento-en-palermo-_JM"
  },
+ "ml:MLA2222525957": {
+  "first_seen": "2026-10-22T02:29:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.786.870 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2222525957-alquiler-depto-2-amb-amoblado-quartier-dorrego-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14345,5 +14353,53 @@
    "total $3.573.740 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4110919670-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4110973418": {
+  "first_seen": "2026-10-22T02:29:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110973418-alq-4-amb-banotoilette-lavadero-balcon-palermo-_JM"
+ },
+ "ml:MLA4111101888": {
+  "first_seen": "2026-10-22T02:30:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.709.180 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4111101888-depto-oficina-planta-baja-al-frente-_JM"
+ },
+ "ml:MLA4111104250": {
+  "first_seen": "2026-10-22T02:30:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.440.660 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4111104250-amplio-2-ambientes-reciclado-muy-luminoso-_JM"
+ },
+ "ml:MLA4111218680": {
+  "first_seen": "2026-10-22T02:29:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.942.250 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4111218680-alquiler-recoleta-depto-4-amb-contrafrente-lumino-_JM"
+ },
+ "ml:MLA4111220464": {
+  "first_seen": "2026-10-22T02:29:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4111220464-alquiler-depto-palermo-2-amb-balcon-full-amenities-_JM"
+ },
+ "ml:MLA4111221848": {
+  "first_seen": "2026-10-22T02:29:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.476.110 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4111221848-alquiler-departamento-2-ambientes-en-las-canitas-_JM"
  }
 }

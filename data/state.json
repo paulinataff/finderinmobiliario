@@ -7030,6 +7030,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2222525957-alquiler-depto-2-amb-amoblado-quartier-dorrego-_JM"
  },
+ "ml:MLA2225387955": {
+  "first_seen": "2026-10-22T13:20:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.330.700 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2225387955-departamento-3-ambientes-con-blacon-aterrazado--_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

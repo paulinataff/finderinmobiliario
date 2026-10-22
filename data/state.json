@@ -7054,6 +7054,84 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2225862731-departamento-alquiler-amoblado-_JM"
  },
+ "ml:MLA2226194387": {
+  "first_seen": "2026-10-22T17:05:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.199.580 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226194387-departamentos-alquiler-recoleta-_JM"
+ },
+ "ml:MLA2226194805": {
+  "first_seen": "2026-10-22T17:05:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo",
+   "del otro lado de Santa Fe (370 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226194805-dos-ambientes-con-cochera-thames-al-2200-palermo-_JM"
+ },
+ "ml:MLA2226270615": {
+  "antiguedad": 40,
+  "cochera": false,
+  "first_seen": "2026-10-22T17:05:15+00:00",
+  "listing": {
+   "address": "Julian Alvarez  Al 2700, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 125000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2226270615",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_616263-MLA118358910510_102026-O.webp"
+   ],
+   "lat": -34.5848234,
+   "lon": -58.4122584,
+   "m2_cubiertos": 39.0,
+   "price": 1100000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Alquiler 2 Ambientes Con Balcón Aterrazado En Palermo ",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2226270615-alquiler-2-ambientes-con-balcon-aterrazado-en-palermo-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-22T17:05:16+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 27,
+  "total_ars": 1225000.0,
+  "zone": "Botánico y Plaza Italia"
+ },
+ "ml:MLA2226271353": {
+  "first_seen": "2026-10-22T17:05:15+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.488.640 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226271353-excepcional-departamento-con-balcon-terraza-en-palermo-chico-_JM"
+ },
+ "ml:MLA2226271615": {
+  "first_seen": "2026-10-22T17:05:04+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.405.000 supera el máximo",
+   "del otro lado de Santa Fe (569 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226271615-2-ambientes-a-estrenar-guatemala-42224-palermo-_JM"
+ },
+ "ml:MLA2226276703": {
+  "first_seen": "2026-10-22T17:05:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.266.340 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226276703-departamentos-alquiler-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

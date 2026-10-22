@@ -14410,5 +14410,13 @@
    "total $1.476.110 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4111221848-alquiler-departamento-2-ambientes-en-las-canitas-_JM"
+ },
+ "ml:MLA4111470948": {
+  "first_seen": "2026-10-22T04:06:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4111470948-departamento-en-alquiler-de-4-ambientes-amoblado-en-palermo-en-excelente-ubicacion-de-categoria-_JM"
  }
 }

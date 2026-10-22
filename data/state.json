@@ -14362,6 +14362,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4110973418-alq-4-amb-banotoilette-lavadero-balcon-palermo-_JM"
  },
+ "ml:MLA4110979360": {
+  "first_seen": "2026-10-22T03:07:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.361.660 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110979360-departamento-en-las-canitas-_JM"
+ },
  "ml:MLA4111101888": {
   "first_seen": "2026-10-22T02:30:00+00:00",
   "ok": false,

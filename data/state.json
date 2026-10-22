@@ -15064,5 +15064,21 @@
    "del otro lado de Santa Fe (686 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4115664456-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
+ },
+ "ml:MLA4115816136": {
+  "first_seen": "2026-10-22T21:05:34+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (369 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4115816136-dos-ambientes-balcon-corrido-_JM"
+ },
+ "ml:MLA4115879064": {
+  "first_seen": "2026-10-22T21:05:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.330.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4115879064-alquiler-temporario-3-ambientes-con-amenities-en-recoleta-_JM"
  }
 }

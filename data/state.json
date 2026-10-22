@@ -14313,5 +14313,21 @@
    "total $4.972.160 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4110374748-piso-en-rodriguez-pena-y-alvear-_JM"
+ },
+ "ml:MLA4110480160": {
+  "first_seen": "2026-10-22T00:35:54+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110480160-amplio-monoambiente-dividido-a-la-calle-en-la-mejor-zona-de-recoleta-_JM"
+ },
+ "ml:MLA4110491434": {
+  "first_seen": "2026-10-22T00:35:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.540.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110491434-alquiler-departamento-3-ambientes-las-canitas-palermo-_JM"
  }
 }

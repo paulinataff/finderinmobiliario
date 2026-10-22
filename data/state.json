@@ -14329,5 +14329,21 @@
    "total $1.540.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4110491434-alquiler-departamento-3-ambientes-las-canitas-palermo-_JM"
+ },
+ "ml:MLA4110733180": {
+  "first_seen": "2026-10-22T01:33:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $6.215.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110733180-alquiler-dpto-3-ambientes-amoblado-con-amenities-en-palermo-_JM"
+ },
+ "ml:MLA4110919670": {
+  "first_seen": "2026-10-22T01:33:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.573.740 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4110919670-departamento-en-alquiler-en-recoleta-_JM"
  }
 }

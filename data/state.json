@@ -7132,6 +7132,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2226276703-departamentos-alquiler-palermo-_JM"
  },
+ "ml:MLA2226382575": {
+  "first_seen": "2026-10-22T17:59:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.121.810 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226382575-unico-departamento-de-3-ambientes-con-balcon-vista-abierta-y-orientacion-norte-en-recoleta-_JM"
+ },
+ "ml:MLA2226383245": {
+  "first_seen": "2026-10-22T17:59:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2226383245-alquiler-profesional-departamento-3-ambientes-con-cochera-y-balcon-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -14999,5 +15015,13 @@
    "del otro lado de Santa Fe (426 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4114613094-alquiler-2-amb-duplex-cochera-palermo-living-comedor-y-dormitorio-balcon-frente-a-soler-bano-principal-y-toilette-split-termotanque-transporte-publico-cerca-av-santa-fe-y-jbjusto-_JM"
+ },
+ "ml:MLA4115210728": {
+  "first_seen": "2026-10-22T17:59:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.121.810 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4115210728-unico-departamento-de-3-ambientes-con-balcon-vista-abierta-y-orientacion-norte-en-recoleta-_JM"
  }
 }

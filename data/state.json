@@ -7156,6 +7156,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2226761623-alquiler-y-venta-departamento-4-ambientes-amenities-lavenue-av-libertador-3800-palermo-_JM"
  },
+ "ml:MLA2227213885": {
+  "first_seen": "2026-10-22T23:00:01+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (155 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2227213885-alquiler-2-ambientes-amoblado-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15088,5 +15096,21 @@
    "total $1.425.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4116034928-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4116217796": {
+  "first_seen": "2026-10-22T22:59:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.107.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4116217796-alquler-piso-3-amb-cochera-palermo-chico-_JM"
+ },
+ "ml:MLA4116288520": {
+  "first_seen": "2026-10-22T22:59:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.971.520 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4116288520-alquiler-departamento-5-amb-recoleta-dep-serv-escritorio-_JM"
  }
 }

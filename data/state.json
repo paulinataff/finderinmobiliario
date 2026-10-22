@@ -14427,6 +14427,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4111486676-departamento-en-alquiler-de-4-ambientes-amoblado-en-palermo-en-excelente-ubicacion-de-categoria-_JM"
  },
+ "ml:MLA4111490722": {
+  "first_seen": "2026-10-22T08:11:58+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4111490722-departamento-4-ambientes-luminoso-con-vista-dependencias-lavadero-balcon-en-torre-en-recoleta-_JM"
+ },
  "ml:MLA4111511466": {
   "first_seen": "2026-10-22T05:06:20+00:00",
   "ok": false,

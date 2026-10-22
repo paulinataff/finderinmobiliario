@@ -14887,5 +14887,39 @@
    "total $2.020.720 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4114534102-alquiler-2-amb-amueblado-con-vestidor-y-amenities-de-lujo-_JM"
+ },
+ "ml:MLA4114542328": {
+  "first_seen": "2026-10-22T16:05:46+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.725.000 supera el máximo",
+   "del otro lado de Santa Fe (16 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4114542328-alquiler-de-departamento-4-ambientes-con-balcon-frente-al-botanico-_JM"
+ },
+ "ml:MLA4114542548": {
+  "first_seen": "2026-10-22T16:05:46+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4114542548-alquiler-departamento-2-amb-a-estrenar-con-amenities-en-las-canitas-palermo-_JM"
+ },
+ "ml:MLA4114573342": {
+  "first_seen": "2026-10-22T16:05:50+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4114573342-icont2-anos-mpecable-recien-pintadocfte-abiert-balcon-frances-lumtranquilo-equipado-lavarrop-nvo2-aires-acond-bano-actbedif-excelente-ubicacion-eberuti-y-juncalbajas-expdno--_JM"
+ },
+ "ml:MLA4114613094": {
+  "first_seen": "2026-10-22T16:05:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.495.000 supera el máximo",
+   "del otro lado de Santa Fe (426 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4114613094-alquiler-2-amb-duplex-cochera-palermo-living-comedor-y-dormitorio-balcon-frente-a-soler-bano-principal-y-toilette-split-termotanque-transporte-publico-cerca-av-santa-fe-y-jbjusto-_JM"
  }
 }

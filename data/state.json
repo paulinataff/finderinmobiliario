@@ -7197,6 +7197,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2228051725-alquiler-departamento-4-ambientes-reciclado-en-recoleta-_JM"
  },
+ "ml:MLA2229352387": {
+  "first_seen": "2026-10-23T13:14:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.039.360 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2229352387-departamentos-alquiler-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15203,5 +15211,13 @@
    "total $3.262.560 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4117228012-departamento-3-ambientes-alquiler-palermo-_JM"
+ },
+ "ml:MLA4118210408": {
+  "first_seen": "2026-10-23T13:14:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.300.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4118210408-departamento-en-torre-frente-piso-alto-con-cochera-fija-y-cubierta-pileta-y-parque-_JM"
  }
 }

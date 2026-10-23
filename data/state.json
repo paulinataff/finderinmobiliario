@@ -1539,6 +1539,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2057568753-departamento-semipiso-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA2057861549": {
+  "first_seen": "2026-10-23T10:26:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.530.000 supera el máximo",
+   "del otro lado de Santa Fe (219 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2057861549-alquiler-2-ambientes-super-luminosos-en-palermo-a-metros-de-tren-subte-y-colectivos-sin-muebles-_JM"
+ },
  "ml:MLA2057946145": {
   "first_seen": "2026-10-19T01:58:51+00:00",
   "ok": false,
@@ -7045,6 +7054,14 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2225563651-dpto-monoambiente-en-alquiler-palermo-con-balcon-_JM"
+ },
+ "ml:MLA2225768935": {
+  "first_seen": "2026-10-23T10:26:08+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.330.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2225768935-piso-de-categoria-4-ambientes-con-dep-balcon-_JM"
  },
  "ml:MLA2225862731": {
   "first_seen": "2026-10-22T15:07:28+00:00",
@@ -15104,6 +15121,15 @@
    "total $2.330.400 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4115879064-alquiler-temporario-3-ambientes-con-amenities-en-recoleta-_JM"
+ },
+ "ml:MLA4116033348": {
+  "first_seen": "2026-10-23T10:26:08+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (344 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4116033348-dueno-alquila-departamento-amoblado-palermo-_JM"
  },
  "ml:MLA4116034928": {
   "first_seen": "2026-10-22T22:01:44+00:00",

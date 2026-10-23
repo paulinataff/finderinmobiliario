@@ -15128,5 +15128,14 @@
    "total $1.553.600 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4116512850-alquiler-departamento-2-ambientes-amoblado-en-palermo-_JM"
+ },
+ "ml:MLA4116518926": {
+  "first_seen": "2026-10-23T02:29:03+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4116518926-alquiler-dpto-3-amb-centrepiso-retiro-exc-ubic-_JM"
  }
 }

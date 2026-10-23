@@ -7320,6 +7320,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230601747-departamento-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA2230603417": {
+  "first_seen": "2026-10-23T22:58:25+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230603417-cordoba-y-riobamba-venta-3-departamentos-unificados-en-uno-2-banos-completos-alto-luminoso-multidestino-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15659,5 +15667,13 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4120659544-departamento-recoleta-alquiler-2-ambientes-amenities-_JM"
+ },
+ "ml:MLA4120661582": {
+  "first_seen": "2026-10-23T22:58:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.815.020 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120661582-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
  }
 }

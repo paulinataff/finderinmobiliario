@@ -15120,5 +15120,13 @@
    "total $4.971.520 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4116288520-alquiler-departamento-5-amb-recoleta-dep-serv-escritorio-_JM"
+ },
+ "ml:MLA4116512850": {
+  "first_seen": "2026-10-23T01:36:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.553.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4116512850-alquiler-departamento-2-ambientes-amoblado-en-palermo-_JM"
  }
 }

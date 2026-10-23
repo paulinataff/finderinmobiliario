@@ -15367,6 +15367,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4119872808-departamento-5-ambientes-alquiler-palermo-_JM"
  },
+ "ml:MLA4119873452": {
+  "first_seen": "2026-10-23T17:59:24+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4119873452-alquiler-departamento-2-ambientes-_JM"
+ },
  "ml:MLA4119980526": {
   "first_seen": "2026-10-23T17:06:30+00:00",
   "ok": false,
@@ -15374,5 +15382,74 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4119980526-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4119986684": {
+  "antiguedad": 50,
+  "cochera": false,
+  "first_seen": "2026-10-23T17:59:29+00:00",
+  "listing": {
+   "address": "Avda Las Heras   Al 2300 (rsv), Recoleta, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 170000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4119986684",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_877460-MLA118430362378_102026-O.webp"
+   ],
+   "lat": -34.5866513,
+   "lon": -58.3979469,
+   "m2_cubiertos": 38.0,
+   "price": 600000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento En Recoleta",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4119986684-departamento-en-recoleta-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-23T17:59:30+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 39,
+  "total_ars": 770000.0,
+  "zone": "Recoleta alta"
+ },
+ "ml:MLA4119999540": {
+  "first_seen": "2026-10-23T17:59:18+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (450 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4119999540-alquiler-4-amb-edif-torre-luminoso-colegiales-_JM"
+ },
+ "ml:MLA4120037440": {
+  "first_seen": "2026-10-23T17:59:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.114.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120037440-recoleta-juncal-y-rodriguez-pena-_JM"
+ },
+ "ml:MLA4120040788": {
+  "first_seen": "2026-10-23T17:59:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120040788-piso-en-recoleta-en-alquiler-precio-paquete-con-cochera-y-baulera-_JM"
+ },
+ "ml:MLA4120189056": {
+  "first_seen": "2026-10-23T17:59:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120189056-amplio-departamento-4-ambientes-con-patio-terraza-y-parrilla-propia-_JM"
  }
 }

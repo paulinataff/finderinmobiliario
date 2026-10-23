@@ -15137,5 +15137,21 @@
    "del otro lado de Santa Fe (193 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4116518926-alquiler-dpto-3-amb-centrepiso-retiro-exc-ubic-_JM"
+ },
+ "ml:MLA4116961310": {
+  "first_seen": "2026-10-23T05:03:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.417.920 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4116961310-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4117226402": {
+  "first_seen": "2026-10-23T05:03:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.796.480 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4117226402-alquiler-de-departamento-3-ambientes-full-amenities-torre-promenade-guemes-3355-palermo-_JM"
  }
 }

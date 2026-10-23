@@ -7205,6 +7205,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2229352387-departamentos-alquiler-recoleta-_JM"
  },
+ "ml:MLA2229668729": {
+  "first_seen": "2026-10-23T15:09:30+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.126.050 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2229668729-departamentos-3-dorcdep-alquiler-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

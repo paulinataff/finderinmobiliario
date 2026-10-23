@@ -7312,6 +7312,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230487879-alquiler-de-semi-piso-en-recoleta-_JM"
  },
+ "ml:MLA2230601747": {
+  "first_seen": "2026-10-23T22:00:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.815.020 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230601747-departamento-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15619,5 +15627,37 @@
    "total $5.473.650 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4120541880-alquiler-de-semi-piso-en-recoleta-_JM"
+ },
+ "ml:MLA4120547172": {
+  "first_seen": "2026-10-23T22:00:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $7.819.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120547172-exclusivo-departamento-de-3-ambientes-con-amplia-terraza-privada-y-piscina-_JM"
+ },
+ "ml:MLA4120621378": {
+  "first_seen": "2026-10-23T22:00:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.345.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120621378-alquiler-temporario-3-ambientes-con-amenities-en-recoleta-_JM"
+ },
+ "ml:MLA4120634272": {
+  "first_seen": "2026-10-23T22:00:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.345.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120634272-departamento-4-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4120659544": {
+  "first_seen": "2026-10-23T22:00:38+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120659544-departamento-recoleta-alquiler-2-ambientes-amenities-_JM"
  }
 }

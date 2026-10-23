@@ -7272,6 +7272,38 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230075665-departamento-en-palermo-_JM"
  },
+ "ml:MLA2230396935": {
+  "first_seen": "2026-10-23T20:26:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.189.460 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230396935-alquiler-duplex-3-ambientes-muy-luminoso-con-dependencia-y-gran-terraza-palermo-_JM"
+ },
+ "ml:MLA2230458069": {
+  "first_seen": "2026-10-23T20:26:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.630.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230458069-av-dorrego-2700-55m2-amoblado-laundry-y-pileta-_JM"
+ },
+ "ml:MLA2230459821": {
+  "first_seen": "2026-10-23T20:26:26+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.900.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230459821-departamento-oficina-apto-profesional-_JM"
+ },
+ "ml:MLA2230473999": {
+  "first_seen": "2026-10-23T20:26:26+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.345.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230473999-departamento-duplex-2-dormitorios-escritorio-y-dependencias-de-servicio-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15476,6 +15508,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4120313142-alquiler-de-5-ambientes-2-balcones-y-cochera-incluida-_JM"
  },
+ "ml:MLA4120316232": {
+  "first_seen": "2026-10-23T20:26:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.189.460 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120316232-alquiler-duplex-3-ambientes-muy-luminoso-con-dependencia-y-gran-terraza-palermo-_JM"
+ },
  "ml:MLA4120336350": {
   "first_seen": "2026-10-23T19:30:57+00:00",
   "ok": false,
@@ -15483,5 +15523,49 @@
    "total $2.100.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4120336350-torre-quartier-alquiler-2-amb-cochera-palermo-hollywwod-_JM"
+ },
+ "ml:MLA4120340946": {
+  "first_seen": "2026-10-23T20:26:37+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (545 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120340946-alquiler-recoleta-dpto-2-amb-con-balcon-_JM"
+ },
+ "ml:MLA4120342006": {
+  "antiguedad": 20,
+  "cochera": false,
+  "first_seen": "2026-10-23T20:26:41+00:00",
+  "listing": {
+   "address": "Soldado De La Independencia 1241, Las Cañitas, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 295000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4120342006",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_813050-MLA118436343608_102026-O.webp"
+   ],
+   "lat": -34.56595,
+   "lon": -58.437191,
+   "m2_cubiertos": 38.33,
+   "price": 900000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento En Alquiler En Palermo",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4120342006-departamento-en-alquiler-en-palermo-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-23T20:26:42+00:00",
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 18,
+  "total_ars": 1195000.0,
+  "zone": "Luis María Campos norte"
  }
 }

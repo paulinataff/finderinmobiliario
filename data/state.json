@@ -7172,6 +7172,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2227370955-alquiler-3-ambientes-cbalcon-amenties-las-canitas-_JM"
  },
+ "ml:MLA2228051725": {
+  "first_seen": "2026-10-23T06:02:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.097.360 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2228051725-alquiler-departamento-4-ambientes-reciclado-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15153,5 +15161,21 @@
    "total $2.796.480 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4117226402-alquiler-de-departamento-3-ambientes-full-amenities-torre-promenade-guemes-3355-palermo-_JM"
+ },
+ "ml:MLA4117228008": {
+  "first_seen": "2026-10-23T06:02:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.126.880 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4117228008-3-dormitorios-1-suite-2-banos-y-toilette-luminoso-reciclado-a-nuevo-recoleta-_JM"
+ },
+ "ml:MLA4117228012": {
+  "first_seen": "2026-10-23T06:02:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.262.560 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4117228012-departamento-3-ambientes-alquiler-palermo-_JM"
  }
 }

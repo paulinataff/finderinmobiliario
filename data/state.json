@@ -7312,6 +7312,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230487879-alquiler-de-semi-piso-en-recoleta-_JM"
  },
+ "ml:MLA2230549203": {
+  "first_seen": "2026-10-23T23:57:58+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (514 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230549203-alquiler-departamento-2-ambientes-palermo-dueno-directo-_JM"
+ },
  "ml:MLA2230601747": {
   "first_seen": "2026-10-23T22:00:32+00:00",
   "ok": false,
@@ -7327,6 +7336,14 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230603417-cordoba-y-riobamba-venta-3-departamentos-unificados-en-uno-2-banos-completos-alto-luminoso-multidestino-_JM"
+ },
+ "ml:MLA2230611729": {
+  "first_seen": "2026-10-23T23:57:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.942.820 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230611729-alquiler-departamento-de-3-ambientes-amoblado-en-palermo-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",

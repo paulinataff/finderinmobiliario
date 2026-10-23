@@ -7304,6 +7304,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230473999-departamento-duplex-2-dormitorios-escritorio-y-dependencias-de-servicio-en-recoleta-_JM"
  },
+ "ml:MLA2230487879": {
+  "first_seen": "2026-10-23T21:02:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.473.650 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230487879-alquiler-de-semi-piso-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15335,6 +15343,42 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4119398512-malela-orliacq-propiedades-cucicba5008-muy-buen-pisito-3-ambientes-y-cochera-_JM"
  },
+ "ml:MLA4119420734": {
+  "antiguedad": 38,
+  "cochera": false,
+  "first_seen": "2026-10-23T21:02:20+00:00",
+  "listing": {
+   "address": "Pje. San Benito De Palermo 1694, Las Cañitas, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 210000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4119420734",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_627277-MLA120089654517_102026-O.webp"
+   ],
+   "lat": -34.5680254,
+   "lon": -58.4331445,
+   "m2_cubiertos": 45.0,
+   "price": 900000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Alquiler Departamento 2 Ambientes Balcon Cocina Separada Lavadero Palermo Cañitas",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4119420734-alquiler-departamento-2-ambientes-balcon-cocina-separada-lavadero-palermo-canitas-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-23T21:02:21+00:00",
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 21,
+  "total_ars": 1110000.0,
+  "zone": "Las Cañitas"
+ },
  "ml:MLA4119723880": {
   "first_seen": "2026-10-23T16:09:40+00:00",
   "ok": false,
@@ -15567,5 +15611,13 @@
   "score": 18,
   "total_ars": 1195000.0,
   "zone": "Luis María Campos norte"
+ },
+ "ml:MLA4120541880": {
+  "first_seen": "2026-10-23T21:02:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.473.650 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120541880-alquiler-de-semi-piso-en-recoleta-_JM"
  }
 }

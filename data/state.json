@@ -7247,6 +7247,31 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230028669-alquiler-departamento-5-amb-retiro-luminoso-balcon-_JM"
  },
+ "ml:MLA2230035767": {
+  "first_seen": "2026-10-23T17:06:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.317.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230035767-en-el-corazon-de-recoleta-con-gran-balcon-aterrazado-_JM"
+ },
+ "ml:MLA2230044161": {
+  "first_seen": "2026-10-23T17:06:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.024.100 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230044161-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2230075665": {
+  "first_seen": "2026-10-23T17:06:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.712.700 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230075665-departamento-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15317,5 +15342,37 @@
    "total $1.712.260 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4119749274-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4119868626": {
+  "first_seen": "2026-10-23T17:06:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.958.300 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4119868626-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4119870968": {
+  "first_seen": "2026-10-23T17:06:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.179.800 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4119870968-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4119872808": {
+  "first_seen": "2026-10-23T17:06:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.359.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4119872808-departamento-5-ambientes-alquiler-palermo-_JM"
+ },
+ "ml:MLA4119980526": {
+  "first_seen": "2026-10-23T17:06:30+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4119980526-departamento-en-palermo-_JM"
  }
 }

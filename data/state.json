@@ -15451,5 +15451,37 @@
    "total $2.000.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4120189056-amplio-departamento-4-ambientes-con-patio-terraza-y-parrilla-propia-_JM"
+ },
+ "ml:MLA4120312354": {
+  "first_seen": "2026-10-23T19:30:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.334.150 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120312354-remodelado-a-estrenar-penthouse-en-alquiler-_JM"
+ },
+ "ml:MLA4120312414": {
+  "first_seen": "2026-10-23T19:31:01+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (566 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120312414-departamento-amueblado-en-alquiler-con-balcon-en-la-mejor-zona-de-palermo--_JM"
+ },
+ "ml:MLA4120313142": {
+  "first_seen": "2026-10-23T19:30:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120313142-alquiler-de-5-ambientes-2-balcones-y-cochera-incluida-_JM"
+ },
+ "ml:MLA4120336350": {
+  "first_seen": "2026-10-23T19:30:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.100.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120336350-torre-quartier-alquiler-2-amb-cochera-palermo-hollywwod-_JM"
  }
 }

@@ -7403,6 +7403,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2231136109-alquiler-recoleta-departamento-de-3-ambientes-en-pb-con-patio-_JM"
  },
+ "ml:MLA2232074545": {
+  "first_seen": "2026-10-24T14:00:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2232074545-departamento-en-alquiler-de-3-ambientes-en-palermo-con-piletas-sauna-gym-parrilla-y-rooftop-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15800,5 +15808,13 @@
    "total $2.971.410 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4121323482-gran-categoria-cochera-seguridad-24-horas-avenida-alvear-recoleta-3-dormitorios-_JM"
+ },
+ "ml:MLA4122426894": {
+  "first_seen": "2026-10-24T14:00:49+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4122426894-impecable-balcon-al-pulmon-de-manzana-todo-a-nuevo-muy-lum-amob-y-equip-amenities-unico-oport-_JM"
  }
 }

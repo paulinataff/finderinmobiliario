@@ -7427,6 +7427,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2232078435-alquiler-departamento-monoambiente-amoblado-en-las-canitas-_JM"
  },
+ "ml:MLA2232707625": {
+  "first_seen": "2026-10-24T19:52:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo",
+   "del otro lado de Santa Fe (845 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2232707625-alquiler-palermo-bulnes-1500-3-ambientes-frente-con-balcon-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

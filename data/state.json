@@ -7353,6 +7353,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230635283-departamento-en-alquiler-2-ambientes-con-pileta-_JM"
  },
+ "ml:MLA2230859755": {
+  "first_seen": "2026-10-24T02:27:15+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.407.510 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230859755-departamento-2-ambientes-amoblado-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

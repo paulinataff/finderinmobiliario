@@ -7369,6 +7369,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2231070515-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2231136109": {
+  "first_seen": "2026-10-24T05:32:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.690.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2231136109-alquiler-recoleta-departamento-de-3-ambientes-en-pb-con-patio-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15725,5 +15734,14 @@
    "del otro lado de Santa Fe (11 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4120752394-departamento-en-alquiler-palermo-_JM"
+ },
+ "ml:MLA4121320990": {
+  "first_seen": "2026-10-24T05:32:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.690.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4121320990-alquiler-recoleta-departamento-de-3-ambientes-en-pb-con-patio-_JM"
  }
 }

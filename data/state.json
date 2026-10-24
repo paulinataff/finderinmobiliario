@@ -7345,6 +7345,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230611729-alquiler-departamento-de-3-ambientes-amoblado-en-palermo-_JM"
  },
+ "ml:MLA2230635283": {
+  "first_seen": "2026-10-24T00:46:11+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (839 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230635283-departamento-en-alquiler-2-ambientes-con-pileta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15692,5 +15700,14 @@
    "total $2.815.020 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4120661582-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
+ },
+ "ml:MLA4120752394": {
+  "first_seen": "2026-10-24T00:46:17+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (11 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4120752394-departamento-en-alquiler-palermo-_JM"
  }
 }

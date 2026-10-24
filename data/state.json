@@ -7205,6 +7205,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2229352387-departamentos-alquiler-recoleta-_JM"
  },
+ "ml:MLA2229645273": {
+  "first_seen": "2026-10-24T10:21:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $9.383.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2229645273-semipiso-exclusivo-vista-al-rio-en-recoleta-_JM"
+ },
  "ml:MLA2229668729": {
   "first_seen": "2026-10-23T15:09:30+00:00",
   "ok": false,
@@ -7303,6 +7311,15 @@
    "total $2.345.850 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2230473999-departamento-duplex-2-dormitorios-escritorio-y-dependencias-de-servicio-en-recoleta-_JM"
+ },
+ "ml:MLA2230486527": {
+  "first_seen": "2026-10-24T10:21:37+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (340 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2230486527-recoleta-luminoso-departamento-de-dos-ambientes-_JM"
  },
  "ml:MLA2230487879": {
   "first_seen": "2026-10-23T21:02:14+00:00",
@@ -11242,6 +11259,14 @@
    "total $3.856.250 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4010398660-alquiler-4-ambientes-amoblado-en-recoleta-_JM"
+ },
+ "ml:MLA4010535950": {
+  "first_seen": "2026-10-24T10:21:32+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (291 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4010535950-departamento-2-ambientes-_JM"
  },
  "ml:MLA4010707028": {
   "first_seen": "2026-10-18T16:28:03+00:00",
@@ -15743,6 +15768,14 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4121320990-alquiler-recoleta-departamento-de-3-ambientes-en-pb-con-patio-_JM"
+ },
+ "ml:MLA4121322176": {
+  "first_seen": "2026-10-24T10:21:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4121322176-depto-en-alquiler-dueno-directo-amplio-contrafrente-zona-alto-palermo-billinghurst-y-charcas-mucha-luz-balcon-4-amb-100-mts-_JM"
  },
  "ml:MLA4121323482": {
   "first_seen": "2026-10-24T08:00:35+00:00",

@@ -7116,6 +7116,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2234150237-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2234299491": {
+  "first_seen": "2026-10-25T19:03:53+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.359.000 supera el máximo",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2234299491-departamento-de-2-ambientes-en-palermo-piso-8-todo-luz-frente-al-parque-las-heras-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

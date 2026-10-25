@@ -7436,6 +7436,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2232707625-alquiler-palermo-bulnes-1500-3-ambientes-frente-con-balcon-_JM"
  },
+ "ml:MLA2232985769": {
+  "first_seen": "2026-10-25T02:04:54+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (207 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2232985769-alquiler-2-ambientes-duplex-palermo-excelente-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15841,5 +15849,14 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4122426894-impecable-balcon-al-pulmon-de-manzana-todo-a-nuevo-muy-lum-amob-y-equip-amenities-unico-oport-_JM"
+ },
+ "ml:MLA4123438726": {
+  "first_seen": "2026-10-25T02:05:00+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (156 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4123438726-departamento-en-alquiler-2-ambientes-en-palermo-_JM"
  }
 }

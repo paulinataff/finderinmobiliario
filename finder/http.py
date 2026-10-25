@@ -22,6 +22,10 @@ class Blocked(Exception):
     """El portal pidió verificación (anti-bot) o rechazó la consulta."""
 
 
+class Gone(Exception):
+    """El aviso fue dado de baja."""
+
+
 class PoliteSession:
     def __init__(self, min_delay=3.0, max_delay=6.0):
         self.s = requests.Session()
@@ -44,6 +48,8 @@ class PoliteSession:
                 time.sleep(20 * (attempt + 1))
             finally:
                 self._last = time.time()
+        if r.status_code in (404, 410):
+            raise Gone(url)
         if r.status_code in (202, 403, 429) or "awsWafCookieDomainList" in r.text[:3000]:
             raise Blocked(f"{r.status_code} {url}")
         r.raise_for_status()

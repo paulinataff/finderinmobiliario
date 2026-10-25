@@ -13,11 +13,15 @@ requisitos:
   ambientes_min: 2
   m2_cubiertos_min: 38
   balcon: true
+  # Edificios con más años que esto se descartan (si el aviso no lo dice, pasa).
+  antiguedad_max: 40
 
 zona:
   barrios: [palermo, recoleta, las-canitas]
   # Tiene que estar del lado del río de Av. Santa Fe / Cabildo (metros, 0 = sobre la avenida).
   santa_fe_min_m: 0
+  # Nada sobre Av. Santa Fe: se descarta lo que esté a menos de estos metros de la avenida.
+  sobre_santa_fe_m: 40
   # Microzonas: cada aviso toma la de centro más cercano. Calificación de 0 a 10.
   # Con "descartar: true" una zona deja de aparecer en vez de solo sumar menos.
   microzonas:

@@ -25,13 +25,18 @@ def has_balcon(text):
         return True
     if re.search(r"superficie de balcon\s*:\s*0\b", t):
         return False
-    s = _structured(t, "balcon")
-    if s is not None:
-        return s
+    if _structured(t, "balcon") is False:
+        return False
     if re.search(r"\b(sin|no tiene|no posee|no cuenta con)\s+balcon", t):
         return False
     # Un balcón francés es solo una baranda: no cuenta.
-    return True if re.search(r"balcon(?!\s+frances)", t) else None
+    real = re.search(r"balcon(?!(?:es)?\s+frances)", t.replace("balcon: si", ""))
+    if re.search(r"balcon(?:es)?\s+frances", t) and not real:
+        return False
+    s = _structured(t, "balcon")
+    if s is not None:
+        return s
+    return True if real else None
 
 
 def has_pileta(text):
@@ -58,6 +63,15 @@ def es_monoambiente(l, ambientes_min=2):
     if l.ambientes is not None:
         return l.ambientes < ambientes_min
     return bool(re.search(r"\bmono\s?ambiente\b", _norm(l.title)))
+
+
+_SANTA_FE = re.compile(r"\b(av(da|enida)?\.?\s*)?(sta\.?|santa)\s*fe\b")
+
+
+def sobre_santa_fe(l, metros):
+    if _SANTA_FE.search(_norm(l.address)):
+        return True
+    return l.lat is not None and abs(geo.side_of("santa_fe", l.lat, l.lon)) < metros
 
 
 def microzona(lat, lon, zonas):
@@ -147,6 +161,8 @@ def evaluate(l, cfg):
         sf = geo.side_of("santa_fe", l.lat, l.lon)
         if sf < cfg["zona"]["santa_fe_min_m"]:
             ev.reasons.append(f"del otro lado de Santa Fe ({-sf:.0f} m)")
+        elif sobre_santa_fe(l, cfg["zona"].get("sobre_santa_fe_m", 0)):
+            ev.reasons.append("sobre Av. Santa Fe")
         else:
             z = microzona(l.lat, l.lon, cfg["zona"]["microzonas"])
             ev.zone = z["nombre"]
@@ -154,6 +170,10 @@ def evaluate(l, cfg):
                 ev.reasons.append(f"zona descartada ({z['nombre']})")
             zpts = pts["zona"] * z["calificacion"] / 10
             ev.score += zpts
+
+    ev.antiguedad = antiguedad(l.text)
+    if ev.antiguedad is not None and ev.antiguedad > req.get("antiguedad_max", 999):
+        ev.reasons.append(f"edificio de {ev.antiguedad} años")
 
     if ev.reasons:
         ev.ok = False
@@ -170,7 +190,6 @@ def evaluate(l, cfg):
         span = max(1, pts["m2_ideal"] - req["m2_cubiertos_min"])
         frac = min(1.0, (l.m2_cubiertos - req["m2_cubiertos_min"]) / span)
         ev.score += round(pts["superficie"] * frac)
-    ev.antiguedad = antiguedad(l.text)
     if ev.antiguedad is not None:
         span = max(1, pts["antiguedad_max"] - pts["antiguedad_ideal"])
         frac = 1 - min(1.0, max(0.0, (ev.antiguedad - pts["antiguedad_ideal"]) / span))

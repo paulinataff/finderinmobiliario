@@ -241,40 +241,12 @@
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20642928"
  },
  "ap:20657859": {
-  "antiguedad": 5,
-  "cochera": null,
   "first_seen": "2026-10-19T02:01:27+00:00",
-  "listing": {
-   "address": "Teniente Benjamín Matienzo 1700, Las Cañitas",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": null,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 182000.0,
-   "expensas_currency": "ARS",
-   "id": "20657859",
-   "images": [
-    "https://www.argenprop.com/static-content/95875602/b7a3a004-dd08-445e-9654-5af8b81e2d70_u_small.jpg"
-   ],
-   "lat": -34.56832,
-   "lon": -58.43489,
-   "m2_cubiertos": 38.0,
-   "price": 790000.0,
-   "publisher": "",
-   "source": "ap",
-   "title": "2 ambientes | luminoso al contrafrente| apto prof.",
-   "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-2-ambientes--20657859"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 35,
-  "total_ars": 972000.0,
-  "zone": "Las Cañitas"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-2-ambientes--20657859"
  },
  "ap:20663471": {
   "first_seen": "2026-10-19T00:57:27+00:00",
@@ -1608,40 +1580,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2060558617-departamento-tipo-duplex-en-alquiler-en-palermo-_JM"
  },
  "ml:MLA2060755381": {
-  "antiguedad": 70,
-  "cochera": false,
   "first_seen": "2026-10-19T01:52:43+00:00",
-  "listing": {
-   "address": "Guido 2500, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 220000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2060755381",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_926114-MLA115693344080_092026-O.webp"
-   ],
-   "lat": -34.585974,
-   "lon": -58.3954436,
-   "m2_cubiertos": 41.0,
-   "price": 850000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento De 41 M2 Con 1 Dormitorio En Alquiler En Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2060755381-departamento-de-41-m2-con-1-dormitorio-en-alquiler-en-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 37,
-  "total_ars": 1070000.0,
-  "zone": "Recoleta: Plaza Francia, Alvear, Posadas"
+  "ok": false,
+  "reasons": [
+   "edificio de 70 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2060755381-departamento-de-41-m2-con-1-dormitorio-en-alquiler-en-recoleta-_JM"
  },
  "ml:MLA2060901151": {
   "first_seen": "2026-10-21T10:30:06+00:00",
@@ -2878,40 +2822,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2107432355-local-oficina-en-alquiler-con-jardin-privado-_JM"
  },
  "ml:MLA2109015717": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-18T16:28:52+00:00",
-  "listing": {
-   "address": "Godoy Cruz 2839, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 240000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2109015717",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_690779-MLA116468609128_092026-O.webp"
-   ],
-   "lat": -34.5774661,
-   "lon": -58.4239874,
-   "m2_cubiertos": 48.0,
-   "price": 800000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Dueño Alquila Dpto 2 Amb Con Dormitorio Y Gran Comedor. Amplio Dept, Pisos Nuevos, Recien Pintado.",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2109015717-dueno-alquila-dpto-2-amb-con-dormitorio-y-gran-comedor-amplio-dept-pisos-nuevos-recien-pintado-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 39,
-  "total_ars": 1040000.0,
-  "zone": "Palermo Nuevo"
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2109015717-dueno-alquila-dpto-2-amb-con-dormitorio-y-gran-comedor-amplio-dept-pisos-nuevos-recien-pintado-_JM"
  },
  "ml:MLA2112065121": {
   "first_seen": "2026-10-19T01:16:16+00:00",
@@ -3051,40 +2967,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2116753185-alquiler-amplio-2-amb-en-plaza-vicente-lopez-_JM"
  },
  "ml:MLA2116793551": {
-  "antiguedad": 15,
-  "cochera": false,
   "first_seen": "2026-10-19T10:29:16+00:00",
-  "listing": {
-   "address": "Larrea Al 1200, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 285000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2116793551",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_979739-MLA116562619844_092026-O.webp"
-   ],
-   "lat": -34.5937553,
-   "lon": -58.4008626,
-   "m2_cubiertos": 43.0,
-   "price": 700000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Moderno Departamento 2 Ambientes - Excelente Ubicación -  Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2116793551-moderno-departamento-2-ambientes-excelente-ubicacion-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-19T10:33:05+00:00",
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 36,
-  "total_ars": 985000.0,
-  "zone": "Recoleta baja"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2116793551-moderno-departamento-2-ambientes-excelente-ubicacion-recoleta-_JM"
  },
  "ml:MLA2116941133": {
   "first_seen": "2026-10-19T01:07:15+00:00",
@@ -3299,40 +3187,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2123707087-departamento-en-alquiler-3-amb-super-luminosos-recien-pintado-_JM"
  },
  "ml:MLA2123751879": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-19T01:14:43+00:00",
-  "listing": {
-   "address": "Arce 200, Las Cañitas, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 200000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2123751879",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_850289-MLA118178714177_092026-O.webp"
-   ],
-   "lat": -34.571545,
-   "lon": -58.429888,
-   "m2_cubiertos": 40.0,
-   "price": 950000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento  En Alquiler En Belgrano, Capital Federal, Buenos Aires",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2123751879-departamento-en-alquiler-en-belgrano-capital-federal-buenos-aires-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 17,
-  "total_ars": 1150000.0,
-  "zone": "Las Cañitas"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2123751879-departamento-en-alquiler-en-belgrano-capital-federal-buenos-aires-_JM"
  },
  "ml:MLA2123998671": {
   "first_seen": "2026-10-19T10:32:43+00:00",
@@ -3683,40 +3543,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2134700559-alquiler-departamento-3-ambientes-con-dependencia-y-cochera-en-recoleta-_JM"
  },
  "ml:MLA2134702389": {
-  "antiguedad": 45,
-  "cochera": false,
   "first_seen": "2026-10-19T01:59:54+00:00",
-  "listing": {
-   "address": "Migueletes Al 1200, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 190000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2134702389",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_916923-MLA116849678908_092026-O.webp"
-   ],
-   "lat": -34.563805,
-   "lon": -58.4387527,
-   "m2_cubiertos": 42.0,
-   "price": 850000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Alquiler De Departamento De 2 Ambientes Palermo Cap Fed",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2134702389-alquiler-de-departamento-de-2-ambientes-palermo-cap-fed-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 19,
-  "total_ars": 1040000.0,
-  "zone": "Luis María Campos norte"
+  "ok": false,
+  "reasons": [
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2134702389-alquiler-de-departamento-de-2-ambientes-palermo-cap-fed-_JM"
  },
  "ml:MLA2136972395": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -3776,40 +3608,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2137739777-piso-de-3-ambientes-en-planta-baja-muy-luminoso-patio-interno-lavadero-_JM"
  },
  "ml:MLA2137780853": {
-  "antiguedad": 45,
-  "cochera": false,
   "first_seen": "2026-10-18T16:21:37+00:00",
-  "listing": {
-   "address": "Laprida  Al 1800, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 180000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2137780853",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_932933-MLA118457746903_092026-O.webp"
-   ],
-   "lat": -34.5892957,
-   "lon": -58.4021525,
-   "m2_cubiertos": 42.0,
-   "price": 825000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento En Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2137780853-departamento-en-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 37,
-  "total_ars": 1005000.0,
-  "zone": "Recoleta alta"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2137780853-departamento-en-recoleta-_JM"
  },
  "ml:MLA2137809859": {
   "first_seen": "2026-10-19T01:10:04+00:00",
@@ -3829,40 +3633,13 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2137815067-alquiler-recoleta-av-santa-fe-y-aguero-2-amb-38m2-apto-profesional-bajas-expensas-subte-d-_JM"
  },
  "ml:MLA2137820415": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-18T16:18:53+00:00",
-  "listing": {
-   "address": "Luis Maria Campos  Al 1200, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 160000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2137820415",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_692018-MLA118458774571_092026-O.webp"
-   ],
-   "lat": -34.5655887,
-   "lon": -58.4403476,
-   "m2_cubiertos": 40.0,
-   "price": 1000000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Alquiler Espectacular Departamento 2 Ambientes Con Bajas Expensas - Palermo Caba",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2137820415-alquiler-espectacular-departamento-2-ambientes-con-bajas-expensas-palermo-caba-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 13,
-  "total_ars": 1160000.0,
-  "zone": "Luis María Campos norte"
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2137820415-alquiler-espectacular-departamento-2-ambientes-con-bajas-expensas-palermo-caba-_JM"
  },
  "ml:MLA2138073391": {
   "first_seen": "2026-10-19T01:51:58+00:00",
@@ -4316,40 +4093,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2149438863-alquiler-departamento-2-ambientes-amoblado-canitas-_JM"
  },
  "ml:MLA2149886811": {
-  "antiguedad": 15,
-  "cochera": true,
   "first_seen": "2026-10-19T01:18:19+00:00",
-  "listing": {
-   "address": "Huergo 200, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 1,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 280000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2149886811",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_904817-MLA118703595399_102026-O.webp"
-   ],
-   "lat": -34.5737102,
-   "lon": -58.4307128,
-   "m2_cubiertos": 46.0,
-   "price": 1000000,
-   "publisher": "Remax Premium",
-   "source": "ml",
-   "title": "Alquiler 2 Amb Cochera. 2 Balcones Exc Ubicacion",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2149886811-alquiler-2-amb-cochera-2-balcones-exc-ubicacion-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 55,
-  "total_ars": 1280000.0,
-  "zone": "Palermo Nuevo"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2149886811-alquiler-2-amb-cochera-2-balcones-exc-ubicacion-_JM"
  },
  "ml:MLA2149888047": {
   "first_seen": "2026-10-18T16:18:17+00:00",
@@ -4663,40 +4412,13 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2157531501-departamento-monoambiente-con-balcon-amenities-y-cochera-_JM"
  },
  "ml:MLA2157542869": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-19T01:51:25+00:00",
-  "listing": {
-   "address": "Cabildo Al 400, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 185000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2157542869",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_882364-MLA117256672848_102026-O.webp"
-   ],
-   "lat": -34.5715112,
-   "lon": -58.4414784,
-   "m2_cubiertos": 47.0,
-   "price": 950000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento 2 Ambientes Con Balcón!!",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2157542869-departamento-2-ambientes-con-balcon-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 20,
-  "total_ars": 1135000.0,
-  "zone": "Las Cañitas"
+  "ok": false,
+  "reasons": [
+   "sobre Av. Santa Fe",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2157542869-departamento-2-ambientes-con-balcon-_JM"
  },
  "ml:MLA2157544831": {
   "first_seen": "2026-10-19T01:57:26+00:00",
@@ -5731,40 +5453,13 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2190055113-santa-fe-2300-alquiler-techos-altos-amplios-ambientes-_JM"
  },
  "ml:MLA2190300737": {
-  "antiguedad": 0,
-  "cochera": false,
   "first_seen": "2026-10-20T10:26:27+00:00",
-  "listing": {
-   "address": "Av. Sta. Fe 3681, Cdad. Autónoma De Buenos Aires, Argentina, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 178000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2190300737",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_966876-MLA119343465955_102026-O.webp"
-   ],
-   "lat": -34.585128,
-   "lon": -58.41575,
-   "m2_cubiertos": 39.0,
-   "price": 800000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Palermo 2 Ambientes, Lateral C/ Balcon Frances. Muy Luminoso. Reciclado, Impecable!!muy Buena Ubicacion Sobre Av. S. Fe A Mts Jardin Botanico. Linea Subte D",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2190300737-palermo-2-ambientes-lateral-c-balcon-frances-muy-luminoso-reciclado-impecablemuy-buena-ubicacion-sobre-av-s-fe-a-mts-jardin-botanico-linea-subte-d-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-20T10:28:18+00:00",
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 48,
-  "total_ars": 978000.0,
-  "zone": "Botánico y Plaza Italia"
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "sobre Av. Santa Fe"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2190300737-palermo-2-ambientes-lateral-c-balcon-frances-muy-luminoso-reciclado-impecablemuy-buena-ubicacion-sobre-av-s-fe-a-mts-jardin-botanico-linea-subte-d-_JM"
  },
  "ml:MLA2190302665": {
   "first_seen": "2026-10-19T01:11:13+00:00",
@@ -5802,40 +5497,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2190504653-departamento-3-ambientes-en-alquiler-recoleta-_JM"
  },
  "ml:MLA2190641441": {
-  "antiguedad": 30,
-  "cochera": false,
   "first_seen": "2026-10-19T01:58:46+00:00",
-  "listing": {
-   "address": "Avenida Las Heras 2400, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 180000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2190641441",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_693017-MLA119348895343_102026-O.webp"
-   ],
-   "lat": -34.586738,
-   "lon": -58.398355,
-   "m2_cubiertos": 40.0,
-   "price": 750000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento 2 Ambientes En Alquiler - Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2190641441-departamento-2-ambientes-en-alquiler-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 42,
-  "total_ars": 930000.0,
-  "zone": "Recoleta alta"
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2190641441-departamento-2-ambientes-en-alquiler-recoleta-_JM"
  },
  "ml:MLA2190891475": {
   "first_seen": "2026-10-18T16:19:28+00:00",
@@ -6513,7 +6180,7 @@
    "currency": "ARS",
    "detailed": true,
    "dormitorios": 1,
-   "expensas": 0.0,
+   "expensas": 148000.0,
    "expensas_currency": "ARS",
    "id": "MLA2212635299",
    "images": [
@@ -6533,8 +6200,8 @@
   "ok": true,
   "pileta": false,
   "reasons": [],
-  "score": 39,
-  "total_ars": 800000,
+  "score": 38,
+  "total_ars": 948000.0,
   "zone": "Recoleta alta"
  },
  "ml:MLA2212764613": {
@@ -6604,40 +6271,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-2216012711-departamento-en-recoleta-amoblado-y-equipado-_JM"
  },
  "ml:MLA2216316821": {
-  "antiguedad": 41,
-  "cochera": false,
   "first_seen": "2026-10-20T17:11:54+00:00",
-  "listing": {
-   "address": "PAUNERO 2793, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 135000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA2216316821",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_748358-MLA119858760943_102026-O.webp"
-   ],
-   "lat": -34.5816242,
-   "lon": -58.4086934,
-   "m2_cubiertos": 42.0,
-   "price": 895000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Paunero 2700",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-2216316821-paunero-2700-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-20T17:12:06+00:00",
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 46,
-  "total_ars": 1030000.0,
-  "zone": "Palermo Chico y Barrio Parque"
+  "ok": false,
+  "reasons": [
+   "edificio de 41 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2216316821-paunero-2700-_JM"
  },
  "ml:MLA2216378217": {
   "first_seen": "2026-10-20T17:11:45+00:00",
@@ -9026,40 +8665,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3908823504-billinghurst-al-1500-3-ambientes-recoleta-balcon-corrido-_JM"
  },
  "ml:MLA3908849692": {
-  "antiguedad": 0,
-  "cochera": false,
   "first_seen": "2026-10-19T01:16:44+00:00",
-  "listing": {
-   "address": "Departamento En Alquiler, 2 Ambientes, En Palermo, Caba, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "USD",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 0.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3908849692",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_846659-MLA115664103410_092026-O.webp"
-   ],
-   "lat": -34.5855492,
-   "lon": -58.4119132,
-   "m2_cubiertos": 60.0,
-   "price": 750,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento En Alquiler, 2 Ambientes, En Palermo, Caba",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3908849692-departamento-en-alquiler-2-ambientes-en-palermo-caba-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 51,
-  "total_ars": 1156875.0,
-  "zone": "Botánico y Plaza Italia"
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3908849692-departamento-en-alquiler-2-ambientes-en-palermo-caba-_JM"
  },
  "ml:MLA3910580736": {
   "first_seen": "2026-10-19T01:14:01+00:00",
@@ -9305,40 +8916,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3927018344-alquiler-palermo-2-ambientes-_JM"
  },
  "ml:MLA3927368540": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-20T10:27:37+00:00",
-  "listing": {
-   "address": "Av. Cnel. Díaz 2000, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 340000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3927368540",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_687308-MLA115906459796_092026-O.webp"
-   ],
-   "lat": -34.5881567,
-   "lon": -58.4096519,
-   "m2_cubiertos": 55.37,
-   "price": 850000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Av Coronel Diaz 2089 M/ Lum Pileta Sum Liv - Com A Balcón Dorm Baño Compl Cocina",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3927368540-av-coronel-diaz-2089-m-lum-pileta-sum-liv-com-a-balcon-dorm-bano-compl-cocina-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-20T10:28:18+00:00",
-  "ok": true,
-  "pileta": true,
-  "reasons": [],
-  "score": 50,
-  "total_ars": 1190000.0,
-  "zone": "Recoleta alta"
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3927368540-av-coronel-diaz-2089-m-lum-pileta-sum-liv-com-a-balcon-dorm-bano-compl-cocina-_JM"
  },
  "ml:MLA3927469670": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -9373,40 +8956,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3928202252-departamento-alquiler-3-ambientes-balcon-recoleta--_JM"
  },
  "ml:MLA3928255678": {
-  "antiguedad": 41,
-  "cochera": false,
   "first_seen": "2026-10-19T10:29:26+00:00",
-  "listing": {
-   "address": "PAUNERO 2793, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 135000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3928255678",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_844061-MLA117382735417_092026-O.webp"
-   ],
-   "lat": -34.5816242,
-   "lon": -58.4086934,
-   "m2_cubiertos": 42.0,
-   "price": 890000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Paunero 2700",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3928255678-paunero-2700-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-19T10:33:05+00:00",
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 47,
-  "total_ars": 1025000.0,
-  "zone": "Palermo Chico y Barrio Parque"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3928255678-paunero-2700-_JM"
  },
  "ml:MLA3929129254": {
   "first_seen": "2026-10-19T10:28:33+00:00",
@@ -9649,40 +9204,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3940477728-alquiler-2-ambientes-recoleta-zona-alto-palermo-_JM"
  },
  "ml:MLA3940617418": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-18T16:36:30+00:00",
-  "listing": {
-   "address": "Arce 200, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 150000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3940617418",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_991385-MLA116056425498_092026-O.webp"
-   ],
-   "lat": -34.5717751,
-   "lon": -58.4293738,
-   "m2_cubiertos": 40.0,
-   "price": 950000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento  En Alquiler En Belgrano, Capital Federal, Buenos Aires",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3940617418-departamento-en-alquiler-en-belgrano-capital-federal-buenos-aires-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 19,
-  "total_ars": 1100000.0,
-  "zone": "Las Cañitas"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3940617418-departamento-en-alquiler-en-belgrano-capital-federal-buenos-aires-_JM"
  },
  "ml:MLA3940718956": {
   "first_seen": "2026-10-18T16:27:10+00:00",
@@ -10085,40 +9612,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3961901502-alquiler-2-ambientes-en-palermo-_JM"
  },
  "ml:MLA3962980976": {
-  "antiguedad": 10,
-  "cochera": false,
   "first_seen": "2026-10-19T01:17:17+00:00",
-  "listing": {
-   "address": "Matienzo Al 2400, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "USD",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 400.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3962980976",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_704876-MLA116312344516_092026-O.webp"
-   ],
-   "lat": -34.5728136,
-   "lon": -58.4394689,
-   "m2_cubiertos": 65.0,
-   "price": 800,
-   "publisher": "",
-   "source": "ml",
-   "title": "Alquiler Departamento 2 Ambientes Con Balcón En Palermo",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3962980976-alquiler-departamento-2-ambientes-con-balcon-en-palermo-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 33,
-  "total_ars": 1234400.0,
-  "zone": "Las Cañitas"
+  "ok": false,
+  "reasons": [
+   "sobre Av. Santa Fe"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3962980976-alquiler-departamento-2-ambientes-con-balcon-en-palermo-_JM"
  },
  "ml:MLA3963899008": {
   "first_seen": "2026-10-19T01:18:23+00:00",
@@ -10618,40 +10117,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3987375834-departamento-4-ambientes-en-palermo-quartier-ocampo-2-cocheras-_JM"
  },
  "ml:MLA3987484700": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-19T01:18:48+00:00",
-  "listing": {
-   "address": "Av. Luis María Campos 843, Las Cañitas, Las Cañitas, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 280000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3987484700",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_765421-MLA116603223654_092026-O.webp"
-   ],
-   "lat": -34.5688006,
-   "lon": -58.4368719,
-   "m2_cubiertos": 43.0,
-   "price": 900000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento 2 Ambientes En Alquiler En Las Cañitas",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3987484700-departamento-2-ambientes-en-alquiler-en-las-canitas-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 17,
-  "total_ars": 1180000.0,
-  "zone": "Las Cañitas"
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3987484700-departamento-2-ambientes-en-alquiler-en-las-canitas-_JM"
  },
  "ml:MLA3987506702": {
   "first_seen": "2026-10-20T10:27:41+00:00",
@@ -10663,40 +10134,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-3987506702-2-ambientes-con-gran-balcon-al-frente-palermo-alquiler-_JM"
  },
  "ml:MLA3987580772": {
-  "antiguedad": null,
-  "cochera": false,
   "first_seen": "2026-10-22T10:30:34+00:00",
-  "listing": {
-   "address": "Larrea 1354, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 190000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA3987580772",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_756183-MLA118123502487_092026-O.webp"
-   ],
-   "lat": -34.5913913,
-   "lon": -58.3997408,
-   "m2_cubiertos": 40.0,
-   "price": 890000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Depto 2 Ambientes Recoleta Alquiler",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-3987580772-depto-2-ambientes-recoleta-alquiler-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-22T10:30:50+00:00",
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 23,
-  "total_ars": 1080000.0,
-  "zone": "Recoleta baja"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-3987580772-depto-2-ambientes-recoleta-alquiler-_JM"
  },
  "ml:MLA3987583652": {
   "first_seen": "2026-10-20T10:23:30+00:00",
@@ -11027,40 +10470,13 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4001653536-av-alvear-piso-de-categoria-reciclado-vista-abierta-a-plaza-_JM"
  },
  "ml:MLA4002263018": {
-  "antiguedad": 61,
-  "cochera": false,
   "first_seen": "2026-10-19T01:19:53+00:00",
-  "listing": {
-   "address": "Beruti 3700, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 193000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4002263018",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_877943-MLA116813945378_092026-O.webp"
-   ],
-   "lat": -34.5848918,
-   "lon": -58.4134064,
-   "m2_cubiertos": 38.0,
-   "price": 685000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Alquiler Depto  2 Ambientes - Palermo",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4002263018-alquiler-depto-2-ambientes-palermo-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 39,
-  "total_ars": 878000.0,
-  "zone": "Botánico y Plaza Italia"
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 61 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4002263018-alquiler-depto-2-ambientes-palermo-_JM"
  },
  "ml:MLA4003673896": {
   "first_seen": "2026-10-19T10:33:04+00:00",
@@ -12929,40 +12345,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4056088220-alquiler-monoambiente-a-estrenar-palermo-_JM"
  },
  "ml:MLA4056088326": {
-  "antiguedad": 57,
-  "cochera": false,
   "first_seen": "2026-10-19T01:15:13+00:00",
-  "listing": {
-   "address": "Calle Silvio L. Ruggeri 2700, Palermo, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 186000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4056088326",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_794359-MLA119117555417_102026-O.webp"
-   ],
-   "lat": -34.5824323,
-   "lon": -58.4081818,
-   "m2_cubiertos": 48.0,
-   "price": 890000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Alquiler Depto 2 Amb Balcon Al Frente Palermo",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4056088326-alquiler-depto-2-amb-balcon-al-frente-palermo-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 38,
-  "total_ars": 1076000.0,
-  "zone": "Botánico y Plaza Italia"
+  "ok": false,
+  "reasons": [
+   "edificio de 57 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4056088326-alquiler-depto-2-amb-balcon-al-frente-palermo-_JM"
  },
  "ml:MLA4056571578": {
   "first_seen": "2026-10-19T01:10:04+00:00",
@@ -13089,40 +12477,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4062956690-alquiler-por-dia-mes-ano-equipado-alto-palermo-2-dorm-2-banos-dueno-_JM"
  },
  "ml:MLA4063192526": {
-  "antiguedad": 5,
-  "cochera": false,
   "first_seen": "2026-10-19T10:30:09+00:00",
-  "listing": {
-   "address": "Matienzo 1700, Las Cañitas, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 182000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4063192526",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_610871-MLA117599355818_102026-O.webp"
-   ],
-   "lat": -34.5683212,
-   "lon": -58.4348869,
-   "m2_cubiertos": 38.0,
-   "price": 790000,
-   "publisher": "Mel Propiedades",
-   "source": "ml",
-   "title": "2 Ambientes | Luminoso Al Contrafrente| Apto Prof.",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4063192526-2-ambientes-luminoso-al-contrafrente-apto-prof-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-19T10:33:05+00:00",
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 35,
-  "total_ars": 972000.0,
-  "zone": "Las Cañitas"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4063192526-2-ambientes-luminoso-al-contrafrente-apto-prof-_JM"
  },
  "ml:MLA4063509942": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -13210,40 +12570,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4068259752-increible-depto-2-amb-piso-21-con-cochera-en-palermo-_JM"
  },
  "ml:MLA4068657314": {
-  "antiguedad": 45,
-  "cochera": false,
   "first_seen": "2026-10-19T10:32:46+00:00",
-  "listing": {
-   "address": "French 2978, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 247000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4068657314",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_901219-MLA117658688366_102026-O.webp"
-   ],
-   "lat": -34.5875511,
-   "lon": -58.4052086,
-   "m2_cubiertos": 45.0,
-   "price": 930000,
-   "publisher": "",
-   "source": "ml",
-   "title": " 2 Amb. Frente Balcón. Coc Indep. Baño Y Toilette",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4068657314-2-amb-frente-balcon-coc-indep-bano-y-toilette-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-19T10:33:05+00:00",
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 32,
-  "total_ars": 1177000.0,
-  "zone": "Recoleta alta"
+  "ok": false,
+  "reasons": [
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4068657314-2-amb-frente-balcon-coc-indep-bano-y-toilette-_JM"
  },
  "ml:MLA4068666192": {
   "first_seen": "2026-10-19T01:13:49+00:00",
@@ -13624,40 +12956,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4075662508-2-ambientes-av-cordoba-facultad-de-medicina-_JM"
  },
  "ml:MLA4075662924": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-19T01:22:51+00:00",
-  "listing": {
-   "address": "Avda Las Heras   Al 2300 (rsv), Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 170000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4075662924",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_808963-MLA119367724963_102026-O.webp"
-   ],
-   "lat": -34.5866513,
-   "lon": -58.3979469,
-   "m2_cubiertos": 38.0,
-   "price": 600000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento En Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4075662924-departamento-en-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 39,
-  "total_ars": 770000.0,
-  "zone": "Recoleta alta"
+  "ok": false,
+  "reasons": [
+   "aviso dado de baja"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4075662924-departamento-en-recoleta-_JM"
  },
  "ml:MLA4075686834": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -13842,40 +13146,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4080252824-departamento-4-ambientes-recoleta-alquiler-_JM"
  },
  "ml:MLA4080258678": {
-  "antiguedad": 40,
-  "cochera": false,
   "first_seen": "2026-10-18T16:23:50+00:00",
-  "listing": {
-   "address": "Av. Sta. Fe 2059, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 130000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4080258678",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_847347-MLA117848663222_102026-O.webp"
-   ],
-   "lat": -34.5955001,
-   "lon": -58.3968428,
-   "m2_cubiertos": 40.0,
-   "price": 800000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Hermoso Departamento Con Patio. Apto Mascotas. Cerca De Todo En Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4080258678-hermoso-departamento-con-patio-apto-mascotas-cerca-de-todo-en-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": null,
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 28,
-  "total_ars": 930000.0,
-  "zone": "Recoleta baja"
+  "ok": false,
+  "reasons": [
+   "sobre Av. Santa Fe"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4080258678-hermoso-departamento-con-patio-apto-mascotas-cerca-de-todo-en-recoleta-_JM"
  },
  "ml:MLA4080309162": {
   "first_seen": "2026-10-19T02:00:50+00:00",
@@ -14213,40 +13489,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4087253782-alquiler-2-amb-ccochera-santos-dumont-2500-palermo-_JM"
  },
  "ml:MLA4087269788": {
-  "antiguedad": 80,
-  "cochera": false,
   "first_seen": "2026-10-20T10:25:30+00:00",
-  "listing": {
-   "address": "Posadas 1500, Cdad. Autónoma De Buenos Aires, Argentina, Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 280000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4087269788",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_610099-MLA117965055968_102026-O.webp"
-   ],
-   "lat": -34.587741,
-   "lon": -58.386938,
-   "m2_cubiertos": 40.0,
-   "price": 850000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento En Alquiler En Recoleta 2 Ambientes, Para 1 Persona",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4087269788-departamento-en-alquiler-en-recoleta-2-ambientes-para-1-persona-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-20T10:28:18+00:00",
-  "ok": true,
-  "pileta": null,
-  "reasons": [],
-  "score": 35,
-  "total_ars": 1130000.0,
-  "zone": "Recoleta: Plaza Francia, Alvear, Posadas"
+  "ok": false,
+  "reasons": [
+   "edificio de 80 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4087269788-departamento-en-alquiler-en-recoleta-2-ambientes-para-1-persona-_JM"
  },
  "ml:MLA4087270390": {
   "first_seen": "2026-10-19T01:23:12+00:00",
@@ -15617,40 +14865,12 @@
   "url": "https://departamento.mercadolibre.com.ar/MLA-4119980526-departamento-en-palermo-_JM"
  },
  "ml:MLA4119986684": {
-  "antiguedad": 50,
-  "cochera": false,
   "first_seen": "2026-10-23T17:59:29+00:00",
-  "listing": {
-   "address": "Avda Las Heras   Al 2300 (rsv), Recoleta, Capital Federal",
-   "ambientes": 2,
-   "barrio": "",
-   "cocheras": 0,
-   "currency": "ARS",
-   "detailed": true,
-   "dormitorios": 1,
-   "expensas": 170000.0,
-   "expensas_currency": "ARS",
-   "id": "MLA4119986684",
-   "images": [
-    "https://http2.mlstatic.com/D_NQ_NP_877460-MLA118430362378_102026-O.webp"
-   ],
-   "lat": -34.5866513,
-   "lon": -58.3979469,
-   "m2_cubiertos": 38.0,
-   "price": 600000,
-   "publisher": "",
-   "source": "ml",
-   "title": "Departamento En Recoleta",
-   "url": "https://departamento.mercadolibre.com.ar/MLA-4119986684-departamento-en-recoleta-_JM"
-  },
-  "notes": [],
-  "notified": "2026-10-23T17:59:30+00:00",
-  "ok": true,
-  "pileta": false,
-  "reasons": [],
-  "score": 39,
-  "total_ars": 770000.0,
-  "zone": "Recoleta alta"
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4119986684-departamento-en-recoleta-_JM"
  },
  "ml:MLA4119999540": {
   "first_seen": "2026-10-23T17:59:18+00:00",

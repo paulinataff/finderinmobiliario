@@ -12,8 +12,8 @@ import requests
 import yaml
 
 from . import geo, notify
-from .http import Blocked, PoliteSession
-from .rules import evaluate
+from .http import Blocked, Gone, PoliteSession
+from .rules import Evaluation, evaluate
 from .sources import argenprop, mercadolibre
 from .store import Store
 
@@ -35,6 +35,15 @@ def collect(cfg, full):
         except Blocked as e:
             log.warning("%s pidió verificación anti-bot; lo salteo en esta corrida (%s)", mod.SOURCE, e)
     return out
+
+
+def same_unit(a, b):
+    """Mismo departamento publicado dos veces (otra inmobiliaria u otro portal)."""
+    la, lb = a["listing"], b["listing"]
+    if None in (la["lat"], lb["lat"], la["m2_cubiertos"], lb["m2_cubiertos"]):
+        return False
+    near = abs(la["lat"] - lb["lat"]) < 0.0004 and abs(la["lon"] - lb["lon"]) < 0.0005  # ~40 m
+    return near and abs(la["m2_cubiertos"] - lb["m2_cubiertos"]) <= 3
 
 
 def run(full=False, dry_run=False, max_details=60):
@@ -66,6 +75,9 @@ def run(full=False, dry_run=False, max_details=60):
                 try:
                     mod.fetch_detail(session, l)
                     details += 1
+                except Gone:
+                    store.put(l, Evaluation(ok=False, reasons=["aviso dado de baja"]))
+                    continue
                 except Blocked as e:
                     log.warning("%s bloqueó la ficha; sigo en la próxima corrida (%s)", mod.SOURCE, e)
                     blocked = True
@@ -88,6 +100,15 @@ def run(full=False, dry_run=False, max_details=60):
         if store.get(k)["score"] >= cfg["alertas"]["puntaje_min"] and not store.get(k)["notified"]
     ]
     pending.sort(key=lambda i: -i["score"])
+    already = [v for v in store.items.values() if v.get("ok") and v.get("notified")]
+    unique = []
+    for i in pending:
+        if any(same_unit(i, o) for o in already + unique):
+            log.info("Duplicado, no se avisa: %s", i["listing"]["url"])
+            store.mark_notified(f"{i['listing']['source']}:{i['listing']['id']}")
+        else:
+            unique.append(i)
+    pending = unique
     log.info("%d avisos nuevos que cumplen todo", len(pending))
     if pending and not dry_run:
         notify.send(pending)

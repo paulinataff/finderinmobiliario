@@ -5,6 +5,7 @@ import re
 
 import requests
 
+from ..http import Blocked, Gone
 from ..model import Listing
 
 log = logging.getLogger(__name__)
@@ -89,12 +90,18 @@ def parse_list(html):
 
 
 def parse_detail(html, l):
+    # Un aviso dado de baja sigue mostrando sus datos, con el cartel "Publicación finalizada".
+    if re.search(r"\"item_status\":\"(closed|paused|inactive)\"|-inactive-", html):
+        raise Gone(l.url)
     st = _state(html)
     specs = {}
     for groups in _walk(st, "specs"):
         for g in groups if isinstance(groups, list) else []:
             for a in g.get("attributes", []):
                 specs[a.get("id", "")] = a.get("text", "")
+    if not specs:
+        # Página sin los datos del aviso (verificación o error temporal): no evaluar con eso.
+        raise Blocked(f"ficha sin datos {l.url}")
     loc = next((v for v in _walk(st, "map_info") if isinstance(v, dict)), {}).get("location", {})
     if loc.get("latitude"):
         l.lat, l.lon = float(loc["latitude"]), float(loc["longitude"])
@@ -143,4 +150,8 @@ def fetch(session, cfg, max_pages=1, today_only=False):
 
 
 def fetch_detail(session, l):
-    return parse_detail(session.get(l.url).text, l)
+    r = session.get(l.url)
+    # Un aviso dado de baja redirige al listado o muestra "Publicación finalizada".
+    if "departamento.mercadolibre" not in r.url:
+        raise Gone(l.url)
+    return parse_detail(r.text, l)

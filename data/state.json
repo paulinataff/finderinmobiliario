@@ -7100,6 +7100,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2233213625-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2234150181": {
+  "first_seen": "2026-10-25T16:31:07+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.876.680 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2234150181-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2234150237": {
+  "first_seen": "2026-10-25T16:31:07+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.284.190 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2234150237-departamento-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15095,5 +15111,13 @@
    "del otro lado de Santa Fe (156 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4123438726-departamento-en-alquiler-2-ambientes-en-palermo-_JM"
+ },
+ "ml:MLA4124536748": {
+  "first_seen": "2026-10-25T16:31:07+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.100.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4124536748-departamento-semipiso-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
  }
 }

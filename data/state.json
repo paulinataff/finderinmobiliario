@@ -7217,6 +7217,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2236365401-departamento-en-palermo-_JM"
  },
+ "ml:MLA2236594671": {
+  "first_seen": "2026-10-26T16:00:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.405.946 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236594671-bello-depto-3-ambientes-full-recoleta-patio-lavadero-baulera-precio-paquete-alquiler-y-expensas-_JM"
+ },
+ "ml:MLA2236699717": {
+  "first_seen": "2026-10-26T16:00:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.658.630 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236699717-quartier-sinclair-alto-3-ambientes-2-banos-cochera-todos-los-amenities-espectacular--_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

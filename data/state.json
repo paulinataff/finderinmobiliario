@@ -7338,6 +7338,32 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2237221633-venta-en-piso-alto-reciclado-mucha-luz-_JM"
  },
+ "ml:MLA2237322085": {
+  "first_seen": "2026-10-26T21:04:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.893.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2237322085-departamento-en-alquiler-en-palermo-piso-10-parrilla-amenities-luminoso-patio-_JM"
+ },
+ "ml:MLA2237349209": {
+  "first_seen": "2026-10-26T21:04:24+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2237349209-departamento-3-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA2237353071": {
+  "first_seen": "2026-10-26T21:04:30+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.452.000 supera el máximo",
+   "del otro lado de Santa Fe (15 m)",
+   "edificio de 70 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2237353071-alquiler-departamento-2-ambientes-totalmente-reciclado-palermo-frente-vista-al-jardin-botanico-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

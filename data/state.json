@@ -7225,6 +7225,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2236594671-bello-depto-3-ambientes-full-recoleta-patio-lavadero-baulera-precio-paquete-alquiler-y-expensas-_JM"
  },
+ "ml:MLA2236683121": {
+  "first_seen": "2026-10-26T17:16:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.883.040 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236683121-alquiler-departamento-en-palermo-amoblado-y-equipado-_JM"
+ },
  "ml:MLA2236699717": {
   "first_seen": "2026-10-26T16:00:41+00:00",
   "ok": false,
@@ -7232,6 +7240,14 @@
    "total $2.658.630 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2236699717-quartier-sinclair-alto-3-ambientes-2-banos-cochera-todos-los-amenities-espectacular--_JM"
+ },
+ "ml:MLA2236702737": {
+  "first_seen": "2026-10-26T17:16:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236702737-departamento-3-ambientes-con-blacon-aterrazado--_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
@@ -15355,5 +15371,13 @@
    "edificio de 45 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4127040424-2-ambientes-alquiler-en-palermo-muy-luminoso-_JM"
+ },
+ "ml:MLA4128146700": {
+  "first_seen": "2026-10-26T17:16:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.883.040 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4128146700-departamento-en-alquiler-duplex-2-ambientes-amoblado-_JM"
  }
 }

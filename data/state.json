@@ -7249,6 +7249,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2236702737-departamento-3-ambientes-con-blacon-aterrazado--_JM"
  },
+ "ml:MLA2236956311": {
+  "first_seen": "2026-10-26T18:08:44+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236956311-departamento-2-ambientes-alquiler-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15372,6 +15380,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4127040424-2-ambientes-alquiler-en-palermo-muy-luminoso-_JM"
  },
+ "ml:MLA4127899940": {
+  "first_seen": "2026-10-26T18:08:49+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (311 m)",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4127899940-departamento-dos-ambientes-recoleta-amoblado-_JM"
+ },
  "ml:MLA4128146700": {
   "first_seen": "2026-10-26T17:16:00+00:00",
   "ok": false,
@@ -15379,5 +15396,13 @@
    "total $1.883.040 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4128146700-departamento-en-alquiler-duplex-2-ambientes-amoblado-_JM"
+ },
+ "ml:MLA4128152522": {
+  "first_seen": "2026-10-26T18:08:49+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4128152522-departamento-en-alquiler-en-palermo-hollywood-con-balcon-luminoso-_JM"
  }
 }

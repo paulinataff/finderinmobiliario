@@ -7372,6 +7372,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2237355767-departamento-alquiler-2-ambientes-palermo-_JM"
  },
+ "ml:MLA2237555307": {
+  "first_seen": "2026-10-26T23:04:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.893.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2237555307-alquiler-departamento-tres-ambientes-en-las-canitas-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

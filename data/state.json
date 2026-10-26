@@ -7133,6 +7133,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2234567217-recoleta-pena-2500-piso-alto-premium-4-amb-2-cocheras-_JM"
  },
+ "ml:MLA2234684625": {
+  "first_seen": "2026-10-26T02:31:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.563.900 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2234684625-alquiler-2-amb-amoblado-palermo-torre-quo-paraguay-_JM"
+ },
+ "ml:MLA2234710193": {
+  "first_seen": "2026-10-26T02:32:02+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2234710193-alquiler-2-ambientes-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

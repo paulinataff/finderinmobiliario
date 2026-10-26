@@ -15200,5 +15200,39 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4125074048-dpto-3-amb-en-alquiler-canitas-cbalcon-y-muebles-_JM"
+ },
+ "ml:MLA4125349380": {
+  "first_seen": "2026-10-26T05:31:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.630.000 supera el máximo",
+   "edificio de 65 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4125349380-departamento-en-alquiler-3-ambientes-recoleta-amueblado-_JM"
+ },
+ "ml:MLA4125509886": {
+  "first_seen": "2026-10-26T05:31:44+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (494 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4125509886-2-ambientes-alquiler-facultad-de-medicina-recoleta-_JM"
+ },
+ "ml:MLA4125533142": {
+  "first_seen": "2026-10-26T05:31:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.440.580 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4125533142-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4125535650": {
+  "first_seen": "2026-10-26T05:31:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.033.070 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4125535650-departamento-2-ambientes-en-alquiler-amueblado-av-libertador-palermo-_JM"
  }
 }

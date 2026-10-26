@@ -15521,5 +15521,37 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4128360562-alquiler-departamento-de-3-ambientes-con-dependencia-en-las-canitas-_JM"
+ },
+ "ml:MLA4128479396": {
+  "first_seen": "2026-10-26T20:04:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.050.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4128479396-alquiler-amoblado-3-amb-seguridad-24hs-recoleta-_JM"
+ },
+ "ml:MLA4128479662": {
+  "first_seen": "2026-10-26T20:04:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.050.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4128479662-alquiler-amoblado-3-amb-seguridad-24hs-palermo-recoleta-_JM"
+ },
+ "ml:MLA4128502088": {
+  "first_seen": "2026-10-26T20:04:40+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4128502088-alquiler-departamento-monoambiente-recoleta-_JM"
+ },
+ "ml:MLA4128524836": {
+  "first_seen": "2026-10-26T20:04:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.524.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4128524836-departamento-en-alquiler-en-palermo-hollywood-_JM"
  }
 }

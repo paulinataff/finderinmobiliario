@@ -7157,6 +7157,66 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2234710193-alquiler-2-ambientes-en-recoleta-_JM"
  },
+ "ml:MLA2236288259": {
+  "first_seen": "2026-10-26T14:42:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236288259-3-ambientes-con-cochera-en-palermo-_JM"
+ },
+ "ml:MLA2236308533": {
+  "first_seen": "2026-10-26T14:42:16+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.718.530 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236308533-alquiler-departamento-4-amb-con-balcon-corrido-palermo-_JM"
+ },
+ "ml:MLA2236310883": {
+  "first_seen": "2026-10-26T14:42:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.530.670 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236310883-departamento-en-alquiler-torre-bella-palermo-soho-_JM"
+ },
+ "ml:MLA2236312383": {
+  "first_seen": "2026-10-26T14:41:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.905.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236312383-departamentos-alquiler-recoleta-_JM"
+ },
+ "ml:MLA2236313635": {
+  "first_seen": "2026-10-26T14:42:16+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1397 m)",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236313635-departamento-palermo-_JM"
+ },
+ "ml:MLA2236365029": {
+  "first_seen": "2026-10-26T14:41:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236365029-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2236365401": {
+  "first_seen": "2026-10-26T14:41:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo",
+   "del otro lado de Santa Fe (453 m)",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2236365401-departamento-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15160,6 +15220,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4123418122-exclusivo-2-amb-a-nuevo-con-vista-panoramica-torre-de-categoria-full-amenities-las-canitas-_JM"
  },
+ "ml:MLA4123424584": {
+  "first_seen": "2026-10-26T14:42:16+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.874.760 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4123424584-alquiler-amoblado-palermo-2-dorm-ideal-vivienda-y-trabajo-remoto-luminoso-vista-abierta-_JM"
+ },
  "ml:MLA4123438726": {
   "first_seen": "2026-10-25T02:05:00+00:00",
   "ok": false,
@@ -15242,5 +15310,34 @@
    "total $2.033.070 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4125535650-departamento-2-ambientes-en-alquiler-amueblado-av-libertador-palermo-_JM"
+ },
+ "ml:MLA4126809818": {
+  "first_seen": "2026-10-26T14:42:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo",
+   "no menciona balcón",
+   "del otro lado de Santa Fe (127 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4126809818-semipiso-de-73-m2-de-2-dormitorios-en-alquiler-en-palermo-soho-_JM"
+ },
+ "ml:MLA4127039984": {
+  "first_seen": "2026-10-26T14:42:11+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.510.000 supera el máximo",
+   "no menciona balcón",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4127039984-2-ambientes-alquiler-en-belgrano-muy-luminoso-_JM"
+ },
+ "ml:MLA4127040424": {
+  "first_seen": "2026-10-26T14:42:07+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (34 m)",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4127040424-2-ambientes-alquiler-en-palermo-muy-luminoso-_JM"
  }
 }

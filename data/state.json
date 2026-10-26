@@ -7141,6 +7141,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2234684625-alquiler-2-amb-amoblado-palermo-torre-quo-paraguay-_JM"
  },
+ "ml:MLA2234688241": {
+  "first_seen": "2026-10-26T03:31:27+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2234688241-departamento-en-recoleta-_JM"
+ },
  "ml:MLA2234710193": {
   "first_seen": "2026-10-26T02:32:02+00:00",
   "ok": false,

@@ -7125,6 +7125,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2234299491-departamento-de-2-ambientes-en-palermo-piso-8-todo-luz-frente-al-parque-las-heras-_JM"
  },
+ "ml:MLA2234567217": {
+  "first_seen": "2026-10-26T00:44:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $7.803.861 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2234567217-recoleta-pena-2500-piso-alto-premium-4-amb-2-cocheras-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

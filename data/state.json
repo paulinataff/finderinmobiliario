@@ -7388,6 +7388,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2237603567-alquiler-departamento-monoambiente-en-palermo-_JM"
  },
+ "ml:MLA2237802067": {
+  "first_seen": "2026-10-27T02:28:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.200.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2237802067-venta-departamento-5-ambientes-dependencia-balcon-apto-credito-recoleta-permuta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15611,5 +15619,13 @@
    "total $2.050.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4128972476-5-ambientes-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4129166114": {
+  "first_seen": "2026-10-27T02:28:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4129166114-alquiler-5-ambientes-recoleta-cochera-balcon-sol-_JM"
  }
 }

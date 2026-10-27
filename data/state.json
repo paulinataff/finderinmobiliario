@@ -7420,6 +7420,30 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2239831569-alquiler-2-ambientes-en-las-canitas-_JM"
  },
+ "ml:MLA2239839019": {
+  "first_seen": "2026-10-27T15:18:38+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2239839019-departamento-venta-alquiler-monoambiente-a-estrenar-con-balcon-recoleta-_JM"
+ },
+ "ml:MLA2239874617": {
+  "first_seen": "2026-10-27T15:18:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.405.800 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2239874617-alquiler-departamento-de-2-ambientes-en-barrio-recoleta-_JM"
+ },
+ "ml:MLA2239999911": {
+  "first_seen": "2026-10-27T15:18:37+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (622 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2239999911-departamento-en-alquiler-2-ambientes-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15765,5 +15789,38 @@
    "total $5.640.840 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4131412808-venta-de-departamento-7-ambientes-con-2-cocheras-belgrano-_JM"
+ },
+ "ml:MLA4131775762": {
+  "first_seen": "2026-10-27T15:18:43+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4131775762-dos-ambientes-recoleta-luminoso-con-balcon-_JM"
+ },
+ "ml:MLA4131799844": {
+  "first_seen": "2026-10-27T15:18:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.499.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4131799844-departamento-2-ambientes-amoblado-en-alquiler-_JM"
+ },
+ "ml:MLA4131888504": {
+  "first_seen": "2026-10-27T15:18:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.686.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4131888504-bustamante-prop-12705-alquiler-anual-departamento-4-ambientes-recoleta-caba-_JM"
+ },
+ "ml:MLA4131888512": {
+  "first_seen": "2026-10-27T15:18:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.686.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4131888512-bustamante-prop-12705-alquiler-anual-departamento-4-ambientes-recoleta-caba-_JM"
  }
 }

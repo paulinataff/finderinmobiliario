@@ -15652,5 +15652,21 @@
    "total $3.470.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4129669248-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4129684460": {
+  "first_seen": "2026-10-27T06:04:53+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.521.250 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4129684460-alquiler-amoblado-departamento-5-amb-con-terraza-propia-en-recoleta-_JM"
+ },
+ "ml:MLA4129874652": {
+  "first_seen": "2026-10-27T06:04:53+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.971.875 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4129874652-departamento-en-palermo-_JM"
  }
 }

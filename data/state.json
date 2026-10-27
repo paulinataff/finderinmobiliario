@@ -15636,5 +15636,21 @@
    "del otro lado de Santa Fe (581 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4129169708-alquiler-departamento-2-ambientes-en-las-canitas-_JM"
+ },
+ "ml:MLA4129667788": {
+  "first_seen": "2026-10-27T05:06:44+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4129667788-departamento-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
+ },
+ "ml:MLA4129669248": {
+  "first_seen": "2026-10-27T05:06:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.470.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4129669248-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  }
 }

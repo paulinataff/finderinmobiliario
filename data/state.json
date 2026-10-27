@@ -7412,6 +7412,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2239513579-departamento-en-palermo-_JM"
  },
+ "ml:MLA2239831569": {
+  "first_seen": "2026-10-27T14:20:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.507.040 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2239831569-alquiler-2-ambientes-en-las-canitas-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15749,5 +15757,13 @@
    "edificio de 54 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4130786814-palermo-gorriti-3500-alquiler-2-amb-cbalcon-600000-y-exp-350000-_JM"
+ },
+ "ml:MLA4131412808": {
+  "first_seen": "2026-10-27T14:20:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.640.840 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4131412808-venta-de-departamento-7-ambientes-con-2-cocheras-belgrano-_JM"
  }
 }

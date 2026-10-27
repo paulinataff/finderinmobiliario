@@ -16240,5 +16240,13 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4132908604-gran-monoambiente-en-alquiler-en-las-canitas-_JM"
+ },
+ "ml:MLA4133015262": {
+  "first_seen": "2026-10-27T23:04:07+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.150.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133015262-alquiler-3-dormitorios-en-recoleta-escritorio-dependencia-_JM"
  }
 }

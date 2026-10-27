@@ -7575,6 +7575,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2240441533-departamento-de-23-en-alquiler-con-balcon-al-frente-en-palermo-_JM"
  },
+ "ml:MLA2240520301": {
+  "first_seen": "2026-10-27T20:07:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2240520301-departamento-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -15954,6 +15962,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4131871976-muy-luminoso-departamento-de-cuatro-ambientes-con-balcon-en-excelente-zona-_JM"
  },
+ "ml:MLA4131873592": {
+  "first_seen": "2026-10-27T20:07:40+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4131873592-monoambiente-divisible-45-m2-excelente-ubicacion-palermo-hollywood-_JM"
+ },
  "ml:MLA4131888504": {
   "first_seen": "2026-10-27T15:18:43+00:00",
   "ok": false,
@@ -16108,5 +16124,21 @@
    "total $2.340.300 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4132698904-departamentos-alquiler-palermo-_JM"
+ },
+ "ml:MLA4132766998": {
+  "first_seen": "2026-10-27T20:07:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4132766998-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4132769940": {
+  "first_seen": "2026-10-27T20:07:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.965.710 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4132769940-departamento-en-recoleta-_JM"
  }
 }

@@ -7938,6 +7938,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2243632201-alquiler-3-ambientes-en-excelente-estado-duplex-super-luminoso-piscina-en-terraza-_JM"
  },
+ "ml:MLA2243636747": {
+  "first_seen": "2026-10-28T22:35:10+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.887.720 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243636747-town-house-boulevard-las-canitas-2-ambientes-amenities-apto-profesional-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -16877,5 +16885,13 @@
    "del otro lado de Santa Fe (58 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136555722-departamento-3-ambientes-con-dependencia-se-servicio-y-patio-_JM"
+ },
+ "ml:MLA4136841518": {
+  "first_seen": "2026-10-28T22:35:10+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136841518-alquiler-2-amb-ccochera-santos-dumont-2500-palermo-_JM"
  }
 }

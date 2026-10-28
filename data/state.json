@@ -7881,6 +7881,31 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2243397483-excelente-5-ambientes-dependencia-con-balcon-y-vista-verde-en-recoleta-_JM"
  },
+ "ml:MLA2243476015": {
+  "first_seen": "2026-10-28T19:43:56+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (243 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243476015-alquiler-2-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA2243486761": {
+  "first_seen": "2026-10-28T19:43:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.347.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243486761-departamento-en-alquiler-3-ambientes-en-las-canitas-palermo-luminoso-_JM"
+ },
+ "ml:MLA2243500075": {
+  "first_seen": "2026-10-28T19:43:50+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (835 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243500075-departamento-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -16524,6 +16549,14 @@
   "total_ars": 1135000.0,
   "zone": "Las Cañitas"
  },
+ "ml:MLA4133302566": {
+  "first_seen": "2026-10-28T19:44:01+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133302566-hermoso-monoambiente-en-inmejorable-ubicacion-todo-luz-balcon-grande-_JM"
+ },
  "ml:MLA4133602326": {
   "first_seen": "2026-10-28T05:38:41+00:00",
   "ok": false,
@@ -16779,5 +16812,29 @@
    "edificio de 46 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136325710-departamento-de-2-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4136483612": {
+  "first_seen": "2026-10-28T19:43:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136483612-alquiler-departamento-3-amb-en-palermo-cervino-_JM"
+ },
+ "ml:MLA4136488216": {
+  "first_seen": "2026-10-28T19:44:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136488216-alquiler-departamento-3-ambientes-con-balcon-corrido-en-recoleta-_JM"
+ },
+ "ml:MLA4136492860": {
+  "first_seen": "2026-10-28T19:43:50+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136492860-departamentos-alquiler-recoleta-_JM"
  }
 }

@@ -16361,5 +16361,14 @@
    "total $11.706.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4133641166-alquiler-departamento-de-4-ambientes-con-dependencia-el-mas-lindo-de-las-canitas-_JM"
+ },
+ "ml:MLA4135153582": {
+  "first_seen": "2026-10-28T12:45:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.560.900 supera el máximo",
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135153582-monoambiente-amoblado-y-equipado-de-revista-zona-palermo-polo-tecnologico-_JM"
  }
 }

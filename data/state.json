@@ -7881,6 +7881,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2243397483-excelente-5-ambientes-dependencia-con-balcon-y-vista-verde-en-recoleta-_JM"
  },
+ "ml:MLA2243464491": {
+  "first_seen": "2026-10-28T20:37:23+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (877 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243464491-alquiler-sin-muebles-2-ambientes-cbalcon-palermo-_JM"
+ },
  "ml:MLA2243476015": {
   "first_seen": "2026-10-28T19:43:56+00:00",
   "ok": false,
@@ -16836,5 +16844,14 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136492860-departamentos-alquiler-recoleta-_JM"
+ },
+ "ml:MLA4136555722": {
+  "first_seen": "2026-10-28T20:37:28+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (58 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136555722-departamento-3-ambientes-con-dependencia-se-servicio-y-patio-_JM"
  }
 }

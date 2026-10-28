@@ -7715,6 +7715,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2241624373-alquiler-departamento-amoblado-palermo-_JM"
  },
+ "ml:MLA2242727517": {
+  "first_seen": "2026-10-28T14:50:04+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.961.340 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2242727517-departamento-4-ambientes-las-canitas-cochera-lavadero-_JM"
+ },
+ "ml:MLA2242727989": {
+  "first_seen": "2026-10-28T14:50:12+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (405 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2242727989-alquiler-departamento-2-ambientes-amoblado-en-palermo-_JM"
+ },
  "ml:MLA2242747533": {
   "first_seen": "2026-10-28T13:54:02+00:00",
   "ok": false,
@@ -16330,6 +16346,42 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4133294212-torres-de-gelly-gelly-3300-gelly-y-salguero-amenities-palermo-_JM"
  },
+ "ml:MLA4133296978": {
+  "antiguedad": 30,
+  "cochera": false,
+  "first_seen": "2026-10-28T14:50:18+00:00",
+  "listing": {
+   "address": "Pje. San Benito De Palermo 1600, Las Cañitas, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 185000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4133296978",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_941768-MLA118681491218_102026-O.webp"
+   ],
+   "lat": -34.5674796,
+   "lon": -58.4322536,
+   "m2_cubiertos": 40.0,
+   "price": 950000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento 2 Amb. Remodelado A Nuevo Las Cañitas  Luminoso Y Expensas Bajas.",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4133296978-departamento-2-amb-remodelado-a-nuevo-las-canitas-luminoso-y-expensas-bajas-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-28T14:50:20+00:00",
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 21,
+  "total_ars": 1135000.0,
+  "zone": "Las Cañitas"
+ },
  "ml:MLA4133602326": {
   "first_seen": "2026-10-28T05:38:41+00:00",
   "ok": false,
@@ -16386,5 +16438,49 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4135153582-monoambiente-amoblado-y-equipado-de-revista-zona-palermo-polo-tecnologico-_JM"
+ },
+ "ml:MLA4135749612": {
+  "antiguedad": 18,
+  "cochera": false,
+  "first_seen": "2026-10-28T14:50:09+00:00",
+  "listing": {
+   "address": "Céspedes 2100, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 267500.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4135749612",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_859470-MLA118683460970_102026-O.webp"
+   ],
+   "lat": -34.5670893,
+   "lon": -58.446922,
+   "m2_cubiertos": 42.0,
+   "price": 950000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Depto 2 Amb En Alquiler Palermo Con Balcon",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4135749612-depto-2-amb-en-alquiler-palermo-con-balcon-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-28T14:50:20+00:00",
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 19,
+  "total_ars": 1217500.0,
+  "zone": "Luis María Campos norte"
+ },
+ "ml:MLA4135750760": {
+  "first_seen": "2026-10-28T14:50:04+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.182.040 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135750760-piso-alto-y-luminoso-en-en-excelente-ubicacion-espacio-guardacoche-y-balcon-seguridad-24hs-_JM"
  }
 }

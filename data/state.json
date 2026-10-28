@@ -7873,6 +7873,14 @@
   "total_ars": 1094660.0,
   "zone": "Las Cañitas"
  },
+ "ml:MLA2243397483": {
+  "first_seen": "2026-10-28T18:41:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243397483-excelente-5-ambientes-dependencia-con-balcon-y-vista-verde-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -16733,5 +16741,43 @@
    "total $3.901.250 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136041030-departamento-soldado-y-matienzo-_JM"
+ },
+ "ml:MLA4136286734": {
+  "first_seen": "2026-10-28T18:41:58+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.712.100 supera el máximo",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136286734-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4136309132": {
+  "first_seen": "2026-10-28T18:42:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.660.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (309 m)",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136309132-alquiler-depto-4-ambientes-c-dep-de-servicio-y-baulera-_JM"
+ },
+ "ml:MLA4136309528": {
+  "first_seen": "2026-10-28T18:42:05+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136309528-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4136325710": {
+  "first_seen": "2026-10-28T18:42:12+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (580 m)",
+   "edificio de 46 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136325710-departamento-de-2-ambientes-en-recoleta-_JM"
  }
 }

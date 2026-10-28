@@ -7914,6 +7914,30 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2243500075-departamento-palermo-_JM"
  },
+ "ml:MLA2243607277": {
+  "first_seen": "2026-10-28T21:35:05+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.730.410 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243607277-alquiler-3-ambientes-en-excelente-estado-duplex-super-luminoso-piscina-en-terraza-_JM"
+ },
+ "ml:MLA2243627395": {
+  "first_seen": "2026-10-28T21:35:05+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.932.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243627395-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2243632201": {
+  "first_seen": "2026-10-28T21:35:04+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243632201-alquiler-3-ambientes-en-excelente-estado-duplex-super-luminoso-piscina-en-terraza-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

@@ -16272,5 +16272,45 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4133190044-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4133602326": {
+  "first_seen": "2026-10-28T05:38:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.121.800 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133602326-departamento-3-ambientes-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4133613778": {
+  "first_seen": "2026-10-28T05:38:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.433.980 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133613778-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4133615450": {
+  "first_seen": "2026-10-28T05:38:44+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133615450-nuevo-rodriguez-pena-y-las-heras-escritorio-frente-comedor-diario-_JM"
+ },
+ "ml:MLA4133627830": {
+  "first_seen": "2026-10-28T05:38:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133627830-recoleta-libertad-1100-retasado-100-m2-totales-3-amb-y-hab-de-serv-_JM"
+ },
+ "ml:MLA4133641166": {
+  "first_seen": "2026-10-28T05:38:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $11.706.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133641166-alquiler-departamento-de-4-ambientes-con-dependencia-el-mas-lindo-de-las-canitas-_JM"
  }
 }

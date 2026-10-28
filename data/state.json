@@ -5529,6 +5529,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2191108827-alquiler-piso-reciclado-en-recoleta-3-dormitorios-palier-privado-balcon-corrido-dependencia-_JM"
  },
+ "ml:MLA2191500125": {
+  "first_seen": "2026-10-28T10:37:48+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2191500125-alquiler-amoblado-refaccionado-recoleta-2-amb-_JM"
+ },
  "ml:MLA2191505317": {
   "first_seen": "2026-10-18T16:32:00+00:00",
   "ok": false,
@@ -7404,6 +7412,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2237802067-venta-departamento-5-ambientes-dependencia-balcon-apto-credito-recoleta-permuta-_JM"
  },
+ "ml:MLA2239511701": {
+  "first_seen": "2026-10-28T10:37:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.529.682 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2239511701-excelente-depto-2-amb-torre-en-lo-mejor-de-palermo-todos-los-amenities-disponible-a-partir-del-30-de-noviembre-_JM"
+ },
  "ml:MLA2239513579": {
   "first_seen": "2026-10-27T13:24:53+00:00",
   "ok": false,
@@ -7574,6 +7590,14 @@
    "del otro lado de Santa Fe (1048 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2240441533-departamento-de-23-en-alquiler-con-balcon-al-frente-en-palermo-_JM"
+ },
+ "ml:MLA2240492145": {
+  "first_seen": "2026-10-28T10:37:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.480.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2240492145-alquiler-depto-2-ambientes-en-recoleta-_JM"
  },
  "ml:MLA2240520301": {
   "first_seen": "2026-10-27T20:07:40+00:00",

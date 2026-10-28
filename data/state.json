@@ -16886,6 +16886,30 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136555722-departamento-3-ambientes-con-dependencia-se-servicio-y-patio-_JM"
  },
+ "ml:MLA4136556492": {
+  "first_seen": "2026-10-28T23:31:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.730.410 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136556492-corazon-de-recoleta-todo-sol-silencioso-gran-terraza-pallier-privado2-dor2-banosbuen-edificiofamiliar-_JM"
+ },
+ "ml:MLA4136824852": {
+  "first_seen": "2026-10-28T23:31:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.730.410 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136824852-departamento-en-palermo-2-ambientes-cochera-amenities-_JM"
+ },
+ "ml:MLA4136824922": {
+  "first_seen": "2026-10-28T23:31:54+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (440 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136824922-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
+ },
  "ml:MLA4136841518": {
   "first_seen": "2026-10-28T22:35:10+00:00",
   "ok": false,
@@ -16893,5 +16917,21 @@
    "total $1.600.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136841518-alquiler-2-amb-ccochera-santos-dumont-2500-palermo-_JM"
+ },
+ "ml:MLA4136850398": {
+  "first_seen": "2026-10-28T23:31:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.388.170 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136850398-alquiler-2-amb-amoblado-con-balcon-las-canitas-_JM"
+ },
+ "ml:MLA4136864188": {
+  "first_seen": "2026-10-28T23:31:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.730.410 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136864188-departamento-en-palermo-2-ambientes-cochera-amenities-_JM"
  }
 }

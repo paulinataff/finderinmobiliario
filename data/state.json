@@ -7715,6 +7715,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2241624373-alquiler-departamento-amoblado-palermo-_JM"
  },
+ "ml:MLA2242747533": {
+  "first_seen": "2026-10-28T13:54:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.029.170 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2242747533-2-amb-con-amenties-apto-credito-en-palermo-shopping-los-arcos-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -16361,6 +16369,14 @@
    "total $11.706.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4133641166-alquiler-departamento-de-4-ambientes-con-dependencia-el-mas-lindo-de-las-canitas-_JM"
+ },
+ "ml:MLA4135097370": {
+  "first_seen": "2026-10-28T13:54:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135097370-departamento-en-avenida-luis-maria-campos-1800-_JM"
  },
  "ml:MLA4135153582": {
   "first_seen": "2026-10-28T12:45:34+00:00",

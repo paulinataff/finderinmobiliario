@@ -16248,5 +16248,13 @@
    "total $2.150.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4133015262-alquiler-3-dormitorios-en-recoleta-escritorio-dependencia-_JM"
+ },
+ "ml:MLA4133190044": {
+  "first_seen": "2026-10-28T00:53:32+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133190044-departamento-en-palermo-_JM"
  }
 }

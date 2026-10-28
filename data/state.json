@@ -7683,6 +7683,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2240915417-alquiler-2-amb-palermo-hollywood-balcon-a-estrenar-_JM"
  },
+ "ml:MLA2241624373": {
+  "first_seen": "2026-10-28T07:54:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.404.810 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2241624373-alquiler-departamento-amoblado-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

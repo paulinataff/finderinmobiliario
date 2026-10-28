@@ -16463,6 +16463,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4135557396-impecable-amoblado-depto-con-balcon-en-recoleta-_JM"
  },
+ "ml:MLA4135557774": {
+  "first_seen": "2026-10-28T16:45:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.100.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135557774-alquiler-piso-completo-en-palermo-reciclado-palier-privado-balcon-y-cochera-_JM"
+ },
+ "ml:MLA4135558278": {
+  "first_seen": "2026-10-28T16:45:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.340.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135558278-departamento-sanchez-de-bustamante-y-av-del-libertador-edificio-de-categoria-contrafrente-a-pulmon-verde-silencioso-excelente-ubicacion-2-dormitorios-dependencia-de-servicio-_JM"
+ },
  "ml:MLA4135707610": {
   "first_seen": "2026-10-28T15:47:20+00:00",
   "ok": false,
@@ -16555,5 +16571,49 @@
    "total $5.155.920 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4135759046-palacio-bellini-3-dormitorios-2-banos-toilette-cochera-pileta-gimnasio-sum-spa-palermo-_JM"
+ },
+ "ml:MLA4135991114": {
+  "first_seen": "2026-10-28T16:45:29+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135991114-departamento-en-alquiler-_JM"
+ },
+ "ml:MLA4136030934": {
+  "first_seen": "2026-10-28T16:45:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.550.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (163 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136030934-alquiler-depto-2-amb-palermo-balcon-y-amenities-_JM"
+ },
+ "ml:MLA4136033468": {
+  "first_seen": "2026-10-28T16:45:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.369.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136033468-departamento-6-ambientes-en-belgrano-_JM"
+ },
+ "ml:MLA4136040632": {
+  "first_seen": "2026-10-28T16:45:33+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (13 m)",
+   "edificio de 76 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136040632-alquiler-recoleta-av-santa-fe-y-aguero-2-amb-38m2-apto-profesional-bajas-expensas-subte-d-_JM"
+ },
+ "ml:MLA4136041030": {
+  "first_seen": "2026-10-28T16:45:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.901.250 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136041030-departamento-soldado-y-matienzo-_JM"
  }
 }

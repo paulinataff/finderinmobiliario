@@ -7739,6 +7739,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2242747533-2-amb-con-amenties-apto-credito-en-palermo-shopping-los-arcos-_JM"
  },
+ "ml:MLA2242964035": {
+  "first_seen": "2026-10-28T15:47:20+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2242964035-departamento-en-alquiler-_JM"
+ },
+ "ml:MLA2242965639": {
+  "first_seen": "2026-10-28T15:47:29+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1048 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2242965639-departamento-de-23-en-alquiler-con-balcon-al-frente-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -16439,6 +16455,47 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4135153582-monoambiente-amoblado-y-equipado-de-revista-zona-palermo-polo-tecnologico-_JM"
  },
+ "ml:MLA4135557396": {
+  "first_seen": "2026-10-28T15:47:15+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.718.640 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135557396-impecable-amoblado-depto-con-balcon-en-recoleta-_JM"
+ },
+ "ml:MLA4135707610": {
+  "first_seen": "2026-10-28T15:47:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.999.680 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135707610-exclusivo-penthouse-con-solarium-y-cupula-propia-amoblado-en-monserrat-_JM"
+ },
+ "ml:MLA4135715236": {
+  "first_seen": "2026-10-28T15:47:34+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (290 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135715236-paraguay-uruguay-3-ambientes-_JM"
+ },
+ "ml:MLA4135720812": {
+  "first_seen": "2026-10-28T15:47:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.031.120 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135720812-billinghurst-y-las-heras-palermo-3-amb-cdep-cochera-baulera-_JM"
+ },
+ "ml:MLA4135723112": {
+  "first_seen": "2026-10-28T15:47:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.400.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135723112-palermo-julian-alvarez-al-2300-4-ambientes-a-nuevo-con-balcon-torre-de-categoria-seguridad-24-hs-bajas-expensas-190000-_JM"
+ },
  "ml:MLA4135749612": {
   "antiguedad": 18,
   "cochera": false,
@@ -16482,5 +16539,21 @@
    "total $2.182.040 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4135750760-piso-alto-y-luminoso-en-en-excelente-ubicacion-espacio-guardacoche-y-balcon-seguridad-24hs-_JM"
+ },
+ "ml:MLA4135754812": {
+  "first_seen": "2026-10-28T15:47:24+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (315 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135754812-departamento-2-ambientes-en-alquiler-en-la-mejor-zona-de-palermo-_JM"
+ },
+ "ml:MLA4135759046": {
+  "first_seen": "2026-10-28T15:47:15+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.155.920 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135759046-palacio-bellini-3-dormitorios-2-banos-toilette-cochera-pileta-gimnasio-sum-spa-palermo-_JM"
  }
 }

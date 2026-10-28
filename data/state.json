@@ -16249,6 +16249,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4133015262-alquiler-3-dormitorios-en-recoleta-escritorio-dependencia-_JM"
  },
+ "ml:MLA4133135538": {
+  "first_seen": "2026-10-28T01:51:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.341.350 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4133135538-recoleta-3-ambientes-escritorio-bano-y-toilette-_JM"
+ },
  "ml:MLA4133190044": {
   "first_seen": "2026-10-28T00:53:32+00:00",
   "ok": false,

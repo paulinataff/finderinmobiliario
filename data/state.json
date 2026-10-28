@@ -7755,6 +7755,124 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2242965639-departamento-de-23-en-alquiler-con-balcon-al-frente-en-palermo-_JM"
  },
+ "ml:MLA2243154421": {
+  "first_seen": "2026-10-28T17:41:44+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (581 m)",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243154421-departamento-en-las-canitas-_JM"
+ },
+ "ml:MLA2243165053": {
+  "antiguedad": 40,
+  "cochera": false,
+  "first_seen": "2026-10-28T17:41:54+00:00",
+  "listing": {
+   "address": "Arenales Al 2300, Recoleta, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 120000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2243165053",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_655130-MLA120366399279_102026-O.webp"
+   ],
+   "lat": -34.5942439,
+   "lon": -58.3994173,
+   "m2_cubiertos": 40.0,
+   "price": 800000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento En Recoleta / Barrio Norte",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2243165053-departamento-en-recoleta-barrio-norte-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-28T17:42:01+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 29,
+  "total_ars": 920000.0,
+  "zone": "Recoleta baja"
+ },
+ "ml:MLA2243173325": {
+  "first_seen": "2026-10-28T17:41:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.971.220 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243173325-tagle-2500-y-avlas-heras-2amb-130mts-amoblado-recoleta-_JM"
+ },
+ "ml:MLA2243174447": {
+  "first_seen": "2026-10-28T17:41:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.127.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243174447-4-ambientes-con-dependencia-cochera-y-baulera-vista-abierta-a-los-bosques-_JM"
+ },
+ "ml:MLA2243178683": {
+  "first_seen": "2026-10-28T17:41:54+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243178683-amplio-monoambiente-dividido-muy-luminoso-full-amenities-vigilancia-24-hs-_JM"
+ },
+ "ml:MLA2243192609": {
+  "first_seen": "2026-10-28T17:41:48+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (581 m)",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243192609-departamento-en-las-canitas-_JM"
+ },
+ "ml:MLA2243194517": {
+  "antiguedad": null,
+  "cochera": true,
+  "first_seen": "2026-10-28T17:42:00+00:00",
+  "listing": {
+   "address": "Ortega Y Gasset 1866, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 1,
+   "currency": "USD",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": null,
+   "expensas_currency": "ARS",
+   "id": "MLA2243194517",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_764237-MLA120367198339_102026-O.webp"
+   ],
+   "lat": -34.570648,
+   "lon": -58.432841,
+   "m2_cubiertos": 43.0,
+   "price": 700,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento En Alquiler En Palermo",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2243194517-departamento-en-alquiler-en-palermo-_JM"
+  },
+  "notes": [
+   "no informa expensas"
+  ],
+  "notified": "2026-10-28T17:42:01+00:00",
+  "ok": true,
+  "pileta": true,
+  "reasons": [],
+  "score": 43,
+  "total_ars": 1094660.0,
+  "zone": "Las Cañitas"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

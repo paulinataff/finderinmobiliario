@@ -7978,6 +7978,25 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2244151053-departamento-en-palermo-_JM"
  },
+ "ml:MLA2244154121": {
+  "first_seen": "2026-10-29T07:57:26+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.887.720 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244154121-a-estrenar-2-ambientes-con-balcon-en-om-recoleta-seguridad-24-hs-sum-parrilla-pileta-solarium-_JM"
+ },
+ "ml:MLA2244154127": {
+  "first_seen": "2026-10-29T07:57:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.448.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (89 m)",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244154127-departamento-3-ambientes-semipiso-luminoso-al-frente-en-recoleta-_JM"
+ },
  "ml:MLA2244163425": {
   "first_seen": "2026-10-29T05:40:31+00:00",
   "ok": false,
@@ -7993,6 +8012,15 @@
    "total $10.225.150 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2244189573-departamento-en-barrio-parque-_JM"
+ },
+ "ml:MLA2244192659": {
+  "first_seen": "2026-10-29T07:57:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.633.471 supera el máximo",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244192659-piso-alto-dos-ambientes-con-balcon-en-recoleta-luz-y-sol-_JM"
  },
  "ml:MLA2244250027": {
   "first_seen": "2026-10-29T04:43:14+00:00",

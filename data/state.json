@@ -7962,6 +7962,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2243822619-alquiler-monoambiente-en-palermo-en-excelente-ubicacion-_JM"
  },
+ "ml:MLA2244148129": {
+  "first_seen": "2026-10-29T04:43:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.460.820 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244148129-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA2244250027": {
+  "first_seen": "2026-10-29T04:43:14+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244250027-departamento-en-alquiler-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

@@ -8038,6 +8038,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2245682393-departamento-en-palermo-_JM"
  },
+ "ml:MLA2245797149": {
+  "first_seen": "2026-10-29T14:53:41+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (4 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2245797149-excelente-departamento-de-2-ambientes-a-estrenar-con-balcon-palermo-_JM"
+ },
+ "ml:MLA2246044743": {
+  "first_seen": "2026-10-29T14:53:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.670.000 supera el máximo",
+   "sin balcón",
+   "edificio de 46 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246044743-alquiler-dpto-3-ambientes-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17108,5 +17126,21 @@
    "total $2.100.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4138334106-alquiler-3-ambientes-con-balcon-cochera-y-baulera-en-palermo-pileta-sin-expensas-_JM"
+ },
+ "ml:MLA4139298034": {
+  "first_seen": "2026-10-29T14:53:36+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4139298034-alquiler-departamento-2-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4139321360": {
+  "first_seen": "2026-10-29T14:53:36+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4139321360-monoambiente-con-amenities-en-palermo-hollywood-_JM"
  }
 }

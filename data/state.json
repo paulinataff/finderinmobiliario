@@ -16770,6 +16770,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4135707610-exclusivo-penthouse-con-solarium-y-cupula-propia-amoblado-en-monserrat-_JM"
  },
+ "ml:MLA4135712142": {
+  "first_seen": "2026-10-29T10:40:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.415.790 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4135712142-comodo-departamento-en-torre-de-recoleta-_JM"
+ },
  "ml:MLA4135715236": {
   "first_seen": "2026-10-28T15:47:34+00:00",
   "ok": false,
@@ -16978,6 +16986,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136556492-corazon-de-recoleta-todo-sol-silencioso-gran-terraza-pallier-privado2-dor2-banosbuen-edificiofamiliar-_JM"
  },
+ "ml:MLA4136815946": {
+  "first_seen": "2026-10-29T10:40:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo",
+   "del otro lado de Santa Fe (219 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136815946-alquiler-2-ambientes-super-luminosos-en-palermo-a-metros-de-tren-subte-y-colectivos-sin-muebles-_JM"
+ },
  "ml:MLA4136824852": {
   "first_seen": "2026-10-28T23:31:48+00:00",
   "ok": false,
@@ -17067,5 +17084,13 @@
    "total $5.033.920 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4137090442-departamento-alquiler-3-ambientes-recoleta-terraza-_JM"
+ },
+ "ml:MLA4137098274": {
+  "first_seen": "2026-10-29T10:40:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.720.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4137098274-departamento-en-alquiler-en-las-canitas-_JM"
  }
 }

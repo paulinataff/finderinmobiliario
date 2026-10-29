@@ -8030,6 +8030,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2244250027-departamento-en-alquiler-en-palermo-_JM"
  },
+ "ml:MLA2245682393": {
+  "first_seen": "2026-10-29T12:46:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.573.100 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2245682393-departamento-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17092,5 +17100,13 @@
    "total $1.720.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4137098274-departamento-en-alquiler-en-las-canitas-_JM"
+ },
+ "ml:MLA4138334106": {
+  "first_seen": "2026-10-29T12:46:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.100.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4138334106-alquiler-3-ambientes-con-balcon-cochera-y-baulera-en-palermo-pileta-sin-expensas-_JM"
  }
 }

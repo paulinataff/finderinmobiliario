@@ -8132,6 +8132,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246312927-departamento-en-alquiler-en-recoleta-_JM"
  },
+ "ml:MLA2246464275": {
+  "first_seen": "2026-10-29T18:44:16+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (267 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246464275-departamento-de-2-ambientes-en-alquiler-palermo-hollywood-_JM"
+ },
+ "ml:MLA2246491751": {
+  "first_seen": "2026-10-29T18:44:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.575.000 supera el máximo",
+   "del otro lado de Santa Fe (812 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246491751-departamento-en-alquiler-3-ambientes-con-balcon-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

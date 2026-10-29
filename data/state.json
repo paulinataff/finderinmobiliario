@@ -16957,5 +16957,21 @@
    "total $1.730.410 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136866034-departamento-en-palermo-2-ambientes-cochera-amenities-_JM"
+ },
+ "ml:MLA4137040356": {
+  "first_seen": "2026-10-29T01:52:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.900.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4137040356-alquiler-departamento-4-ambientes-recoleta-caba-_JM"
+ },
+ "ml:MLA4137040496": {
+  "first_seen": "2026-10-29T01:52:31+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4137040496-alquiler-departamento-monoamb-amoblado-palermo-_JM"
  }
 }

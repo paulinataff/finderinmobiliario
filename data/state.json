@@ -8141,6 +8141,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246464275-departamento-de-2-ambientes-en-alquiler-palermo-hollywood-_JM"
  },
+ "ml:MLA2246483999": {
+  "first_seen": "2026-10-29T19:45:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246483999-jose-a-cabrera-y-medrano-duplex-3-ambientes-uper-luminoso-venta-_JM"
+ },
  "ml:MLA2246491751": {
   "first_seen": "2026-10-29T18:44:21+00:00",
   "ok": false,
@@ -8149,6 +8157,38 @@
    "del otro lado de Santa Fe (812 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246491751-departamento-en-alquiler-3-ambientes-con-balcon-en-palermo-_JM"
+ },
+ "ml:MLA2246508371": {
+  "first_seen": "2026-10-29T19:45:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246508371-alquiler-departamento-en-palermo-2-ambientes-con-cochera-_JM"
+ },
+ "ml:MLA2246586089": {
+  "first_seen": "2026-10-29T19:45:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246586089-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2246607411": {
+  "first_seen": "2026-10-29T19:45:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.950.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246607411-palermo-soho-3-ambientes-al-frente-con-balcon-y-cochera-fija-cubierta-_JM"
+ },
+ "ml:MLA2246621679": {
+  "first_seen": "2026-10-29T19:45:27+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1361 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246621679-2-ambientes-amoblado-super-luminoso-en-el-corazon-de-palermo-soho-alquiler-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
@@ -17106,6 +17146,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136556492-corazon-de-recoleta-todo-sol-silencioso-gran-terraza-pallier-privado2-dor2-banosbuen-edificiofamiliar-_JM"
  },
+ "ml:MLA4136563422": {
+  "first_seen": "2026-10-29T19:45:30+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136563422-departamento-en-alquiler-palermo-fos-ambientes-_JM"
+ },
  "ml:MLA4136815946": {
   "first_seen": "2026-10-29T10:40:00+00:00",
   "ok": false,
@@ -17276,5 +17325,21 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4139812850-vicente-lopez-pueyrredon-alto-gran-ambiente-dividido-amoblado-_JM"
+ },
+ "ml:MLA4140302172": {
+  "first_seen": "2026-10-29T19:45:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.094.700 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140302172-departamento-piso-de-5-ambientes-con-2-dependencia-sobre-libertador-_JM"
+ },
+ "ml:MLA4140307010": {
+  "first_seen": "2026-10-29T19:45:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140307010-departamento-en-palermo-_JM"
  }
 }

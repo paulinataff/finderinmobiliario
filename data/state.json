@@ -8096,6 +8096,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246121351-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA2246278743": {
+  "first_seen": "2026-10-29T16:49:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.511.040 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246278743-departamentos-alquiler-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17182,5 +17190,45 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4139321360-monoambiente-con-amenities-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA4139766218": {
+  "first_seen": "2026-10-29T16:49:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.138.800 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4139766218-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4139772438": {
+  "first_seen": "2026-10-29T16:49:08+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.502.324 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4139772438-alquiler-depto-2-amb-con-balcon-palermo-_JM"
+ },
+ "ml:MLA4139773522": {
+  "first_seen": "2026-10-29T16:49:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.354.100 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4139773522-departamentos-3-ambientes-alquiler-_JM"
+ },
+ "ml:MLA4139811776": {
+  "first_seen": "2026-10-29T16:49:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.040.220 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4139811776-2-amb-con-amenties-apto-credito-en-palermo-shopping-los-arcos-_JM"
+ },
+ "ml:MLA4139812850": {
+  "first_seen": "2026-10-29T16:49:08+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4139812850-vicente-lopez-pueyrredon-alto-gran-ambiente-dividido-amoblado-_JM"
  }
 }

@@ -7946,6 +7946,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2243636747-town-house-boulevard-las-canitas-2-ambientes-amenities-apto-profesional-_JM"
  },
+ "ml:MLA2243813107": {
+  "first_seen": "2026-10-29T00:45:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243813107-alquiler-departamento-palermo-_JM"
+ },
+ "ml:MLA2243822619": {
+  "first_seen": "2026-10-29T00:45:24+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2243822619-alquiler-monoambiente-en-palermo-en-excelente-ubicacion-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -16933,5 +16949,13 @@
    "total $1.730.410 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136864188-departamento-en-palermo-2-ambientes-cochera-amenities-_JM"
+ },
+ "ml:MLA4136866034": {
+  "first_seen": "2026-10-29T00:45:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.730.410 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4136866034-departamento-en-palermo-2-ambientes-cochera-amenities-_JM"
  }
 }

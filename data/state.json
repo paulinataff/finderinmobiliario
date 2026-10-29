@@ -17341,5 +17341,29 @@
    "total $1.650.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4140307010-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4140432292": {
+  "first_seen": "2026-10-29T20:39:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140432292-departamento-en-alquiler-de-3-ambientes-palermo-las-canitas-_JM"
+ },
+ "ml:MLA4140438384": {
+  "first_seen": "2026-10-29T20:39:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.706.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140438384-alquiler-departamento-5-amb-recoleta-dep-serv-escritorio-apto-profesional-_JM"
+ },
+ "ml:MLA4140455624": {
+  "first_seen": "2026-10-29T20:39:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.353.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140455624-alquiler-hermoso-piso-4-amb-c-dep-palermo-chico-_JM"
  }
 }

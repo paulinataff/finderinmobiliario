@@ -7970,6 +7970,30 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2244148129-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2244151053": {
+  "first_seen": "2026-10-29T05:40:31+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244151053-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2244163425": {
+  "first_seen": "2026-10-29T05:40:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.505.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244163425-torre-astor-palermo-i-disponibilidad-inmediata-i-departamento-exclusivo-_JM"
+ },
+ "ml:MLA2244189573": {
+  "first_seen": "2026-10-29T05:40:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $10.225.150 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2244189573-departamento-en-barrio-parque-_JM"
+ },
  "ml:MLA2244250027": {
   "first_seen": "2026-10-29T04:43:14+00:00",
   "ok": false,

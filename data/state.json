@@ -16958,6 +16958,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4136866034-departamento-en-palermo-2-ambientes-cochera-amenities-_JM"
  },
+ "ml:MLA4137027280": {
+  "first_seen": "2026-10-29T02:44:10+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4137027280-alquiler-departamento-3-amb-las-canitas-cochera-_JM"
+ },
  "ml:MLA4137040356": {
   "first_seen": "2026-10-29T01:52:31+00:00",
   "ok": false,
@@ -16973,5 +16982,22 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4137040496-alquiler-departamento-monoamb-amoblado-palermo-_JM"
+ },
+ "ml:MLA4137052756": {
+  "first_seen": "2026-10-29T02:44:14+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (19 m)",
+   "edificio de 52 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4137052756-departamento-alquiler-palermo-2-ambientes-balcon-_JM"
+ },
+ "ml:MLA4137090442": {
+  "first_seen": "2026-10-29T02:44:04+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.033.920 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4137090442-departamento-alquiler-3-ambientes-recoleta-terraza-_JM"
  }
 }

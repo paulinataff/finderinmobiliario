@@ -8369,6 +8369,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2248541273-alquiler-duplex-frances-95-m-3-ambientes-recoleta-_JM"
  },
+ "ml:MLA2248617833": {
+  "first_seen": "2026-10-30T15:45:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.722.270 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2248617833-alquiler-3-amb-dependencias-y-cochera-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17618,5 +17626,13 @@
    "total $5.095.350 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4142852106-piso-5-amb-en-alquiler-av-del-libertador-palermo-_JM"
+ },
+ "ml:MLA4142860082": {
+  "first_seen": "2026-10-30T15:45:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.432.560 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4142860082-location-is-location-muy-buen-depto-amoblado-en-recoleta-_JM"
  }
 }

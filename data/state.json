@@ -8305,6 +8305,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246784049-duplex-amoblado-en-las-canitas-_JM"
  },
+ "ml:MLA2246967791": {
+  "first_seen": "2026-10-30T01:54:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.882.560 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246967791-alquiler-departamento-dos-ambientes-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17488,5 +17496,13 @@
    "total $1.490.360 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4140709532-alquiler-dpto-2-ambientes-amoblado-con-balcon-en-palermo-_JM"
+ },
+ "ml:MLA4140739514": {
+  "first_seen": "2026-10-30T01:54:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.725.680 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140739514-alquiler-departamento-2-amb-a-estrenar-con-amenities-en-las-canitas-palermo-_JM"
  }
 }

@@ -8345,6 +8345,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2247060721-oppel-departamento-en-alquiler-las-canitas-capital-federal-cod-10809-_JM"
  },
+ "ml:MLA2248157119": {
+  "first_seen": "2026-10-30T13:55:23+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.392.640 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2248157119-departamento-palermo-5-ambientes-cochera-patio-_JM"
+ },
+ "ml:MLA2248238273": {
+  "first_seen": "2026-10-30T13:55:23+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (682 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2248238273-alquiler-depto-2-ambientes-con-balcon-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17569,5 +17585,14 @@
    "total $4.706.400 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4141511474-departamento-4-ambientes-luminoso-impecable-a-estrenar-en-torre-al-frente-en-recoleta-_JM"
+ },
+ "ml:MLA4142744792": {
+  "first_seen": "2026-10-30T13:55:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.433.480 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4142744792-alquiler-departamento-de-3-ambientes-en-recoleta-amueblado-_JM"
  }
 }

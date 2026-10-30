@@ -17528,5 +17528,13 @@
    "total $3.451.360 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4141366604-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4141508826": {
+  "first_seen": "2026-10-30T05:41:10+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4141508826-departamento-en-palermo-_JM"
  }
 }

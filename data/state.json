@@ -8402,6 +8402,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2248653569-departamentos-2-ambientes-alquiler-_JM"
  },
+ "ml:MLA2248787755": {
+  "first_seen": "2026-10-30T17:38:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2248787755-alquiler-4-ambientes-con-balcon-y-cochera-en-torre-palermo-chico-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17603,6 +17611,23 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4140739514-alquiler-departamento-2-amb-a-estrenar-con-amenities-en-las-canitas-palermo-_JM"
  },
+ "ml:MLA4140892974": {
+  "first_seen": "2026-10-30T17:38:44+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (12 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140892974-palermo-incluye-cochera-cubierta-3amb-convertido-en-2amb-super-amplio-y-luminoso-sin-comision-con-o-sin-garantia-con-lugar-p-lavarropas-_JM"
+ },
+ "ml:MLA4140893132": {
+  "first_seen": "2026-10-30T17:38:57+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (150 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140893132-dueno-alquila-departamento-2-ambientes-con-balcon-en-palermo-muy-luminoso-a-una-cuadra-de-av-santa-fe-y-accesos-_JM"
+ },
  "ml:MLA4141366604": {
   "first_seen": "2026-10-30T04:42:44+00:00",
   "ok": false,
@@ -17667,5 +17692,45 @@
    "total $3.916.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143141558-alquiler-4-ambientes-amoblado-en-recoleta-_JM"
+ },
+ "ml:MLA4143370702": {
+  "first_seen": "2026-10-30T17:38:48+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (369 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143370702-dos-ambientes-balcon-corrido-_JM"
+ },
+ "ml:MLA4143374040": {
+  "first_seen": "2026-10-30T17:38:52+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143374040-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4143374084": {
+  "first_seen": "2026-10-30T17:38:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.192.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143374084-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4143376382": {
+  "first_seen": "2026-10-30T17:38:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.543.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143376382-recoleta-excelente-depto-con-cochera-_JM"
+ },
+ "ml:MLA4143381774": {
+  "first_seen": "2026-10-30T17:38:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.150.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143381774-alquiler-depto-4-amb-recoleta-plaza-vicente-lopez-_JM"
  }
 }

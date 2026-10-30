@@ -8435,6 +8435,31 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2249010703-recoleta-juncal-y-rodriguez-pena-_JM"
  },
+ "ml:MLA2249022251": {
+  "first_seen": "2026-10-30T21:32:51+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2249022251-alquiler-departamento-recoleta-dos-2-ambientes-_JM"
+ },
+ "ml:MLA2249061781": {
+  "first_seen": "2026-10-30T21:32:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.780.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2249061781-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA2249066265": {
+  "first_seen": "2026-10-30T21:32:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.732.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2249066265-tres-ambientes-reciclado-para-alquilar-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17818,6 +17843,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143551430-2-ambientes-amplios-y-luminos-en-alto-palermo-_JM"
  },
+ "ml:MLA4143553210": {
+  "first_seen": "2026-10-30T21:32:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.150.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143553210-hermoso-duplex-en-el-corazon-de-canitaspalermo-_JM"
+ },
  "ml:MLA4143593650": {
   "first_seen": "2026-10-30T19:42:42+00:00",
   "ok": false,
@@ -17857,5 +17890,74 @@
    "total $1.325.250 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143666496-alquiler-2-ambientes-apto-profesional-avlas-gral-las-heras-palermo-_JM"
+ },
+ "ml:MLA4143707100": {
+  "first_seen": "2026-10-30T21:32:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.622.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143707100-avenida-callao-al-1600-departamento-en-venta-_JM"
+ },
+ "ml:MLA4143707686": {
+  "antiguedad": 10,
+  "cochera": false,
+  "first_seen": "2026-10-30T21:32:47+00:00",
+  "listing": {
+   "address": "Avenida General Las Heras 3700, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 270000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4143707686",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_651236-MLA118809126712_102026-O.webp"
+   ],
+   "lat": -34.582149,
+   "lon": -58.4110874,
+   "m2_cubiertos": 46.0,
+   "price": 1000000,
+   "publisher": "RED SUMA",
+   "source": "ml",
+   "title": "Alquiler  2 Ambientes/ Apto Profesional - Av.las Gral. Las Heras - Palermo",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4143707686-alquiler-2-ambientes-apto-profesional-avlas-gral-las-heras-palermo-_JM"
+  },
+  "notes": [],
+  "notified": "2026-10-30T21:32:52+00:00",
+  "ok": true,
+  "pileta": true,
+  "reasons": [],
+  "score": 54,
+  "total_ars": 1270000.0,
+  "zone": "Botánico y Plaza Italia"
+ },
+ "ml:MLA4143711684": {
+  "first_seen": "2026-10-30T21:32:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.566.726 supera el máximo",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143711684-departamentos-alquiler-recoleta-_JM"
+ },
+ "ml:MLA4143712574": {
+  "first_seen": "2026-10-30T21:32:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.732.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143712574-tres-ambientes-reciclado-para-alquilar-en-recoleta-_JM"
+ },
+ "ml:MLA4143714338": {
+  "first_seen": "2026-10-30T21:32:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $7.087.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143714338-departamentos-alquiler-palermo-_JM"
  }
 }

@@ -8361,6 +8361,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2248238273-alquiler-depto-2-ambientes-con-balcon-en-palermo-_JM"
  },
+ "ml:MLA2248541273": {
+  "first_seen": "2026-10-30T14:52:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.038.140 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2248541273-alquiler-duplex-frances-95-m-3-ambientes-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17594,5 +17602,21 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4142744792-alquiler-departamento-de-3-ambientes-en-recoleta-amueblado-_JM"
+ },
+ "ml:MLA4142840750": {
+  "first_seen": "2026-10-30T14:52:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.919.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4142840750-4-ambientes-con-vista-al-campo-de-polo-en-las-canitas-_JM"
+ },
+ "ml:MLA4142852106": {
+  "first_seen": "2026-10-30T14:52:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.095.350 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4142852106-piso-5-amb-en-alquiler-av-del-libertador-palermo-_JM"
  }
 }

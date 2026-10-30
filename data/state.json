@@ -17693,6 +17693,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143141558-alquiler-4-ambientes-amoblado-en-recoleta-_JM"
  },
+ "ml:MLA4143149908": {
+  "first_seen": "2026-10-30T18:41:24+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (338 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143149908-super-luminoso-amoblado-_JM"
+ },
+ "ml:MLA4143366186": {
+  "first_seen": "2026-10-30T18:41:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo",
+   "del otro lado de Santa Fe (947 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143366186-palermo-2-amb-c-bano-toilette-amoblado-_JM"
+ },
  "ml:MLA4143370702": {
   "first_seen": "2026-10-30T17:38:48+00:00",
   "ok": false,
@@ -17725,6 +17743,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143376382-recoleta-excelente-depto-con-cochera-_JM"
  },
+ "ml:MLA4143379548": {
+  "first_seen": "2026-10-30T18:41:10+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.917.250 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143379548-alquiler-4-ambientes-amoblado-en-recoleta-_JM"
+ },
  "ml:MLA4143381774": {
   "first_seen": "2026-10-30T17:38:52+00:00",
   "ok": false,
@@ -17732,5 +17758,13 @@
    "total $2.150.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143381774-alquiler-depto-4-amb-recoleta-plaza-vicente-lopez-_JM"
+ },
+ "ml:MLA4143393208": {
+  "first_seen": "2026-10-30T18:41:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.543.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143393208-recoleta-excelente-depto-con-cochera-_JM"
  }
 }

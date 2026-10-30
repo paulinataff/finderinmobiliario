@@ -8072,6 +8072,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246056121-espectacular-pb-de-88m2-con-pintoresco-patio-de-uso-exclusivo-_JM"
  },
+ "ml:MLA2246063775": {
+  "first_seen": "2026-10-30T10:41:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246063775-dos-ambientes-de-categoria-en-alquiler-migueletes-681-_JM"
+ },
  "ml:MLA2246066927": {
   "first_seen": "2026-10-29T15:49:00+00:00",
   "ok": false,
@@ -8296,6 +8304,14 @@
    "total $1.725.680 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246773621-alquiler-2-ambientes-amenities-premium-_JM"
+ },
+ "ml:MLA2246774531": {
+  "first_seen": "2026-10-30T10:41:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.922.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2246774531-elegante-semipiso-en-la-recoleta-ubicado-en-un-edificio-historico-frances-luminoso-con-2-dormitorios-balcon-frances-ascensor-y-excelente-ubicacion-para-disfrutar-buenos-aires-_JM"
  },
  "ml:MLA2246784049": {
   "first_seen": "2026-10-29T23:32:03+00:00",
@@ -12454,6 +12470,15 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4023003022-monoambiente-totalmente-equipado-amplio-y-luminoso-_JM"
+ },
+ "ml:MLA4023533788": {
+  "first_seen": "2026-10-30T10:41:03+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1461 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4023533788-departamento-en-palermo-_JM"
  },
  "ml:MLA4023537498": {
   "first_seen": "2026-10-19T01:55:02+00:00",

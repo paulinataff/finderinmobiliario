@@ -17536,5 +17536,13 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4141508826-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4141511474": {
+  "first_seen": "2026-10-30T07:56:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.706.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4141511474-departamento-4-ambientes-luminoso-impecable-a-estrenar-en-torre-al-frente-en-recoleta-_JM"
  }
 }

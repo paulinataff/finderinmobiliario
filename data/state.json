@@ -8410,6 +8410,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2248787755-alquiler-4-ambientes-con-balcon-y-cochera-en-torre-palermo-chico-_JM"
  },
+ "ml:MLA2248945311": {
+  "first_seen": "2026-10-30T19:42:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.580.000 supera el máximo",
+   "del otro lado de Santa Fe (127 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2248945311-alquiler-dos-ambientes-con-cochera-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17766,5 +17775,29 @@
    "total $1.543.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143393208-recoleta-excelente-depto-con-cochera-_JM"
+ },
+ "ml:MLA4143507830": {
+  "first_seen": "2026-10-30T19:42:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.715.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143507830-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4143593650": {
+  "first_seen": "2026-10-30T19:42:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143593650-departamento-imperdible-posible-3-amb-recoleta-_JM"
+ },
+ "ml:MLA4143618954": {
+  "first_seen": "2026-10-30T19:42:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143618954-departamento-imperdible-posible-3-amb-recoleta-_JM"
  }
 }

@@ -8313,6 +8313,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2246967791-alquiler-departamento-dos-ambientes-recoleta-_JM"
  },
+ "ml:MLA2247060721": {
+  "first_seen": "2026-10-30T02:44:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.556.440 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2247060721-oppel-departamento-en-alquiler-las-canitas-capital-federal-cod-10809-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

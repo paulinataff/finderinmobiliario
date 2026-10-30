@@ -17480,5 +17480,13 @@
    "total $2.353.200 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4140455624-alquiler-hermoso-piso-4-amb-c-dep-palermo-chico-_JM"
+ },
+ "ml:MLA4140709532": {
+  "first_seen": "2026-10-30T00:46:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.490.360 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4140709532-alquiler-dpto-2-ambientes-amoblado-con-balcon-en-palermo-_JM"
  }
 }

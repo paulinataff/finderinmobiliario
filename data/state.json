@@ -8501,6 +8501,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2250009649-alquiler-semipiso-muy-luminoso-a-estrenar-de-2-ambientes-con-dormitorio-en-suite-y-balcon-en-palermo-_JM"
  },
+ "ml:MLA2250595163": {
+  "first_seen": "2026-10-31T14:30:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.362.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2250595163-departamento-4-ambientes-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18050,5 +18058,13 @@
    "total $1.890.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4144577210-departamento-impecable-3-ambientes-excelente-ubicacion-dueno-directo-_JM"
+ },
+ "ml:MLA4145424920": {
+  "first_seen": "2026-10-31T14:30:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.362.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4145424920-alquiler-temporario-3-ambientes-con-amenities-en-recoleta-_JM"
  }
 }

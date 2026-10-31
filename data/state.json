@@ -8517,6 +8517,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2250603775-departamento-alquiler-temporario-3-ambientes-en-palermo-amoblado-_JM"
  },
+ "ml:MLA2250745165": {
+  "first_seen": "2026-10-31T16:32:16+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2250745165-alquiler-monoambiente-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

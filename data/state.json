@@ -8484,6 +8484,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2249202775-alquiler-departamento-amoblado-luminoso-recoleta-caba-_JM"
  },
+ "ml:MLA2249298019": {
+  "first_seen": "2026-10-31T02:43:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2249298019-departamento-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

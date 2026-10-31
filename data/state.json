@@ -8476,6 +8476,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2249155845-alquiler-departamento-en-palermo-2-ambientes-con-balcon-piso-alto-_JM"
  },
+ "ml:MLA2249202775": {
+  "first_seen": "2026-10-31T00:51:53+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (617 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2249202775-alquiler-departamento-amoblado-luminoso-recoleta-caba-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -17975,5 +17983,22 @@
    "total $7.087.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143714338-departamentos-alquiler-palermo-_JM"
+ },
+ "ml:MLA4143927218": {
+  "first_seen": "2026-10-31T00:51:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.305.700 supera el máximo",
+   "del otro lado de Santa Fe (617 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143927218-alquiler-departamento-amoblado-luminoso-recoleta-caba-_JM"
+ },
+ "ml:MLA4143939816": {
+  "first_seen": "2026-10-31T00:52:01+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (617 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143939816-alquiler-departamento-amoblado-luminoso-recoleta-caba-_JM"
  }
 }

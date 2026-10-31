@@ -18082,5 +18082,16 @@
    "total $2.362.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4145424920-alquiler-temporario-3-ambientes-con-amenities-en-recoleta-_JM"
+ },
+ "ml:MLA4145842544": {
+  "first_seen": "2026-10-31T18:04:47+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.365.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (13 m)",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4145842544-alquiler-tradicional-2-ambientes-y-medio-en-palermo-amplitud-luz-y-ubicacion-privilegiada-_JM"
  }
 }

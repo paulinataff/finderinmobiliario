@@ -18093,5 +18093,14 @@
    "edificio de 50 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4145842544-alquiler-tradicional-2-ambientes-y-medio-en-palermo-amplitud-luz-y-ubicacion-privilegiada-_JM"
+ },
+ "ml:MLA4146201512": {
+  "first_seen": "2026-10-31T23:02:23+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.350.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4146201512-departamento-en-alquiler-3-ambientes-alto-palermo-buenos-aires-_JM"
  }
 }

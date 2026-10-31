@@ -17793,6 +17793,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4143141558-alquiler-4-ambientes-amoblado-en-recoleta-_JM"
  },
+ "ml:MLA4143142266": {
+  "first_seen": "2026-10-31T10:28:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.520.000 supera el máximo",
+   "del otro lado de Santa Fe (722 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4143142266-departamento-2-ambientes-con-balcon-al-frente-en-alquiler-en-barrio-norte-amplio-y-luminoso-_JM"
+ },
  "ml:MLA4143149908": {
   "first_seen": "2026-10-30T18:41:24+00:00",
   "ok": false,

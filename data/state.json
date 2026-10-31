@@ -8509,6 +8509,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2250595163-departamento-4-ambientes-en-recoleta-_JM"
  },
+ "ml:MLA2250603775": {
+  "first_seen": "2026-10-31T15:30:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.362.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2250603775-departamento-alquiler-temporario-3-ambientes-en-palermo-amoblado-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

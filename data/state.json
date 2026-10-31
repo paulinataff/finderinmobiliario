@@ -8492,6 +8492,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2249298019-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2250009649": {
+  "first_seen": "2026-10-31T09:35:36+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.530.000 supera el máximo",
+   "del otro lado de Santa Fe (502 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2250009649-alquiler-semipiso-muy-luminoso-a-estrenar-de-2-ambientes-con-dormitorio-en-suite-y-balcon-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

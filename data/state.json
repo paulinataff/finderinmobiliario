@@ -8541,6 +8541,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2251254561-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2251459699": {
+  "first_seen": "2026-11-01T05:19:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.465.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2251459699-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18135,5 +18143,14 @@
    "del otro lado de Santa Fe (606 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4146250210-alquiler-dpto-2-amb-palermo-cochera-balcon-terraza-_JM"
+ },
+ "ml:MLA4146683256": {
+  "first_seen": "2026-11-01T05:19:05+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4146683256-alquiler-departamento-recoleta-2-ambientes-grandes-_JM"
  }
 }

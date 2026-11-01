@@ -8549,6 +8549,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2251459699-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2252307589": {
+  "first_seen": "2026-11-01T18:00:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.580.000 supera el máximo",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2252307589-amplio-depto-frente-a-boulevard-olleros-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

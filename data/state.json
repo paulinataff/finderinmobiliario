@@ -18171,5 +18171,13 @@
    "edificio de 60 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4148167012-departamento-en-las-canitas-_JM"
+ },
+ "ml:MLA4148171260": {
+  "first_seen": "2026-11-01T20:03:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.357.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4148171260-luminoso-depto-2-ambientes-en-alquiler-en-palermo-_JM"
  }
 }

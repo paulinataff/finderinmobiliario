@@ -18161,5 +18161,15 @@
    "edificio de 50 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4146683256-alquiler-departamento-recoleta-2-ambientes-grandes-_JM"
+ },
+ "ml:MLA4148167012": {
+  "first_seen": "2026-11-01T19:15:25+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (581 m)",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4148167012-departamento-en-las-canitas-_JM"
  }
 }

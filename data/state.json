@@ -8659,6 +8659,32 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2255396467-depto-3-ambientes-amoblado-c-patio-excelente-ubicacion-beruti-y-scalabrini-ortiz-_JM"
  },
+ "ml:MLA2255401965": {
+  "first_seen": "2026-11-02T17:52:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.660.000 supera el máximo",
+   "del otro lado de Santa Fe (161 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255401965-departamento-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA2255613633": {
+  "first_seen": "2026-11-02T17:52:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.723.810 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255613633-alquiler-temporal-departamento-3-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA2255619549": {
+  "first_seen": "2026-11-02T17:52:38+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255619549-dos-ambientes-con-dos-patios-en-libertador-y-callao-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18389,6 +18415,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4150586374-alquiler-3-dorm-balcon-guardacoches-apto-profesi-_JM"
  },
+ "ml:MLA4150858678": {
+  "first_seen": "2026-11-02T17:52:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.550.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150858678-alquilo-departamento-3-ambientes-comoda-ubicacion-_JM"
+ },
  "ml:MLA4150868816": {
   "first_seen": "2026-11-02T15:24:35+00:00",
   "ok": false,
@@ -18412,5 +18446,30 @@
    "total $3.914.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4150878696-4-ambientes-con-vista-al-campo-de-polo-en-las-canitas-_JM"
+ },
+ "ml:MLA4151250084": {
+  "first_seen": "2026-11-02T17:52:28+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.350.650 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151250084-departamento-duplex-2-dormitorios-escritorio-y-dependencias-de-servicio-en-recoleta-_JM"
+ },
+ "ml:MLA4151253884": {
+  "first_seen": "2026-11-02T17:52:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151253884-2-ambientes-en-alquiler-a-estrenar-con-terraza-propia-_JM"
+ },
+ "ml:MLA4151332366": {
+  "first_seen": "2026-11-02T17:52:44+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151332366-exelente-departamento-en-las-canitas-_JM"
  }
 }

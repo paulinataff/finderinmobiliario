@@ -18179,5 +18179,13 @@
    "total $1.357.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4148171260-luminoso-depto-2-ambientes-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA4148407292": {
+  "first_seen": "2026-11-02T00:01:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4148407292-departamento-en-recoleta-_JM"
  }
 }

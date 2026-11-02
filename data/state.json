@@ -8558,6 +8558,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2252307589-amplio-depto-frente-a-boulevard-olleros-_JM"
  },
+ "ml:MLA2252403419": {
+  "first_seen": "2026-11-02T10:52:15+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.900.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2252403419-extraordinario-loft-duplex-apto-profesional-recoleta-_JM"
+ },
  "ml:MLA2253427359": {
   "first_seen": "2026-11-02T02:46:41+00:00",
   "ok": false,

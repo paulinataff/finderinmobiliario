@@ -8610,6 +8610,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2253730955-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2255096347": {
+  "first_seen": "2026-11-02T14:13:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.490.450 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255096347-alquiler-torre-mirabilia-3-amb-amueblado-cochera-vista-luz-amenities-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18303,5 +18311,23 @@
    "total $2.520.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4149227930-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4150585998": {
+  "first_seen": "2026-11-02T14:13:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.882.440 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150585998-depto-2-amb-a-estrenar-en-palermo-hollywood-sobre-costa-rica-5400-_JM"
+ },
+ "ml:MLA4150586374": {
+  "first_seen": "2026-11-02T14:13:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.100.000 supera el máximo",
+   "sin balcón",
+   "edificio de 66 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150586374-alquiler-3-dorm-balcon-guardacoches-apto-profesi-_JM"
  }
 }

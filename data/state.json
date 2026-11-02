@@ -8558,6 +8558,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2252307589-amplio-depto-frente-a-boulevard-olleros-_JM"
  },
+ "ml:MLA2253438747": {
+  "first_seen": "2026-11-02T01:42:11+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (530 m)",
+   "edificio de 56 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2253438747-alquiler-departamento-2-ambientes-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18187,5 +18197,13 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4148407292-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4148500262": {
+  "first_seen": "2026-11-02T01:42:07+00:00",
+  "ok": false,
+  "reasons": [
+   "total $5.118.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4148500262-recoleta-exclusivo-piso-de-261-m-en-libertador-y-suipacha-edificio-de-gran-categoria-_JM"
  }
 }

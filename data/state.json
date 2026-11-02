@@ -8618,6 +8618,47 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2255096347-alquiler-torre-mirabilia-3-amb-amueblado-cochera-vista-luz-amenities-palermo-_JM"
  },
+ "ml:MLA2255331619": {
+  "first_seen": "2026-11-02T16:30:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.409.220 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255331619-excelente-2-ambientes-en-alquiler-con-cochera-en-quartier-del-polo-las-canitas-_JM"
+ },
+ "ml:MLA2255333019": {
+  "first_seen": "2026-11-02T16:31:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255333019-departamento-tres-ambientes-palermo-soho-con-amenities-_JM"
+ },
+ "ml:MLA2255337739": {
+  "first_seen": "2026-11-02T16:31:06+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255337739-departamentos-2-ambientes-alquiler-_JM"
+ },
+ "ml:MLA2255372169": {
+  "first_seen": "2026-11-02T16:30:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.035.540 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255372169-departamento-en-recoleta-moderno-y-luminoso-_JM"
+ },
+ "ml:MLA2255396467": {
+  "first_seen": "2026-11-02T16:30:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255396467-depto-3-ambientes-amoblado-c-patio-excelente-ubicacion-beruti-y-scalabrini-ortiz-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18355,5 +18396,21 @@
    "total $3.923.250 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4150868816-alquiler-departamento-2-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4150875750": {
+  "first_seen": "2026-11-02T16:30:54+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150875750-departamento-en-alquiler-2-ambientes-en-canitas-palermo-amoblado-_JM"
+ },
+ "ml:MLA4150878696": {
+  "first_seen": "2026-11-02T16:30:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.914.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150878696-4-ambientes-con-vista-al-campo-de-polo-en-las-canitas-_JM"
  }
 }

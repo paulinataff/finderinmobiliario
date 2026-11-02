@@ -8725,6 +8725,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2255904261-departamento-en-alquiler-2-ambientes-en-palermo-con-piletaparrillasaunagimnasio-_JM"
  },
+ "ml:MLA2255907793": {
+  "first_seen": "2026-11-02T20:41:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.665.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255907793-3-amb-con-balcon-y-patio-en-alquiler-en-las-canitas-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18538,6 +18546,32 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4151495468-alquiler-torre-deco-austria-2-amb-amplia-terraza-jacuzzi-cochera-_JM"
  },
+ "ml:MLA4151496170": {
+  "first_seen": "2026-11-02T20:41:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.579.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151496170-alquilo-departamento-3-ambientes-inigualable-ubicacion-_JM"
+ },
+ "ml:MLA4151630670": {
+  "first_seen": "2026-11-02T20:41:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.850.000 supera el máximo",
+   "sin balcón",
+   "edificio de 70 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151630670-departamento-estilo-frances-de-gran-categoria-en-recoleta-_JM"
+ },
+ "ml:MLA4151632600": {
+  "first_seen": "2026-11-02T20:41:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.527.040 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151632600-alquiler-2-dormitorios-cochera-amenities-palermo-_JM"
+ },
  "ml:MLA4151635572": {
   "antiguedad": 40,
   "cochera": false,
@@ -18573,5 +18607,38 @@
   "score": 16,
   "total_ars": 1170000.0,
   "zone": "Las Cañitas"
+ },
+ "ml:MLA4151644022": {
+  "first_seen": "2026-11-02T20:41:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo",
+   "del otro lado de Santa Fe (343 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151644022-alquiler-departamento-2-ambientes-tipo-loft-en-palermo-_JM"
+ },
+ "ml:MLA4151665478": {
+  "first_seen": "2026-11-02T20:41:20+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151665478-departamento-de-1-ambiente-divisible-en-alquiler-con-cochera-descubierta-palermo-_JM"
+ },
+ "ml:MLA4151669828": {
+  "first_seen": "2026-11-02T20:41:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151669828-departamento-ayacucho-y-guido-_JM"
+ },
+ "ml:MLA4151778842": {
+  "first_seen": "2026-11-02T20:41:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.474.680 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151778842-departamento-3-ambientes-en-venta-en-palermo-_JM"
  }
 }

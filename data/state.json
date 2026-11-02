@@ -18312,6 +18312,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4149227930-departamento-en-alquiler-en-recoleta-_JM"
  },
+ "ml:MLA4150500152": {
+  "first_seen": "2026-11-02T15:24:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.883.160 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150500152-departamento-en-las-canitas-_JM"
+ },
+ "ml:MLA4150500436": {
+  "first_seen": "2026-11-02T15:24:41+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (328 m)",
+   "edificio de 46 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150500436-alquiler-2-ambientes-amoblado-en-palermo-_JM"
+ },
  "ml:MLA4150585998": {
   "first_seen": "2026-11-02T14:13:22+00:00",
   "ok": false,
@@ -18329,5 +18347,13 @@
    "edificio de 66 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4150586374-alquiler-3-dorm-balcon-guardacoches-apto-profesi-_JM"
+ },
+ "ml:MLA4150868816": {
+  "first_seen": "2026-11-02T15:24:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.923.250 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4150868816-alquiler-departamento-2-ambientes-en-recoleta-_JM"
  }
 }

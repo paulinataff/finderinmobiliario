@@ -8586,6 +8586,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2253453369-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2253730955": {
+  "first_seen": "2026-11-02T04:55:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.465.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2253730955-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18239,5 +18247,13 @@
    "total $2.677.500 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4148724938-alquiler-triplex-las-canitas-parrilla-y-jacuzzi-_JM"
+ },
+ "ml:MLA4148885172": {
+  "first_seen": "2026-11-02T04:55:18+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4148885172-departamento-en-alquiler-en-recoleta-_JM"
  }
 }

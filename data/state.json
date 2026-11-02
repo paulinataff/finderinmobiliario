@@ -8558,6 +8558,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2252307589-amplio-depto-frente-a-boulevard-olleros-_JM"
  },
+ "ml:MLA2253427359": {
+  "first_seen": "2026-11-02T02:46:41+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (405 m)",
+   "edificio de 56 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2253427359-alquiler-2-amb-semiamoblado-palermo-balcon-al-fte-_JM"
+ },
  "ml:MLA2253438747": {
   "first_seen": "2026-11-02T01:42:11+00:00",
   "ok": false,
@@ -8567,6 +8577,14 @@
    "edificio de 56 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2253438747-alquiler-departamento-2-ambientes-palermo-_JM"
+ },
+ "ml:MLA2253453369": {
+  "first_seen": "2026-11-02T02:46:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2253453369-departamento-en-recoleta-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
@@ -18205,5 +18223,21 @@
    "total $5.118.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4148500262-recoleta-exclusivo-piso-de-261-m-en-libertador-y-suipacha-edificio-de-gran-categoria-_JM"
+ },
+ "ml:MLA4148684884": {
+  "first_seen": "2026-11-02T02:46:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4148684884-alquiler-4-ambientes-palermo-luminoso-_JM"
+ },
+ "ml:MLA4148724938": {
+  "first_seen": "2026-11-02T02:46:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.677.500 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4148724938-alquiler-triplex-las-canitas-parrilla-y-jacuzzi-_JM"
  }
 }

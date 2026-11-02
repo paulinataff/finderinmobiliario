@@ -8788,6 +8788,24 @@
   "total_ars": 1140000.0,
   "zone": "Botánico y Plaza Italia"
  },
+ "ml:MLA2255984137": {
+  "first_seen": "2026-11-02T22:37:26+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (772 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255984137-alquiler-departamento-2-ambientes-grande-en-palermo-_JM"
+ },
+ "ml:MLA2255996885": {
+  "first_seen": "2026-11-02T22:37:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.580.000 supera el máximo",
+   "sin balcón",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255996885-amplio-y-luminoso-2-ambientes-en-frente-a-la-plaza-vicente-lopez-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18703,5 +18721,13 @@
    "edificio de 60 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4151787710-departamento-2-ambientes-alquiler-recoleta-balcon-al-frente-_JM"
+ },
+ "ml:MLA4151790444": {
+  "first_seen": "2026-11-02T22:37:26+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151790444-alquiler-depto-monoamb-amplio-c-balcon-palermo-_JM"
  }
 }

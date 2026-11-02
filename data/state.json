@@ -8733,6 +8733,61 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2255907793-3-amb-con-balcon-y-patio-en-alquiler-en-las-canitas-_JM"
  },
+ "ml:MLA2255966617": {
+  "first_seen": "2026-11-02T21:38:43+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (286 m)",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255966617-alquiler-departamento-3-ambientes-con-dependencia-frente-balcon-frances-recoleta-_JM"
+ },
+ "ml:MLA2255966803": {
+  "first_seen": "2026-11-02T21:38:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo",
+   "sin balcón",
+   "edificio de 65 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255966803-alquiler-3-ambientes-palermo-las-canitas-_JM"
+ },
+ "ml:MLA2255977201": {
+  "antiguedad": 40,
+  "cochera": false,
+  "first_seen": "2026-11-02T21:38:39+00:00",
+  "listing": {
+   "address": "Beruti Al 3700, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 220000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2255977201",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_997082-MLA118982986074_112026-O.webp"
+   ],
+   "lat": -34.5848918,
+   "lon": -58.4134064,
+   "m2_cubiertos": 40.0,
+   "price": 920000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento 2 Ambientes En Palermo En Alquiler",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2255977201-departamento-2-ambientes-en-palermo-en-alquiler-_JM"
+  },
+  "notes": [],
+  "notified": "2026-11-02T21:38:44+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 31,
+  "total_ars": 1140000.0,
+  "zone": "Botánico y Plaza Italia"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18640,5 +18695,13 @@
    "total $3.474.680 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4151778842-departamento-3-ambientes-en-venta-en-palermo-_JM"
+ },
+ "ml:MLA4151787710": {
+  "first_seen": "2026-11-02T21:38:35+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151787710-departamento-2-ambientes-alquiler-recoleta-balcon-al-frente-_JM"
  }
 }

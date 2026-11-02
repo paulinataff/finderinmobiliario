@@ -8701,6 +8701,30 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2255794805-alquiler-2-ambientes-amoblado-en-recoleta-_JM"
  },
+ "ml:MLA2255899157": {
+  "first_seen": "2026-11-02T19:50:06+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255899157-alquiler-monoambiente-con-balcon-y-amenities-en-las-canitas-_JM"
+ },
+ "ml:MLA2255902085": {
+  "first_seen": "2026-11-02T19:50:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.512.160 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255902085-departamento-3-amb-amueblado-frente-al-parque-las-heras-_JM"
+ },
+ "ml:MLA2255904261": {
+  "first_seen": "2026-11-02T19:50:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.510.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255904261-departamento-en-alquiler-2-ambientes-en-palermo-con-piletaparrillasaunagimnasio-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18505,5 +18529,49 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4151423586-departamento-en-las-canitas-_JM"
+ },
+ "ml:MLA4151495468": {
+  "first_seen": "2026-11-02T19:50:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.140.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151495468-alquiler-torre-deco-austria-2-amb-amplia-terraza-jacuzzi-cochera-_JM"
+ },
+ "ml:MLA4151635572": {
+  "antiguedad": 40,
+  "cochera": false,
+  "first_seen": "2026-11-02T19:50:11+00:00",
+  "listing": {
+   "address": "Migueletes Al 654, Las Cañitas, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 320000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4151635572",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_961059-MLA120672751303_112026-O.webp"
+   ],
+   "lat": -34.5674497,
+   "lon": -58.4326474,
+   "m2_cubiertos": 40.0,
+   "price": 850000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento Alquiler 2 Ambientes Luminoso En Excelente Estado Las Cañitas",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4151635572-departamento-alquiler-2-ambientes-luminoso-en-excelente-estado-las-canitas-_JM"
+  },
+  "notes": [],
+  "notified": null,
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 16,
+  "total_ars": 1170000.0,
+  "zone": "Las Cañitas"
  }
 }

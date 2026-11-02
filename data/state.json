@@ -8685,6 +8685,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2255619549-dos-ambientes-con-dos-patios-en-libertador-y-callao-_JM"
  },
+ "ml:MLA2255761599": {
+  "first_seen": "2026-11-02T18:51:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.979.960 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255761599-alquiler-dpto-5-ambientes-recoleta-la-isla-_JM"
+ },
+ "ml:MLA2255794805": {
+  "first_seen": "2026-11-02T18:51:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.568.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2255794805-alquiler-2-ambientes-amoblado-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18471,5 +18487,23 @@
    "edificio de 60 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4151332366-exelente-departamento-en-las-canitas-_JM"
+ },
+ "ml:MLA4151334162": {
+  "first_seen": "2026-11-02T18:51:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.340.945 supera el máximo",
+   "del otro lado de Santa Fe (21 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151334162-departamento-2-ambientes-con-lavadero-y-balcon-en-palermo-_JM"
+ },
+ "ml:MLA4151423586": {
+  "first_seen": "2026-11-02T18:51:29+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151423586-departamento-en-las-canitas-_JM"
  }
 }

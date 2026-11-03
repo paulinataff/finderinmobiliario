@@ -8893,6 +8893,22 @@
   "total_ars": 1380000.0,
   "zone": "Luis María Campos norte"
  },
+ "ml:MLA2258250875": {
+  "first_seen": "2026-11-03T14:54:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258250875-3-ambientes-alquiler-las-canitas-inmejorable-ubicacion-_JM"
+ },
+ "ml:MLA2258254573": {
+  "first_seen": "2026-11-03T14:54:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.886.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258254573-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18948,5 +18964,66 @@
    "total $2.038.071 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4154605148-alquiler-amoblado-3-amb-seguridad-24hs-recoleta-_JM"
+ },
+ "ml:MLA4154611884": {
+  "first_seen": "2026-11-03T14:54:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.740.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4154611884-alquiler-departamento-canitas-2-ambientes-balcon-_JM"
+ },
+ "ml:MLA4154810216": {
+  "antiguedad": 32,
+  "cochera": false,
+  "first_seen": "2026-11-03T14:54:54+00:00",
+  "listing": {
+   "address": "Sánchez De Bustamante 2173, Recoleta, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 1.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4154810216",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_919082-MLA120724314685_112026-O.webp"
+   ],
+   "lat": -34.5874787,
+   "lon": -58.4057301,
+   "m2_cubiertos": 54.0,
+   "price": 1250000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento De 2 Ambientes Luminoso Con Balcón En Recoleta",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4154810216-departamento-de-2-ambientes-luminoso-con-balcon-en-recoleta-_JM"
+  },
+  "notes": [],
+  "notified": "2026-11-03T14:55:06+00:00",
+  "ok": true,
+  "pileta": true,
+  "reasons": [],
+  "score": 50,
+  "total_ars": 1250001.0,
+  "zone": "Recoleta alta"
+ },
+ "ml:MLA4155004930": {
+  "first_seen": "2026-11-03T14:54:59+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155004930-alquiler-dos-ambientes-recoleta-universidad-barcelo-hermoso-ayacucho-y-las-heras-lateral-seguro-de-caucion-_JM"
+ },
+ "ml:MLA4155011336": {
+  "first_seen": "2026-11-03T14:55:05+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1027 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155011336-departamento-de-3-ambientes-en-alquiler-en-palermo-caba-_JM"
  }
 }

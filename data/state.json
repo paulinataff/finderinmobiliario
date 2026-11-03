@@ -8959,6 +8959,40 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258365731-alquiler-monoambiente-con-balcon-frances-y-cocina-independiente-_JM"
  },
+ "ml:MLA2258467135": {
+  "first_seen": "2026-11-03T17:45:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.786.980 supera el máximo",
+   "sobre Av. Santa Fe"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258467135-oppel-departamento-en-alquiler-recoleta-capital-federal-cod-33972-_JM"
+ },
+ "ml:MLA2258469303": {
+  "first_seen": "2026-11-03T17:45:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.142.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258469303-recoleta-juncal-y-rodriguez-pena-_JM"
+ },
+ "ml:MLA2258469305": {
+  "first_seen": "2026-11-03T17:45:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.100.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258469305-recoleta-juncal-y-rodriguez-pena-_JM"
+ },
+ "ml:MLA2258591293": {
+  "first_seen": "2026-11-03T17:45:45+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (554 m)",
+   "edificio de 56 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258591293-departamento-palermo-2-amb-frente-balcon-ideal--_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19126,5 +19160,13 @@
    "total $3.927.750 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4155426884-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4155557686": {
+  "first_seen": "2026-11-03T17:45:35+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155557686-departamento-3-ambientes-en-excelente-estado-con-cochera-y-balcon-corrido-_JM"
  }
 }

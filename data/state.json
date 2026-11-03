@@ -19358,5 +19358,13 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4156654236-alquiler-palermo-monoambiente-balcon-piso-alto-_JM"
+ },
+ "ml:MLA4156746526": {
+  "first_seen": "2026-11-03T23:36:53+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.581.100 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156746526-alquiler-de-departamento-2-ambientes-toilette-fitz-roy-y-soler-palermo-_JM"
  }
 }

@@ -9019,6 +9019,41 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258752511-alquiler-departamento-3-ambientes-recoleta-_JM"
  },
+ "ml:MLA2258821511": {
+  "first_seen": "2026-11-03T20:43:57+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (154 m)",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258821511-alquiler-2-ambientes-recoleta-apto-profesional-_JM"
+ },
+ "ml:MLA2258875801": {
+  "first_seen": "2026-11-03T20:43:43+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258875801-departamento-monoambiente-en-alquiler-amenities-ae-palermo-_JM"
+ },
+ "ml:MLA2258878039": {
+  "first_seen": "2026-11-03T20:44:01+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1731 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258878039-alquiler-depto-2-ambientes-_JM"
+ },
+ "ml:MLA2258880935": {
+  "first_seen": "2026-11-03T20:43:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.850.000 supera el máximo",
+   "edificio de 66 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258880935-departamento-en-alquiler-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19246,5 +19281,31 @@
    "total $3.925.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4155777746-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4156118686": {
+  "first_seen": "2026-11-03T20:43:53+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.200.000 supera el máximo",
+   "no menciona balcón",
+   "del otro lado de Santa Fe (1520 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156118686-alquiler-departamento-2-ambientes-terraza-propia-palermo-capital-federal-buenos-aires-_JM"
+ },
+ "ml:MLA4156154602": {
+  "first_seen": "2026-11-03T20:43:53+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156154602-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4156157730": {
+  "first_seen": "2026-11-03T20:43:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.581.100 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156157730-departamento-2-ambientes-amenities-ae-palermo-alquiler-_JM"
  }
 }

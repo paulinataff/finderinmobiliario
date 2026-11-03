@@ -8933,6 +8933,32 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258356467-alquiler-departamento-2-ambientes-con-balcon-en-palermo-_JM"
  },
+ "ml:MLA2258362195": {
+  "first_seen": "2026-11-03T16:51:23+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (343 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258362195-departamento-alquiler-tradicional-alquiler-24-meses-palermo-2-amb-_JM"
+ },
+ "ml:MLA2258362737": {
+  "first_seen": "2026-11-03T16:51:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.690.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (167 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258362737-departamento-con-renta-en-_JM"
+ },
+ "ml:MLA2258365731": {
+  "first_seen": "2026-11-03T16:51:23+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258365731-alquiler-monoambiente-con-balcon-frances-y-cocina-independiente-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19059,6 +19085,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4155040118-loft-2-ambientes-en-la-algodonera-en-alquiler-palermo-hollywood-_JM"
  },
+ "ml:MLA4155110648": {
+  "first_seen": "2026-11-03T16:51:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155110648-departamento-en-palermo-_JM"
+ },
  "ml:MLA4155110812": {
   "first_seen": "2026-11-03T15:46:55+00:00",
   "ok": false,
@@ -19075,5 +19109,22 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4155111974-loft-2-ambientes-en-la-algodonera-en-alquiler-palermo-hollywood-_JM"
+ },
+ "ml:MLA4155426790": {
+  "first_seen": "2026-11-03T16:51:29+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1058 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155426790-alquiler-palermo-departamento-2-ambientes-_JM"
+ },
+ "ml:MLA4155426884": {
+  "first_seen": "2026-11-03T16:51:23+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.927.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155426884-departamento-en-recoleta-_JM"
  }
 }

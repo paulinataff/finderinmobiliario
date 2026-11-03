@@ -18786,5 +18786,14 @@
    "total $2.685.830 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152005830-departamento-en-alquiler-3-ambientes-recoleta-_JM"
+ },
+ "ml:MLA4152248366": {
+  "first_seen": "2026-11-03T01:56:11+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo",
+   "edificio de 52 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152248366-departamento-en-alquiler-palermo-chico-3-ambientes-con-balcon-_JM"
  }
 }

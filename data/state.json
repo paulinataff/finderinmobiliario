@@ -8822,6 +8822,17 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2256048823-alquiler-2-ambientes-en-palermo-_JM"
  },
+ "ml:MLA2256176821": {
+  "first_seen": "2026-11-03T02:47:45+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (1217 m)",
+   "edificio de 43 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2256176821-alquiler-depto-3-amb-patio-en-palermo-amoblado-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

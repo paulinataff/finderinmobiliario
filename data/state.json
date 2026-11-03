@@ -18798,6 +18798,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152005830-departamento-en-alquiler-3-ambientes-recoleta-_JM"
  },
+ "ml:MLA4152167550": {
+  "first_seen": "2026-11-03T03:47:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.770.000 supera el máximo",
+   "sin balcón",
+   "edificio de 100 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152167550-departamento-en-alquiler-de-2-dormitorios-en-recoleta-duplex-de-categoria-_JM"
+ },
  "ml:MLA4152248366": {
   "first_seen": "2026-11-03T01:56:11+00:00",
   "ok": false,
@@ -18806,5 +18816,13 @@
    "edificio de 52 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152248366-departamento-en-alquiler-palermo-chico-3-ambientes-con-balcon-_JM"
+ },
+ "ml:MLA4152495602": {
+  "first_seen": "2026-11-03T03:47:39+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152495602-departamento-en-alquiler-en-palermo-_JM"
  }
 }

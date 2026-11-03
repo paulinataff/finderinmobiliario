@@ -18833,6 +18833,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152248366-departamento-en-alquiler-palermo-chico-3-ambientes-con-balcon-_JM"
  },
+ "ml:MLA4152491494": {
+  "first_seen": "2026-11-03T05:50:12+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.448.845 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152491494-departamento-alquiler-recoleta-4-ambientes-cochera-cubierta-amoblado-_JM"
+ },
  "ml:MLA4152495602": {
   "first_seen": "2026-11-03T03:47:39+00:00",
   "ok": false,
@@ -18841,6 +18849,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152495602-departamento-en-alquiler-en-palermo-_JM"
  },
+ "ml:MLA4152504100": {
+  "first_seen": "2026-11-03T05:50:12+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152504100-palermo-3-amb-balcon-frente-araoz-entre-juncal-y-beruti-aprof-2-aire-split-recien-pintado-_JM"
+ },
  "ml:MLA4152585924": {
   "first_seen": "2026-11-03T04:49:51+00:00",
   "ok": false,
@@ -18848,5 +18864,13 @@
    "total $1.550.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152585924-alquiler-departamento-3-ambientes-c-dependencia-recoleta-_JM"
+ },
+ "ml:MLA4152590682": {
+  "first_seen": "2026-11-03T05:50:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152590682-alquiler-departamento-semipiso-dos-ambientes-en-canitas-balcon-aterrazado-_JM"
  }
 }

@@ -9009,6 +9009,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258724137-duplex-2-ambientes-con-balcon-en-palermo-en-alquiler-_JM"
  },
+ "ml:MLA2258752511": {
+  "first_seen": "2026-11-03T19:48:07+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.535.000 supera el máximo",
+   "sin balcón",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258752511-alquiler-departamento-3-ambientes-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

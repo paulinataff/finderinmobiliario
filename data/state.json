@@ -8993,6 +8993,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258591293-departamento-palermo-2-amb-frente-balcon-ideal--_JM"
  },
+ "ml:MLA2258721209": {
+  "first_seen": "2026-11-03T18:45:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.100.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258721209-recoleta-juncal-y-rodriguez-pena-_JM"
+ },
+ "ml:MLA2258724137": {
+  "first_seen": "2026-11-03T18:45:31+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (343 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258724137-duplex-2-ambientes-con-balcon-en-palermo-en-alquiler-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19168,5 +19184,57 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4155557686-departamento-3-ambientes-en-excelente-estado-con-cochera-y-balcon-corrido-_JM"
+ },
+ "ml:MLA4155560830": {
+  "first_seen": "2026-11-03T18:45:21+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.610.770 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155560830-departamento-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
+ },
+ "ml:MLA4155774640": {
+  "antiguedad": 10,
+  "cochera": true,
+  "first_seen": "2026-11-03T18:45:25+00:00",
+  "listing": {
+   "address": "Soldado De La Independencia 1300, Las Cañitas, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 1,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 390000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4155774640",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_737367-MLA119039275402_112026-O.webp"
+   ],
+   "lat": -34.5643311,
+   "lon": -58.4398117,
+   "m2_cubiertos": 47.0,
+   "price": 990000,
+   "publisher": "Mel Propiedades",
+   "source": "ml",
+   "title": "Dos Ambientes En Alquiler Muy Luminoso ",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4155774640-dos-ambientes-en-alquiler-muy-luminoso-_JM"
+  },
+  "notes": [],
+  "notified": null,
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 37,
+  "total_ars": 1380000.0,
+  "zone": "Luis María Campos norte"
+ },
+ "ml:MLA4155777746": {
+  "first_seen": "2026-11-03T18:45:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.925.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155777746-departamento-en-recoleta-_JM"
  }
 }

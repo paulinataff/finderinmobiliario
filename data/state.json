@@ -8833,6 +8833,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2256176821-alquiler-depto-3-amb-patio-en-palermo-amoblado-_JM"
  },
+ "ml:MLA2256498499": {
+  "first_seen": "2026-11-03T04:49:51+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.579.900 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2256498499-alquiler-departamento-3-ambientes-c-dependencia-recoleta-_JM"
+ },
+ "ml:MLA2256499737": {
+  "first_seen": "2026-11-03T04:49:51+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.475.780 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2256499737-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18824,5 +18840,13 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152495602-departamento-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA4152585924": {
+  "first_seen": "2026-11-03T04:49:51+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.550.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152585924-alquiler-departamento-3-ambientes-c-dependencia-recoleta-_JM"
  }
 }

@@ -8909,6 +8909,30 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258254573-departamento-en-alquiler-en-palermo-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA2258257755": {
+  "first_seen": "2026-11-03T15:46:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258257755-2-ambientes-con-terraza-propia-en-alquiler-palermo-a-estrenar-_JM"
+ },
+ "ml:MLA2258332625": {
+  "first_seen": "2026-11-03T15:46:55+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258332625-monoambiente-en-alquiler-recoleta-_JM"
+ },
+ "ml:MLA2258356467": {
+  "first_seen": "2026-11-03T15:46:59+00:00",
+  "ok": false,
+  "reasons": [
+   "sobre Av. Santa Fe"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258356467-alquiler-departamento-2-ambientes-con-balcon-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19025,5 +19049,31 @@
    "del otro lado de Santa Fe (1027 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4155011336-departamento-de-3-ambientes-en-alquiler-en-palermo-caba-_JM"
+ },
+ "ml:MLA4155040118": {
+  "first_seen": "2026-11-03T15:46:55+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.727.990 supera el máximo",
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155040118-loft-2-ambientes-en-la-algodonera-en-alquiler-palermo-hollywood-_JM"
+ },
+ "ml:MLA4155110812": {
+  "first_seen": "2026-11-03T15:46:55+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155110812-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4155111974": {
+  "first_seen": "2026-11-03T15:46:55+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo",
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4155111974-loft-2-ambientes-en-la-algodonera-en-alquiler-palermo-hollywood-_JM"
  }
 }

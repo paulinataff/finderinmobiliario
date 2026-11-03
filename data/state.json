@@ -8857,6 +8857,42 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2256499737-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2258043949": {
+  "antiguedad": 10,
+  "cochera": true,
+  "first_seen": "2026-11-03T13:40:19+00:00",
+  "listing": {
+   "address": "Soldado De La Independencia 1300, Las Cañitas, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 1,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 390000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA2258043949",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_844670-MLA119027436016_112026-O.webp"
+   ],
+   "lat": -34.5643311,
+   "lon": -58.4398117,
+   "m2_cubiertos": 47.0,
+   "price": 990000,
+   "publisher": "Mel Propiedades",
+   "source": "ml",
+   "title": "Excelente 2 Ambientes Con Cochera.",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2258043949-excelente-2-ambientes-con-cochera-_JM"
+  },
+  "notes": [],
+  "notified": "2026-11-03T13:40:25+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 37,
+  "total_ars": 1380000.0,
+  "zone": "Luis María Campos norte"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18880,5 +18916,37 @@
    "total $1.800.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4152590682-alquiler-departamento-semipiso-dos-ambientes-en-canitas-balcon-aterrazado-_JM"
+ },
+ "ml:MLA4154120944": {
+  "first_seen": "2026-11-03T13:40:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.159.800 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4154120944-departamento-en-recoleta-tipo-loft-con-entrepiso-2-banos-_JM"
+ },
+ "ml:MLA4154237050": {
+  "first_seen": "2026-11-03T13:40:24+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (317 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4154237050-departamento-alquiler-2-ambientes-palermo-_JM"
+ },
+ "ml:MLA4154247900": {
+  "first_seen": "2026-11-03T13:40:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.038.071 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4154247900-alquiler-amoblado-3-amb-seguridad-24hs-palermo-recoleta-_JM"
+ },
+ "ml:MLA4154605148": {
+  "first_seen": "2026-11-03T13:40:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.038.071 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4154605148-alquiler-amoblado-3-amb-seguridad-24hs-recoleta-_JM"
  }
 }

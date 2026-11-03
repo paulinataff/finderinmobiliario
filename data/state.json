@@ -8814,6 +8814,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2255999961-monoambiente-alquiler-en-las-canitas-con-amenities-_JM"
  },
+ "ml:MLA2256048823": {
+  "first_seen": "2026-11-03T00:53:06+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (91 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2256048823-alquiler-2-ambientes-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -18737,5 +18745,46 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4151790444-alquiler-depto-monoamb-amplio-c-balcon-palermo-_JM"
+ },
+ "ml:MLA4151939778": {
+  "first_seen": "2026-11-03T00:53:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151939778-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4151946276": {
+  "first_seen": "2026-11-03T00:53:13+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (573 m)",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151946276-alquiler-depto-2-amb-muy-luminosococina-indep-palermo-_JM"
+ },
+ "ml:MLA4151980358": {
+  "first_seen": "2026-11-03T00:53:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.900.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4151980358-cuatro-ambientes-palermo-frente-a-plaza-las-heras-_JM"
+ },
+ "ml:MLA4152005818": {
+  "first_seen": "2026-11-03T00:53:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.369.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152005818-departamento-en-alquiler-3-ambientes-recoleta-_JM"
+ },
+ "ml:MLA4152005830": {
+  "first_seen": "2026-11-03T00:53:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.685.830 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4152005830-departamento-en-alquiler-3-ambientes-recoleta-_JM"
  }
 }

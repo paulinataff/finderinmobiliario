@@ -9054,6 +9054,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258880935-departamento-en-alquiler-en-recoleta-_JM"
  },
+ "ml:MLA2258882231": {
+  "first_seen": "2026-11-03T21:40:16+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.520.000 supera el máximo",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258882231-alquiler-departamento-3-ambientes-recoleta-_JM"
+ },
+ "ml:MLA2258944467": {
+  "first_seen": "2026-11-03T21:40:05+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258944467-gran-2-amb-en-palermo-hollywood-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19307,5 +19325,30 @@
    "total $1.581.100 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4156157730-departamento-2-ambientes-amenities-ae-palermo-alquiler-_JM"
+ },
+ "ml:MLA4156493400": {
+  "first_seen": "2026-11-03T21:40:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.581.100 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156493400-2-ambientes-full-amenities-torre-quo-palermo-soho-_JM"
+ },
+ "ml:MLA4156653986": {
+  "first_seen": "2026-11-03T21:40:10+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156653986-gran-2-amb-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA4156654236": {
+  "first_seen": "2026-11-03T21:40:16+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156654236-alquiler-palermo-monoambiente-balcon-piso-alto-_JM"
  }
 }

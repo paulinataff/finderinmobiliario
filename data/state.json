@@ -9202,6 +9202,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258250875-3-ambientes-alquiler-las-canitas-inmejorable-ubicacion-_JM"
  },
+ "ml:MLA2258252261": {
+  "first_seen": "2026-11-04T11:01:05+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (226 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2258252261-dueno-directo-alquila-excelente-2-ambientes-61-m2-al-frente-luminoso-y-amplio-cochera-opcional-_JM"
+ },
  "ml:MLA2258254573": {
   "first_seen": "2026-11-03T14:54:54+00:00",
   "ok": false,
@@ -19641,6 +19649,42 @@
   "reasons": [],
   "score": 37,
   "total_ars": 1380000.0,
+  "zone": "Luis María Campos norte"
+ },
+ "ml:MLA4155776016": {
+  "antiguedad": null,
+  "cochera": false,
+  "first_seen": "2026-11-04T11:01:09+00:00",
+  "listing": {
+   "address": "Migueletes 1114, C1426BUP Cdad. Autónoma De Buenos Aires, Argentina, Las Cañitas, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "USD",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 400000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4155776016",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_946413-MLA116891079308_092026-O.webp"
+   ],
+   "lat": -34.5643273,
+   "lon": -58.4379142,
+   "m2_cubiertos": 40.35,
+   "price": 550,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento En Alquiler Con Balcón, Moderno Y Luminoso. Palermo, Migueletes 1200",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4155776016-departamento-en-alquiler-con-balcon-moderno-y-luminoso-palermo-migueletes-1200-_JM"
+  },
+  "notes": [],
+  "notified": "2026-11-04T11:01:10+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 9,
+  "total_ars": 1269605.0,
   "zone": "Luis María Campos norte"
  },
  "ml:MLA4155777746": {

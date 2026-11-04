@@ -9431,6 +9431,40 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2259429435-alquiler-departamento-3-ambientes-recoleta-_JM"
  },
+ "ml:MLA2261320615": {
+  "first_seen": "2026-11-04T14:54:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.455.700 supera el máximo",
+   "del otro lado de Santa Fe (617 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2261320615-alquiler-departamento-amoblado-luminoso-recoleta-caba-_JM"
+ },
+ "ml:MLA2261329761": {
+  "first_seen": "2026-11-04T14:54:37+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón",
+   "del otro lado de Santa Fe (338 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2261329761-super-luminoso-amoblado-_JM"
+ },
+ "ml:MLA2261490665": {
+  "first_seen": "2026-11-04T14:54:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.676.650 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2261490665-alquiler-departamento-3-ambientes-en-palermo-_JM"
+ },
+ "ml:MLA2261502057": {
+  "first_seen": "2026-11-04T14:54:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.950.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2261502057-3-ambientes-con-terraza-propia-amoblado-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19844,5 +19878,14 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4159528988-alquiler-3-ambientes-reciclado-en-recoleta-_JM"
+ },
+ "ml:MLA4159534944": {
+  "first_seen": "2026-11-04T14:54:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo",
+   "del otro lado de Santa Fe (23 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4159534944-alquiler-departamento-semipiso-3-ambientes-con-balcon-recoleta-_JM"
  }
 }

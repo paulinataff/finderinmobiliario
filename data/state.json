@@ -9540,6 +9540,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262204983-alquiler-duplex-3-amb-con-parrilla-propia-balcon-terraza-pileta-cochera-soler-al-6000-palermo-_JM"
  },
+ "ml:MLA2262214889": {
+  "first_seen": "2026-11-04T20:48:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262214889-2-ambientes-alquiler-en-belgrano-a-estrenar-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20072,5 +20080,13 @@
    "del otro lado de Santa Fe (452 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4160993530-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4161236080": {
+  "first_seen": "2026-11-04T20:48:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.400.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4161236080-2-ambientes-alquiler-en-belgrano-a-estrenarfull-amenities-_JM"
  }
 }

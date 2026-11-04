@@ -9499,6 +9499,47 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262141313-departamento-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
  },
+ "ml:MLA2262147831": {
+  "first_seen": "2026-11-04T19:53:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.767.975 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262147831-alquiler-duplex-3-amb-con-parrilla-propia-balcon-terraza-pileta-cochera-soler-al-6000-palermo-_JM"
+ },
+ "ml:MLA2262148329": {
+  "first_seen": "2026-11-04T19:53:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262148329-vista-panoramica-cochera-seg-24-horas-_JM"
+ },
+ "ml:MLA2262149091": {
+  "first_seen": "2026-11-04T19:54:07+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262149091-moderno-mono-ambiente-con-separacion-2-ambientes-amoblado-completo-todo-incluido-wi-fiexpensasimpuestosluz-con-tope-en-las-canitas-_JM"
+ },
+ "ml:MLA2262157841": {
+  "first_seen": "2026-11-04T19:54:07+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (292 m)",
+   "edificio de 54 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262157841-alquiler-departamento-2-ambientes-palermo-_JM"
+ },
+ "ml:MLA2262204983": {
+  "first_seen": "2026-11-04T19:53:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262204983-alquiler-duplex-3-amb-con-parrilla-propia-balcon-terraza-pileta-cochera-soler-al-6000-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20022,5 +20063,14 @@
    "edificio de 50 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4160991306-piso-de-dos-ambientes-balcon-frente-a-20mts-de-plaza-italia-_JM"
+ },
+ "ml:MLA4160993530": {
+  "first_seen": "2026-11-04T19:54:01+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.870.000 supera el máximo",
+   "del otro lado de Santa Fe (452 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4160993530-departamento-en-palermo-_JM"
  }
 }

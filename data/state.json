@@ -9080,6 +9080,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2258994011-vista-panoramica-en-todos-los-ambientes-dormitorio-principal-cocina-y-desayunador-office-dan-al-hipodromo-y-el-rio-segundo-dormitorio-y-living-dan-a-la-ciudad-pisos-de-parquet-amplios-ventanales-_JM"
  },
+ "ml:MLA2259004193": {
+  "first_seen": "2026-11-04T00:54:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.312.313 supera el máximo",
+   "del otro lado de Santa Fe (840 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2259004193-scalabrini-ortiz-y-gascon-2-ambientes-amoblado-_JM"
+ },
+ "ml:MLA2259049825": {
+  "first_seen": "2026-11-04T00:54:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.422.990 supera el máximo",
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2259049825-alquiler-monoambiente-cochera-amenities-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19366,5 +19384,22 @@
    "total $1.581.100 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4156746526-alquiler-de-departamento-2-ambientes-toilette-fitz-roy-y-soler-palermo-_JM"
+ },
+ "ml:MLA4156805112": {
+  "first_seen": "2026-11-04T00:55:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo",
+   "del otro lado de Santa Fe (444 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156805112-dueno-alquila-con-recibo-de-sueldo-3-ambientes-cochera-frente-_JM"
+ },
+ "ml:MLA4156916702": {
+  "first_seen": "2026-11-04T00:54:54+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.529.760 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156916702-alquiler-dpto-3-ambientes-amoblado-con-baulera-en-recoleta-_JM"
  }
 }

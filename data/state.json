@@ -9481,6 +9481,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2261780631-departamento-en-palermo-_JM"
  },
+ "ml:MLA2261782195": {
+  "first_seen": "2026-11-04T17:50:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.674.000 supera el máximo",
+   "del otro lado de Santa Fe (343 m)",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2261782195-alquiler-dueno-directo-3-ambientes-en-zona-alto-palermo-sobre-boulevard-charcas-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19961,5 +19971,13 @@
    "total $1.742.180 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4160394214-imperdible-3-ambientes-en-palermo-_JM"
+ },
+ "ml:MLA4160397498": {
+  "first_seen": "2026-11-04T17:50:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.582.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4160397498-alquiler-3-ambientes-palermo-_JM"
  }
 }

@@ -19811,5 +19811,38 @@
    "total $3.636.530 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4157529468-alquiler-4-ambientes-dependencia-y-cochera-sobre-av-libertador-palermo-_JM"
+ },
+ "ml:MLA4158938422": {
+  "first_seen": "2026-11-04T13:42:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4158938422-alquiler-3-ambientes-reciclado-en-recoleta-_JM"
+ },
+ "ml:MLA4158939854": {
+  "first_seen": "2026-11-04T13:42:33+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (285 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4158939854-alquiler-de-departamento-3-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4159090062": {
+  "first_seen": "2026-11-04T13:42:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.764.880 supera el máximo",
+   "del otro lado de Santa Fe (205 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4159090062-departamento-con-cochera-palermo-hollywood-dos-ambientes-_JM"
+ },
+ "ml:MLA4159528988": {
+  "first_seen": "2026-11-04T13:42:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4159528988-alquiler-3-ambientes-reciclado-en-recoleta-_JM"
  }
 }

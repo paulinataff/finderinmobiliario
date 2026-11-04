@@ -9491,6 +9491,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2261782195-alquiler-dueno-directo-3-ambientes-en-zona-alto-palermo-sobre-boulevard-charcas-_JM"
  },
+ "ml:MLA2262141313": {
+  "first_seen": "2026-11-04T18:52:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.627.790 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262141313-departamento-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19979,5 +19987,40 @@
    "total $1.582.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4160397498-alquiler-3-ambientes-palermo-_JM"
+ },
+ "ml:MLA4160949348": {
+  "first_seen": "2026-11-04T18:52:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4160949348-departamento-en-plas-heras-_JM"
+ },
+ "ml:MLA4160983658": {
+  "first_seen": "2026-11-04T18:52:19+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (322 m)",
+   "edificio de 70 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4160983658-departamento-alquiler-2-ambientes-recoleta-zona-facultades--_JM"
+ },
+ "ml:MLA4160985518": {
+  "first_seen": "2026-11-04T18:52:30+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4160985518-departamento-de-2-ambientes-con-terraza-propia-_JM"
+ },
+ "ml:MLA4160991306": {
+  "first_seen": "2026-11-04T18:52:24+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (44 m)",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4160991306-piso-de-dos-ambientes-balcon-frente-a-20mts-de-plaza-italia-_JM"
  }
 }

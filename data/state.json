@@ -9548,6 +9548,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262214889-2-ambientes-alquiler-en-belgrano-a-estrenar-_JM"
  },
+ "ml:MLA2262372133": {
+  "first_seen": "2026-11-04T21:46:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.510.000 supera el máximo",
+   "del otro lado de Santa Fe (453 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262372133-alquiler-palermo-2-ambientes-cochera-balcon-piscina-_JM"
+ },
+ "ml:MLA2262384677": {
+  "first_seen": "2026-11-04T21:46:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.510.000 supera el máximo",
+   "del otro lado de Santa Fe (453 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262384677-alquiler-palermo-2-ambientes-cochera-balcon-piscina-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20088,5 +20106,21 @@
    "total $1.400.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4161236080-2-ambientes-alquiler-en-belgrano-a-estrenarfull-amenities-_JM"
+ },
+ "ml:MLA4161375310": {
+  "first_seen": "2026-11-04T21:46:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.224.040 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4161375310-alquiler-departamento-3-ambientes-recoleta-_JM"
+ },
+ "ml:MLA4161379952": {
+  "first_seen": "2026-11-04T21:46:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4161379952-departamento-en-palermo-_JM"
  }
 }

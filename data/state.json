@@ -20156,5 +20156,14 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4161379952-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4161655852": {
+  "first_seen": "2026-11-04T23:40:02+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (25 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4161655852-excelente-unidad-en-alquiler-ideal-para-consultorio-u-oficina-_JM"
  }
 }

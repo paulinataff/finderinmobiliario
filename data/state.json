@@ -47,6 +47,14 @@
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-2-ambientes--19659716"
  },
+ "ap:20053462": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.117.595 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20053462"
+ },
  "ap:20089028": {
   "first_seen": "2026-10-19T02:01:05+00:00",
   "ok": false,
@@ -80,6 +88,14 @@
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20331205"
  },
+ "ap:20353952": {
+  "first_seen": "2026-11-04T04:53:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $7.024.400 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-4-ambientes--20353952"
+ },
  "ap:20365026": {
   "first_seen": "2026-10-19T00:58:17+00:00",
   "ok": false,
@@ -87,6 +103,14 @@
    "total $2.830.000 supera el máximo"
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-4-ambientes--20365026"
+ },
+ "ap:20384768": {
+  "first_seen": "2026-11-04T04:53:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.100.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20384768"
  },
  "ap:20386826": {
   "first_seen": "2026-10-19T01:00:32+00:00",
@@ -96,6 +120,14 @@
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-1-ambiente--20386826"
  },
+ "ap:20398692": {
+  "first_seen": "2026-11-04T04:53:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.550.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--20398692"
+ },
  "ap:20421206": {
   "first_seen": "2026-10-19T02:01:05+00:00",
   "ok": false,
@@ -103,6 +135,22 @@
    "35 m² cubiertos"
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20421206"
+ },
+ "ap:20425085": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.075.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20425085"
+ },
+ "ap:20425103": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.075.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20425103"
  },
  "ap:20431742": {
   "first_seen": "2026-10-19T02:01:05+00:00",
@@ -152,6 +200,14 @@
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20504121"
  },
+ "ap:20516271": {
+  "first_seen": "2026-11-04T04:53:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.968.265 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-2-ambientes--20516271"
+ },
  "ap:20524758": {
   "first_seen": "2026-10-19T02:01:05+00:00",
   "ok": false,
@@ -168,6 +224,14 @@
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20525432"
  },
+ "ap:20576590": {
+  "first_seen": "2026-11-04T04:53:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.064.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--20576590"
+ },
  "ap:20587540": {
   "first_seen": "2026-10-19T02:01:05+00:00",
   "ok": false,
@@ -175,6 +239,14 @@
    "total $1.542.500 supera el máximo"
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--20587540"
+ },
+ "ap:20588500": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.789.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--20588500"
  },
  "ap:20591665": {
   "first_seen": "2026-10-19T02:01:05+00:00",
@@ -191,6 +263,15 @@
    "total $1.928.050 supera el máximo"
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20591741"
+ },
+ "ap:20601325": {
+  "first_seen": "2026-11-04T04:53:31+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente",
+   "30 m² cubiertos"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-1-ambiente--20601325"
  },
  "ap:20603007": {
   "first_seen": "2026-10-19T02:01:05+00:00",
@@ -223,6 +304,22 @@
    "total supera el máximo sin cochera confirmada"
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-3-ambientes--20625814"
+ },
+ "ap:20625862": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.039.210 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20625862"
+ },
+ "ap:20626917": {
+  "first_seen": "2026-11-04T04:53:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.590.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20626917"
  },
  "ap:20634035": {
   "first_seen": "2026-10-19T00:58:26+00:00",
@@ -280,6 +377,14 @@
    "del otro lado de Santa Fe (522 m)"
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-1-ambiente--20670174"
+ },
+ "ap:20671073": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20671073"
  },
  "ap:20675163": {
   "first_seen": "2026-10-19T00:59:24+00:00",
@@ -378,6 +483,194 @@
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20695820"
  },
+ "ap:20699438": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "30 m² cubiertos"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20699438"
+ },
+ "ap:20702528": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.789.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20702528"
+ },
+ "ap:20724866": {
+  "first_seen": "2026-11-04T04:53:14+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (194 m)"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20724866"
+ },
+ "ap:20746021": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.510.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-2-ambientes--20746021"
+ },
+ "ap:20753547": {
+  "first_seen": "2026-11-04T04:53:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--20753547"
+ },
+ "ap:20760515": {
+  "first_seen": "2026-11-04T04:53:18+00:00",
+  "ok": false,
+  "reasons": [
+   "30 m² cubiertos"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20760515"
+ },
+ "ap:20764516": {
+  "first_seen": "2026-11-04T04:53:17+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (8 m)"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20764516"
+ },
+ "ap:20784208": {
+  "first_seen": "2026-11-04T04:53:34+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (346 m)"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20784208"
+ },
+ "ap:20784552": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "30 m² cubiertos"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20784552"
+ },
+ "ap:20793640": {
+  "first_seen": "2026-11-04T04:53:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.680.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--20793640"
+ },
+ "ap:20810066": {
+  "first_seen": "2026-11-04T04:53:18+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (403 m)"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-2-ambientes--20810066"
+ },
+ "ap:20823130": {
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.987.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-3-ambientes--20823130"
+ },
+ "ap:20824454": {
+  "first_seen": "2026-11-04T04:53:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.690.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20824454"
+ },
+ "ap:20826517": {
+  "first_seen": "2026-11-04T04:53:29+00:00",
+  "ok": false,
+  "reasons": [
+   "30 m² cubiertos"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-1-ambiente--20826517"
+ },
+ "ap:20827104": {
+  "first_seen": "2026-11-04T04:53:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.520.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--20827104"
+ },
+ "ap:20827603": {
+  "antiguedad": 10,
+  "cochera": true,
+  "first_seen": "2026-11-04T04:53:24+00:00",
+  "listing": {
+   "address": "Soldado De La Independencia 1300, Las Cañitas",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 1,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 390000.0,
+   "expensas_currency": "ARS",
+   "id": "20827603",
+   "images": [
+    "https://www.argenprop.com/static-content/30672802/dc2e7d7c-2712-426b-8ef0-272972110f7a_u_small.jpg"
+   ],
+   "lat": -34.56433,
+   "lon": -58.43981,
+   "m2_cubiertos": 47.0,
+   "price": 990000.0,
+   "publisher": "",
+   "source": "ap",
+   "title": "2 ambientes | alquiler las cañitas | muy luminoso",
+   "url": "https://www.argenprop.com/departamento-en-alquiler-en-las-canitas-2-ambientes--20827603"
+  },
+  "notes": [],
+  "notified": null,
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 37,
+  "total_ars": 1380000.0,
+  "zone": "Luis María Campos norte"
+ },
+ "ap:20828360": {
+  "first_seen": "2026-11-04T04:53:31+00:00",
+  "ok": false,
+  "reasons": [
+   "30 m² cubiertos"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-2-ambientes--20828360"
+ },
+ "ap:20828738": {
+  "first_seen": "2026-11-04T04:53:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.604.090 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--20828738"
+ },
+ "ap:20828739": {
+  "first_seen": "2026-11-04T04:53:31+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.215.289 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-4-ambientes--20828739"
+ },
+ "ap:20830972": {
+  "first_seen": "2026-11-04T04:53:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-3-ambientes--20830972"
+ },
  "ap:8238100": {
   "first_seen": "2026-10-19T02:01:05+00:00",
   "ok": false,
@@ -385,6 +678,14 @@
    "total $1.850.000 supera el máximo"
   ],
   "url": "https://www.argenprop.com/departamento-en-alquiler-en-recoleta-5-ambientes--8238100"
+ },
+ "ap:9065830": {
+  "first_seen": "2026-11-04T04:53:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.502.045 supera el máximo"
+  ],
+  "url": "https://www.argenprop.com/departamento-en-alquiler-en-palermo-2-ambientes--9065830"
  },
  "ml:MLA1678821207": {
   "first_seen": "2026-10-18T16:25:01+00:00",
@@ -9097,6 +9398,14 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2259049825-alquiler-monoambiente-cochera-amenities-palermo-_JM"
+ },
+ "ml:MLA2259426869": {
+  "first_seen": "2026-11-04T04:53:10+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.478.420 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2259426869-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",

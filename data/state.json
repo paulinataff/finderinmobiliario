@@ -9557,6 +9557,23 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262372133-alquiler-palermo-2-ambientes-cochera-balcon-piscina-_JM"
  },
+ "ml:MLA2262377539": {
+  "first_seen": "2026-11-04T22:43:46+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.391.450 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262377539-departamento2-ambientes-reciclado-a-nuevo-_JM"
+ },
+ "ml:MLA2262378485": {
+  "first_seen": "2026-11-04T22:43:43+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.018.340 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262378485-alquiler-piso-parana-al-900-_JM"
+ },
  "ml:MLA2262384677": {
   "first_seen": "2026-11-04T21:46:42+00:00",
   "ok": false,
@@ -9565,6 +9582,23 @@
    "del otro lado de Santa Fe (453 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262384677-alquiler-palermo-2-ambientes-cochera-balcon-piscina-_JM"
+ },
+ "ml:MLA2262390437": {
+  "first_seen": "2026-11-04T22:43:51+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.391.450 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262390437-departamento2-ambientes-reciclado-a-nuevo-_JM"
+ },
+ "ml:MLA2262390733": {
+  "first_seen": "2026-11-04T22:43:42+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262390733-departamento-en-palermo-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",

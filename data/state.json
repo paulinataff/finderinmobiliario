@@ -9407,6 +9407,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2259426869-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2259429389": {
+  "first_seen": "2026-11-04T05:55:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.952.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2259429389-depto-en-recoleta-amoblado-con-expensas-incluidas-premium-_JM"
+ },
+ "ml:MLA2259429435": {
+  "first_seen": "2026-11-04T05:54:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.213.540 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2259429435-alquiler-departamento-3-ambientes-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -19718,5 +19734,30 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4156920816-alquiler-luminoso-y-amplio-monoambiente-palermo-_JM"
+ },
+ "ml:MLA4157528644": {
+  "first_seen": "2026-11-04T05:55:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.786.980 supera el máximo",
+   "sobre Av. Santa Fe"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4157528644-oppel-departamento-en-alquiler-recoleta-capital-federal-cod-33972-_JM"
+ },
+ "ml:MLA4157529454": {
+  "first_seen": "2026-11-04T05:55:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.636.530 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4157529454-alquiler-4-ambientes-dependencia-y-cochera-sobre-av-libertador-palermo-_JM"
+ },
+ "ml:MLA4157529468": {
+  "first_seen": "2026-11-04T05:55:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.636.530 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4157529468-alquiler-4-ambientes-dependencia-y-cochera-sobre-av-libertador-palermo-_JM"
  }
 }

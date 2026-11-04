@@ -19401,5 +19401,13 @@
    "total $2.529.760 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4156916702-alquiler-dpto-3-ambientes-amoblado-con-baulera-en-recoleta-_JM"
+ },
+ "ml:MLA4156920816": {
+  "first_seen": "2026-11-04T01:55:00+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4156920816-alquiler-luminoso-y-amplio-monoambiente-palermo-_JM"
  }
 }

@@ -9752,6 +9752,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2264778879-alquiler-departamento-2-ambientes-en-las-canitas-_JM"
  },
+ "ml:MLA2265064051": {
+  "first_seen": "2026-11-05T17:04:49+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1401 m)",
+   "edificio de 56 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265064051-alquiler-depto-de-2-ambientes-con-balcon-palermo-_JM"
+ },
+ "ml:MLA2265068835": {
+  "first_seen": "2026-11-05T17:04:55+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265068835-departamento-en-alquiler-2-amb-en-las-canitas-con-piscina-sum-y-expensas-incluidas-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

@@ -9711,6 +9711,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2263167713-piso-alto-con-vista-abierta-a-la-ciudad-y-el-rio-en-inmejorable-ubicacion-seg-24hs-sin-muebles-_JM"
  },
+ "ml:MLA2264778879": {
+  "first_seen": "2026-11-05T14:32:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.508.505 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2264778879-alquiler-departamento-2-ambientes-en-las-canitas-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20344,5 +20352,21 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4163467682-alquiler-monoambiente-en-palermo-_JM"
+ },
+ "ml:MLA4164814020": {
+  "first_seen": "2026-11-05T14:32:13+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4164814020-departamento-monoambiente-en-alquiler-temporal-en-recoleta-_JM"
+ },
+ "ml:MLA4164833762": {
+  "first_seen": "2026-11-05T14:32:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4164833762-dpto-3-amb-en-alquiler-canitas-cbalcon-y-muebles-_JM"
  }
 }

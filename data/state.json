@@ -9711,6 +9711,39 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2263167713-piso-alto-con-vista-abierta-a-la-ciudad-y-el-rio-en-inmejorable-ubicacion-seg-24hs-sin-muebles-_JM"
  },
+ "ml:MLA2264737203": {
+  "first_seen": "2026-11-05T15:55:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.745.260 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2264737203-departamento-en-alquiler-_JM"
+ },
+ "ml:MLA2264745613": {
+  "first_seen": "2026-11-05T15:55:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.062.580 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2264745613-departamento-en-alquiler-recoleta-_JM"
+ },
+ "ml:MLA2264747417": {
+  "first_seen": "2026-11-05T15:55:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2264747417-alquiler-4-amb-luminoso-balcon-al-frente-palermo-_JM"
+ },
+ "ml:MLA2264749427": {
+  "first_seen": "2026-11-05T15:55:33+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.305.000 supera el máximo",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2264749427-departamento-3-ambientes-en-alquiler-belgrano-frente-balcon-_JM"
+ },
  "ml:MLA2264778879": {
   "first_seen": "2026-11-05T14:32:13+00:00",
   "ok": false,
@@ -20368,5 +20401,78 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4164833762-dpto-3-amb-en-alquiler-canitas-cbalcon-y-muebles-_JM"
+ },
+ "ml:MLA4165312356": {
+  "first_seen": "2026-11-05T15:55:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.586.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165312356-duplex-amoblado-en-las-canitas-_JM"
+ },
+ "ml:MLA4165317074": {
+  "first_seen": "2026-11-05T15:55:18+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165317074-monoambiente-en-alquiler-por-palermo-zona-las-canitas-de-categoria-_JM"
+ },
+ "ml:MLA4165318358": {
+  "first_seen": "2026-11-05T15:55:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.586.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165318358-oficina-en-recoleta-_JM"
+ },
+ "ml:MLA4165344356": {
+  "first_seen": "2026-11-05T15:55:12+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.504.280 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165344356-alquiler-departamento-2-ambientes-amueblado-y-equipado-amenities-las-canitas-belgrano-_JM"
+ },
+ "ml:MLA4165344788": {
+  "first_seen": "2026-11-05T15:55:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.348.610 supera el máximo",
+   "del otro lado de Santa Fe (1099 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165344788-alquiler-2-ambientes-en-palermo-_JM"
+ },
+ "ml:MLA4165345864": {
+  "first_seen": "2026-11-05T15:55:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.586.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165345864-alquiler-departamento-2-ambientes-amueblado-y-equipado-amenitties-palermo-las-canitas-_JM"
+ },
+ "ml:MLA4165349602": {
+  "first_seen": "2026-11-05T15:55:18+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165349602-palermo-soler-y-bulnes-al-frente-con-balcon-categoria-full-amenities-_JM"
+ },
+ "ml:MLA4165384806": {
+  "first_seen": "2026-11-05T15:55:27+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.660.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165384806-departamento-en-alquiler-en-las-canitas-gorostiaga-al-1500-balcon-y-luminoso-_JM"
+ },
+ "ml:MLA4165385286": {
+  "first_seen": "2026-11-05T15:55:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.665.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165385286-alquiler-departamento-2-ambientes-full-amenities-las-canitas-_JM"
  }
 }

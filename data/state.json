@@ -9770,6 +9770,73 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2265068835-departamento-en-alquiler-2-amb-en-las-canitas-con-piscina-sum-y-expensas-incluidas-_JM"
  },
+ "ml:MLA2265298923": {
+  "first_seen": "2026-11-05T19:27:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.566.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265298923-alquiler-de-departamento-2-ambientes-en-recoleta-capital-federal-_JM"
+ },
+ "ml:MLA2265300231": {
+  "first_seen": "2026-11-05T19:27:23+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265300231-alquiler-3-amb-cochera-dorm-grande-dependencia-en-palermo-botanico-_JM"
+ },
+ "ml:MLA2265302333": {
+  "first_seen": "2026-11-05T19:27:28+00:00",
+  "ok": false,
+  "reasons": [
+   "sobre Av. Santa Fe",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265302333-alquiler-2-ambientes-austria-1700-recoleta-balcon-_JM"
+ },
+ "ml:MLA2265304115": {
+  "first_seen": "2026-11-05T19:27:07+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (543 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265304115-alquiler-de-departamento-de-3-ambientes-en-palermo-_JM"
+ },
+ "ml:MLA2265307769": {
+  "first_seen": "2026-11-05T19:27:23+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (895 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265307769-alquiler-3-amb-con-balcon-y-piscina-en-palermo-_JM"
+ },
+ "ml:MLA2265307895": {
+  "first_seen": "2026-11-05T19:27:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.795.840 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265307895-unico-departamento-de-3-ambientes-con-balcon-vista-abierta-y-orientacion-norte-en-recoleta-_JM"
+ },
+ "ml:MLA2265312825": {
+  "first_seen": "2026-11-05T19:27:13+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo",
+   "del otro lado de Santa Fe (1501 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265312825-edificio-full-amenities-con-balcon-y-cochera-fija-y-cubierta-_JM"
+ },
+ "ml:MLA2265318977": {
+  "first_seen": "2026-11-05T19:27:07+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.795.840 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265318977-unico-departamento-de-3-ambientes-con-balcon-vista-abierta-y-orientacion-norte-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

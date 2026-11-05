@@ -9845,6 +9845,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2265334453-alquiler-departamento-5-amb-recoleta-dep-serv-escritorio-apto-profesional-_JM"
  },
+ "ml:MLA2265455841": {
+  "first_seen": "2026-11-05T21:17:36+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265455841-departamento-en-recoleta-_JM"
+ },
  "ml:MLA2265492953": {
   "first_seen": "2026-11-05T20:20:10+00:00",
   "ok": false,
@@ -9854,6 +9862,22 @@
    "edificio de 62 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2265492953-alquiler-2-ambientes-luminoso-palermo-_JM"
+ },
+ "ml:MLA2265499215": {
+  "first_seen": "2026-11-05T21:17:39+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265499215-alquiler-tradicional-recoleta-dos-ambientes-con-cocina-independiente-_JM"
+ },
+ "ml:MLA2265502859": {
+  "first_seen": "2026-11-05T21:17:36+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.800.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265502859-alquiler-3-ambientes-con-cochera-en-posadas-1200-recoleta-a-mts-de-patio-bullrich-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
@@ -20664,5 +20688,41 @@
    "total $2.858.400 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4166252156-departamentos-alquiler-recoleta-_JM"
+ },
+ "ml:MLA4166418860": {
+  "antiguedad": 15,
+  "cochera": false,
+  "first_seen": "2026-11-05T21:17:36+00:00",
+  "listing": {
+   "address": "Santos Dumont  Al 2300, Palermo, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 230000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4166418860",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_606138-MLA119191830112_112026-O.webp"
+   ],
+   "lat": -34.5729261,
+   "lon": -58.4382328,
+   "m2_cubiertos": 45.0,
+   "price": 980000,
+   "publisher": "MARTING PROPIEDADES",
+   "source": "ml",
+   "title": "Alquiler Departamento 2 Ambientes Palermo",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4166418860-alquiler-departamento-2-ambientes-palermo-_JM"
+  },
+  "notes": [],
+  "notified": "2026-11-05T21:17:41+00:00",
+  "ok": true,
+  "pileta": false,
+  "reasons": [],
+  "score": 25,
+  "total_ars": 1210000.0,
+  "zone": "Las Cañitas"
  }
 }

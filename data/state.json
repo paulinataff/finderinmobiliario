@@ -9660,6 +9660,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2263129141-departamento-3-ambientes-en-las-canitas-_JM"
  },
+ "ml:MLA2263134857": {
+  "first_seen": "2026-11-05T08:34:55+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263134857-departamento-4-ambientes-reciclado-al-frente-luminoso-con-balcon-terraza-en-palermo-_JM"
+ },
  "ml:MLA2263139913": {
   "first_seen": "2026-11-05T05:33:20+00:00",
   "ok": false,
@@ -20319,5 +20327,13 @@
    "total $3.494.920 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4162761284-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
+ "ml:MLA4163467682": {
+  "first_seen": "2026-11-05T08:34:55+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4163467682-alquiler-monoambiente-en-palermo-_JM"
  }
 }

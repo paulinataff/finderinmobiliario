@@ -20492,5 +20492,67 @@
    "total $1.665.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4165385286-alquiler-departamento-2-ambientes-full-amenities-las-canitas-_JM"
+ },
+ "ml:MLA4165783704": {
+  "first_seen": "2026-11-05T18:11:03+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.650.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (357 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165783704-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4165788092": {
+  "first_seen": "2026-11-05T18:10:58+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165788092-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4165789202": {
+  "first_seen": "2026-11-05T18:10:47+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.323.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (369 m)",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165789202-departamento-de-2-ambientes-con-jardin-y-parrilla-propio-_JM"
+ },
+ "ml:MLA4165790722": {
+  "first_seen": "2026-11-05T18:10:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.470.000 supera el máximo",
+   "0 dormitorios"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165790722-hermoso-dos-ambientes-con-balcon-al-frente-en-palermo-_JM"
+ },
+ "ml:MLA4165796306": {
+  "first_seen": "2026-11-05T18:11:03+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165796306-alquiler-amplio-monoambiente-de-43-m-en-recoleta-_JM"
+ },
+ "ml:MLA4165811372": {
+  "first_seen": "2026-11-05T18:10:58+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.688.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165811372-departamento-en-alquiler-de-3-ambientes-recoleta-_JM"
+ },
+ "ml:MLA4165812808": {
+  "first_seen": "2026-11-05T18:10:58+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.852.820 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4165812808-av-libertador-y-matienzo-semipiso-en-alquiler-de-4-ambientess-_JM"
  }
 }

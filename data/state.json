@@ -9837,6 +9837,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2265318977-unico-departamento-de-3-ambientes-con-balcon-vista-abierta-y-orientacion-norte-en-recoleta-_JM"
  },
+ "ml:MLA2265334453": {
+  "first_seen": "2026-11-05T20:19:56+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.287.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265334453-alquiler-departamento-5-amb-recoleta-dep-serv-escritorio-apto-profesional-_JM"
+ },
+ "ml:MLA2265492953": {
+  "first_seen": "2026-11-05T20:20:10+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1354 m)",
+   "edificio de 62 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265492953-alquiler-2-ambientes-luminoso-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20621,5 +20639,30 @@
    "total $2.852.820 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4165812808-av-libertador-y-matienzo-semipiso-en-alquiler-de-4-ambientess-_JM"
+ },
+ "ml:MLA4166213096": {
+  "first_seen": "2026-11-05T20:20:06+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 60 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4166213096-departamento-en-planta-baja-_JM"
+ },
+ "ml:MLA4166214800": {
+  "first_seen": "2026-11-05T20:20:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.762.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4166214800-loft-en-las-canitas-totalmente-reciclado-a-nuevo-3-ambientes-bano-completo-y-toilette-_JM"
+ },
+ "ml:MLA4166252156": {
+  "first_seen": "2026-11-05T20:20:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.858.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4166252156-departamentos-alquiler-recoleta-_JM"
  }
 }

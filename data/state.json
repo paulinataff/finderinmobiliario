@@ -20724,5 +20724,30 @@
   "score": 25,
   "total_ars": 1210000.0,
   "zone": "Las Cañitas"
+ },
+ "ml:MLA4166566802": {
+  "first_seen": "2026-11-05T22:19:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4166566802-deptooficina-2-amb-ccochera-apto-prof-palermo-_JM"
+ },
+ "ml:MLA4166592670": {
+  "first_seen": "2026-11-05T22:19:29+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (470 m)",
+   "edificio de 46 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4166592670-alquiler-dos-ambientes-con-balcon-en-palermo-_JM"
+ },
+ "ml:MLA4166597352": {
+  "first_seen": "2026-11-05T22:19:24+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4166597352-venta-depto-2-amb-recoleta-excelente-alto-palermo-_JM"
  }
 }

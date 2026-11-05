@@ -9600,6 +9600,23 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262390733-departamento-en-palermo-_JM"
  },
+ "ml:MLA2262612641": {
+  "first_seen": "2026-11-05T02:04:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.990.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262612641-departamento-4-ambientes-alquiler-recoleta-_JM"
+ },
+ "ml:MLA2262626823": {
+  "first_seen": "2026-11-05T02:04:38+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262626823-gran-2-amb-en-palermo-hollywood-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20165,5 +20182,13 @@
    "del otro lado de Santa Fe (25 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4161655852-excelente-unidad-en-alquiler-ideal-para-consultorio-u-oficina-_JM"
+ },
+ "ml:MLA4162324680": {
+  "first_seen": "2026-11-05T02:04:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.300.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4162324680-alquiler-departamento-3-amb-dependencias-canitas-_JM"
  }
 }

@@ -9617,6 +9617,33 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262626823-gran-2-amb-en-palermo-hollywood-_JM"
  },
+ "ml:MLA2262627353": {
+  "first_seen": "2026-11-05T03:19:54+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262627353-gran-2-amb-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA2262627359": {
+  "first_seen": "2026-11-05T03:19:48+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262627359-gran-2-amb-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA2262627471": {
+  "first_seen": "2026-11-05T03:19:43+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2262627471-gran-2-amb-en-palermo-hollywood-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20190,5 +20217,40 @@
    "total $2.300.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4162324680-alquiler-departamento-3-amb-dependencias-canitas-_JM"
+ },
+ "ml:MLA4162325964": {
+  "first_seen": "2026-11-05T03:20:00+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4162325964-gran-2-amb-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA4162326664": {
+  "first_seen": "2026-11-05T03:19:40+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4162326664-gran-2-amb-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA4162332408": {
+  "first_seen": "2026-11-05T03:20:00+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.588.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4162332408-alquiler-depto-de-3-ambientes-c-patio-las-canitas-_JM"
+ },
+ "ml:MLA4162340412": {
+  "first_seen": "2026-11-05T03:19:33+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4162340412-alquila-dep-2-amb-amoblado-recoleta-con-cochera-_JM"
  }
 }

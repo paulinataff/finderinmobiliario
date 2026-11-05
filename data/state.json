@@ -9644,6 +9644,65 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2262627471-gran-2-amb-en-palermo-hollywood-_JM"
  },
+ "ml:MLA2263129103": {
+  "first_seen": "2026-11-05T05:33:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $9.531.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263129103-3-amb-con-balcon-terraza-cochera-a-estrenar-recoleta-venta-alquiler-_JM"
+ },
+ "ml:MLA2263129141": {
+  "first_seen": "2026-11-05T05:33:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.382.900 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263129141-departamento-3-ambientes-en-las-canitas-_JM"
+ },
+ "ml:MLA2263139913": {
+  "first_seen": "2026-11-05T05:33:20+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263139913-gran-2-amb-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA2263165445": {
+  "first_seen": "2026-11-05T05:33:25+00:00",
+  "ok": false,
+  "reasons": [
+   "0 dormitorios",
+   "del otro lado de Santa Fe (193 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263165445-gran-2-amb-en-palermo-hollywood-_JM"
+ },
+ "ml:MLA2263167245": {
+  "first_seen": "2026-11-05T05:33:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.456.440 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263167245-oppel-departamento-en-alquiler-las-canitas-capital-federal-cod-10809-_JM"
+ },
+ "ml:MLA2263167709": {
+  "first_seen": "2026-11-05T05:33:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.564.000 supera el máximo",
+   "del otro lado de Santa Fe (845 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263167709-departamento-en-palermo-de-2-amb-al-frente-suite-balcon-aterrazado-amenities-_JM"
+ },
+ "ml:MLA2263167713": {
+  "first_seen": "2026-11-05T05:33:14+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.177.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2263167713-piso-alto-con-vista-abierta-a-la-ciudad-y-el-rio-en-inmejorable-ubicacion-seg-24hs-sin-muebles-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20252,5 +20311,13 @@
    "edificio de 50 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4162340412-alquila-dep-2-amb-amoblado-recoleta-con-cochera-_JM"
+ },
+ "ml:MLA4162761284": {
+  "first_seen": "2026-11-05T05:33:10+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.494.920 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4162761284-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  }
 }

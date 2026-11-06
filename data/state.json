@@ -21143,6 +21143,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170609620-alquiler-departamento-3-dormitorios-con-cochera-en-palermo-_JM"
  },
+ "ml:MLA4170761766": {
+  "first_seen": "2026-11-06T21:14:04+00:00",
+  "ok": false,
+  "reasons": [
+   "no menciona balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170761766-depto-en-planta-baja-ideal-consultorioshowromm-entrada-independiente-y-patio-propio-en-recoleta-_JM"
+ },
  "ml:MLA4170798394": {
   "first_seen": "2026-11-06T20:18:33+00:00",
   "ok": false,
@@ -21150,5 +21158,13 @@
    "total $2.064.270 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170798394-alquiler-tradicional-departamento-semipiso-3-ambientes-cdependencia-y-cochera-arenales-2800-recoleta-_JM"
+ },
+ "ml:MLA4170907326": {
+  "first_seen": "2026-11-06T21:14:08+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.480.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170907326-departamento-en-palermo-muy-luminoso-con-balcon-muy-buen-estado-_JM"
  }
 }

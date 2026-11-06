@@ -10022,6 +10022,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2268222537-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2268320705": {
+  "first_seen": "2026-11-06T19:27:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.000.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268320705-cuenta-con-2-entradas-halllivingcomedor4-dormitorios-1-bano-principal-1-galeria-interna-cocina-lavadero-separado-y-dependencia-de-servicio-dormitorios-y-bano-_JM"
+ },
+ "ml:MLA2268322281": {
+  "first_seen": "2026-11-06T19:27:15+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.426.320 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268322281-alquiler-dos-ambientes-en-palermo-hollywood-_JM"
+ },
  "ml:MLA2268330191": {
   "first_seen": "2026-11-06T18:17:12+00:00",
   "ok": false,
@@ -10037,6 +10053,22 @@
    "total $2.373.300 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2268330995-araoz-y-beruti-4-ambientes-con-sum-propio--_JM"
+ },
+ "ml:MLA2268346661": {
+  "first_seen": "2026-11-06T19:27:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.962.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268346661-departamento-premium-lleno-de-luz-y-sol-en-piso-en-edificio-con-todos-los-amenities-_JM"
+ },
+ "ml:MLA2268381389": {
+  "first_seen": "2026-11-06T19:27:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.350.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268381389-departamento-en-alquiler-chenaut-1945-amenities-9-piso-balcon-muy-luminoso-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
@@ -21024,5 +21056,47 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170360144-alquiler-monoambiente-50m-al-frente-con-balcon-y-amenities-av-cordoba-3500-_JM"
+ },
+ "ml:MLA4170528958": {
+  "first_seen": "2026-11-06T19:27:09+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170528958-monoambiente-de-40-m-con-patio-y-vestidor-_JM"
+ },
+ "ml:MLA4170536302": {
+  "first_seen": "2026-11-06T19:27:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.377.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170536302-departamentos-alquiler-palermo-_JM"
+ },
+ "ml:MLA4170544278": {
+  "first_seen": "2026-11-06T19:27:25+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.504.000 supera el máximo",
+   "del otro lado de Santa Fe (429 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170544278-alquiler-3-ambientes-amoblado-con-balcon-al-frente-palermo-copia-_JM"
+ },
+ "ml:MLA4170547340": {
+  "first_seen": "2026-11-06T19:27:19+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.377.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170547340-departamento-las-canitas-_JM"
+ },
+ "ml:MLA4170551296": {
+  "first_seen": "2026-11-06T19:27:15+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.410.000 supera el máximo",
+   "del otro lado de Santa Fe (569 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170551296-2-ambientes-a-estrenar-guatemala-42224-palermo-_JM"
  }
 }

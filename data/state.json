@@ -10022,6 +10022,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2268222537-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2268330191": {
+  "first_seen": "2026-11-06T18:17:12+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.006.180 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268330191-departamento-3-dorm-dependencias-amoblado-en-alquiler-en-recoleta-caba-_JM"
+ },
+ "ml:MLA2268330995": {
+  "first_seen": "2026-11-06T18:17:12+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.373.300 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268330995-araoz-y-beruti-4-ambientes-con-sum-propio--_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20992,6 +21008,14 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170333894-alquier-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4170339406": {
+  "first_seen": "2026-11-06T18:17:12+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.423.980 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170339406-alquiler-dos-ambientes-en-palermo-hollywood-_JM"
  },
  "ml:MLA4170360144": {
   "first_seen": "2026-11-06T17:22:09+00:00",

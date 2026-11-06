@@ -20775,6 +20775,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4166597352-venta-depto-2-amb-recoleta-excelente-alto-palermo-_JM"
  },
+ "ml:MLA4166868424": {
+  "first_seen": "2026-11-06T10:55:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4166868424-departamento-semipiso-3-ambientes-con-balcon-contrafrente-bajas-expensas-_JM"
+ },
  "ml:MLA4167734166": {
   "first_seen": "2026-11-06T04:53:59+00:00",
   "ok": false,

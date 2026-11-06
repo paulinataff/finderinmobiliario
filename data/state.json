@@ -10105,6 +10105,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2268484499-departamentos-alquiler-recoleta-_JM"
  },
+ "ml:MLA2268634135": {
+  "first_seen": "2026-11-06T22:13:35+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268634135-departamento-mono-ambiente-palermo-nuevo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -21166,5 +21174,13 @@
    "total $1.480.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170907326-departamento-en-palermo-muy-luminoso-con-balcon-muy-buen-estado-_JM"
+ },
+ "ml:MLA4170914318": {
+  "first_seen": "2026-11-06T22:13:40+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.570.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170914318-2-ambientes-las-canitas-con-muebles-_JM"
  }
 }

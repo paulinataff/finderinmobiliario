@@ -9904,6 +9904,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2265925815-departamento-en-alquiler-en-palermo-_JM"
  },
+ "ml:MLA2267820271": {
+  "first_seen": "2026-11-06T14:11:17+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267820271-departamento-en-alquiler-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20806,5 +20814,13 @@
    "total $2.382.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4169394896-alquiler-palermo-3-ambientes-a-estrenar-con-balcon-y-amenities-_JM"
+ },
+ "ml:MLA4169418500": {
+  "first_seen": "2026-11-06T14:11:17+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4169418500-excelente-3-ambientes-con-dependencias-o-escritorio-en-palermo-piso-alto-vista-abierta-vigilancia-permanente-_JM"
  }
 }

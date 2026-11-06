@@ -9912,6 +9912,56 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2267820271-departamento-en-alquiler-_JM"
  },
+ "ml:MLA2267853343": {
+  "first_seen": "2026-11-06T15:15:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.250.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267853343-exclusivo-penthouse-en-las-canitas-super-luminoso-con-parrilla-_JM"
+ },
+ "ml:MLA2267853577": {
+  "first_seen": "2026-11-06T15:15:37+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267853577-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA2267855777": {
+  "first_seen": "2026-11-06T15:15:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.850.000 supera el máximo",
+   "sin balcón",
+   "edificio de 55 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267855777-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA2267875755": {
+  "first_seen": "2026-11-06T15:15:31+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (952 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267875755-departamento-palermo-2-ambientes-pileta-universidad-de-palermo-cochera-luminoso-pileta-alto-palermo-_JM"
+ },
+ "ml:MLA2267878195": {
+  "first_seen": "2026-11-06T15:15:37+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.250.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267878195-exclusivo-penthouse-en-las-canitas-super-luminoso-con-parrilla-_JM"
+ },
+ "ml:MLA2267879415": {
+  "first_seen": "2026-11-06T15:15:37+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267879415-departamento-en-alquiler-en-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20822,5 +20872,14 @@
    "total $1.500.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4169418500-excelente-3-ambientes-con-dependencias-o-escritorio-en-palermo-piso-alto-vista-abierta-vigilancia-permanente-_JM"
+ },
+ "ml:MLA4170070172": {
+  "first_seen": "2026-11-06T15:15:28+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170070172-alquila-dep-2-amb-amoblado-recoleta-con-cochera-_JM"
  }
 }

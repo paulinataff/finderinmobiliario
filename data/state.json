@@ -20774,5 +20774,21 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4166597352-venta-depto-2-amb-recoleta-excelente-alto-palermo-_JM"
+ },
+ "ml:MLA4167734166": {
+  "first_seen": "2026-11-06T04:53:59+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.456.440 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4167734166-oppel-departamento-en-alquiler-las-canitas-capital-federal-cod-10809-_JM"
+ },
+ "ml:MLA4167758090": {
+  "first_seen": "2026-11-06T04:53:55+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.493.600 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4167758090-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  }
 }

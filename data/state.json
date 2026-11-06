@@ -9962,6 +9962,26 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2267879415-departamento-en-alquiler-en-recoleta-_JM"
  },
+ "ml:MLA2267961379": {
+  "first_seen": "2026-11-06T16:21:34+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo",
+   "no menciona balcón",
+   "del otro lado de Santa Fe (25 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2267961379-departamento-de-3-ambientes-en-alquiler-palermo-_JM"
+ },
+ "ml:MLA2268145925": {
+  "first_seen": "2026-11-06T16:21:23+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.370.000 supera el máximo",
+   "del otro lado de Santa Fe (325 m)",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268145925-2-ambientes-amoblado-y-equipado-con-balcon-y-vista-abierta-a-pasos-de-plaza-guadalupe-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -20881,5 +20901,40 @@
    "edificio de 50 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170070172-alquila-dep-2-amb-amoblado-recoleta-con-cochera-_JM"
+ },
+ "ml:MLA4170094488": {
+  "first_seen": "2026-11-06T16:21:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.510.000 supera el máximo",
+   "edificio de 55 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170094488-departamento-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA4170100448": {
+  "first_seen": "2026-11-06T16:21:28+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (643 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170100448-semipiso-2-ambientes-al-frente-con-balcon-corrido-excelente-ubicacion-_JM"
+ },
+ "ml:MLA4170101306": {
+  "first_seen": "2026-11-06T16:21:20+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "del otro lado de Santa Fe (1615 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170101306-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4170178572": {
+  "first_seen": "2026-11-06T16:21:14+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (149 m)",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170178572-alquiler-departamento-3-ambientes-al-frente-con-balcon-y-patio-fray-justo-s-m-de-oro-2400-_JM"
  }
 }

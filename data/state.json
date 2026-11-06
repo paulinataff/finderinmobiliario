@@ -9895,6 +9895,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2265653657-departamento-en-recoleta-_JM"
  },
+ "ml:MLA2265925815": {
+  "first_seen": "2026-11-06T03:49:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo",
+   "del otro lado de Santa Fe (237 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2265925815-departamento-en-alquiler-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

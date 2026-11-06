@@ -9972,6 +9972,22 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2267961379-departamento-de-3-ambientes-en-alquiler-palermo-_JM"
  },
+ "ml:MLA2268138677": {
+  "first_seen": "2026-11-06T17:22:13+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268138677-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2268139375": {
+  "first_seen": "2026-11-06T17:22:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.687.700 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268139375-departamento-3-ambientes-amoblado-con-parque-jardin-en-alquiler-las-canitas-palermo-_JM"
+ },
  "ml:MLA2268145925": {
   "first_seen": "2026-11-06T16:21:23+00:00",
   "ok": false,
@@ -9981,6 +9997,30 @@
    "edificio de 45 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2268145925-2-ambientes-amoblado-y-equipado-con-balcon-y-vista-abierta-a-pasos-de-plaza-guadalupe-_JM"
+ },
+ "ml:MLA2268177327": {
+  "first_seen": "2026-11-06T17:22:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.505.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268177327-departamento-grande-en-palermo-_JM"
+ },
+ "ml:MLA2268180509": {
+  "first_seen": "2026-11-06T17:22:13+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268180509-departamento-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA2268222537": {
+  "first_seen": "2026-11-06T17:22:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.213.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268222537-departamento-en-recoleta-_JM"
  },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
@@ -20936,5 +20976,29 @@
    "edificio de 45 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170178572-alquiler-departamento-3-ambientes-al-frente-con-balcon-y-patio-fray-justo-s-m-de-oro-2400-_JM"
+ },
+ "ml:MLA4170333090": {
+  "first_seen": "2026-11-06T17:22:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.501.950 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170333090-alquiler-2-ambientes-amoblado-balcon-parrilla-propia-amenities-_JM"
+ },
+ "ml:MLA4170333894": {
+  "first_seen": "2026-11-06T17:22:13+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170333894-alquier-departamento-en-palermo-_JM"
+ },
+ "ml:MLA4170360144": {
+  "first_seen": "2026-11-06T17:22:09+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4170360144-alquiler-monoambiente-50m-al-frente-con-balcon-y-amenities-av-cordoba-3500-_JM"
  }
 }

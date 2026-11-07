@@ -21309,5 +21309,38 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4173053826-departamento-monoambiente-reciclado-y-equipado-en-recoleta-cerca-de-alto-palermo-_JM"
+ },
+ "ml:MLA4173329458": {
+  "first_seen": "2026-11-07T15:33:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.381.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4173329458-alquiler-temporario-3-ambientes-con-amenities-en-recoleta-_JM"
+ },
+ "ml:MLA4173329472": {
+  "first_seen": "2026-11-07T15:33:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.381.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4173329472-departamento-4-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA4173329474": {
+  "first_seen": "2026-11-07T15:33:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.381.850 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4173329474-departamento-alquiler-temporario-3-ambientes-en-palermo-amoblado-_JM"
+ },
+ "ml:MLA4173357362": {
+  "first_seen": "2026-11-07T15:33:24+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4173357362-alquiler-departamento-2-ambientes-recoleta-_JM"
  }
 }

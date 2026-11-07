@@ -21200,5 +21200,29 @@
    "total $11.909.250 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4170983464-alquiler-piso-5-ambientes-mas-dependencia-2-cocheras-full-amenities-palermo-_JM"
+ },
+ "ml:MLA4171190194": {
+  "first_seen": "2026-11-07T01:33:58+00:00",
+  "ok": false,
+  "reasons": [
+   "edificio de 41 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4171190194-paunero-2700-_JM"
+ },
+ "ml:MLA4171194896": {
+  "first_seen": "2026-11-07T01:34:03+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (1330 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4171194896-departamento-de-3-ambientes-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA4171194970": {
+  "first_seen": "2026-11-07T01:33:58+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4171194970-departamento-de-1-ambiente-en-alquiler-en-palermo-_JM"
  }
 }

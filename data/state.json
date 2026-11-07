@@ -10123,6 +10123,34 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2268719941-guemes-3400-_JM"
  },
+ "ml:MLA2268834839": {
+  "first_seen": "2026-11-07T02:45:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.420.000 supera el máximo",
+   "del otro lado de Santa Fe (1252 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268834839-departamento-de-3-ambientes-en-alquiler-en-palermo-_JM"
+ },
+ "ml:MLA2268839329": {
+  "first_seen": "2026-11-07T02:45:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo",
+   "sin balcón",
+   "edificio de 46 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268839329-alquiler-departamento-3-amb-recoleta-impecable-_JM"
+ },
+ "ml:MLA2268866805": {
+  "first_seen": "2026-11-07T02:45:12+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268866805-alquila-dep-2-amb-amoblado-recoleta-con-cochera-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

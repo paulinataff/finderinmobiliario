@@ -21269,5 +21269,13 @@
    "edificio de 70 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4171679982-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4171917570": {
+  "first_seen": "2026-11-07T05:43:58+00:00",
+  "ok": false,
+  "reasons": [
+   "total $7.463.130 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4171917570-alquiler-piso-200mts2-2-o-3-dormitorios-dependencia-alto-vista-luz-amenities-2-cocheras-recoleta-_JM"
  }
 }

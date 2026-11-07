@@ -10167,6 +10167,42 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2270468935-departamento-en-villa-crespo-_JM"
  },
+ "ml:MLA2270755063": {
+  "first_seen": "2026-11-07T16:35:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.540.640 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2270755063-departamento-3-amb-en-alquiler-palermo-con-cochera-_JM"
+ },
+ "ml:MLA2270773311": {
+  "first_seen": "2026-11-07T16:35:49+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.330.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (150 m)",
+   "edificio de 56 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2270773311-alquiler-3-ambientes-al-frente-palermo-_JM"
+ },
+ "ml:MLA2270809233": {
+  "first_seen": "2026-11-07T16:35:44+00:00",
+  "ok": false,
+  "reasons": [
+   "sin balcón",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2270809233-alquiler-departamento-2-ambientes-en-recoleta-_JM"
+ },
+ "ml:MLA2270815615": {
+  "first_seen": "2026-11-07T16:35:38+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.700.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2270815615-alquiler-dpto-de-3-ambientes-en-palermo-apto-profesional-balcon-corrido-y-vista-abierta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

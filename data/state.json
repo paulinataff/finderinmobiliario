@@ -21293,5 +21293,13 @@
    "total $1.456.440 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4171935114-oppel-departamento-en-alquiler-las-canitas-capital-federal-cod-10809-_JM"
+ },
+ "ml:MLA4173053826": {
+  "first_seen": "2026-11-07T13:47:07+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4173053826-departamento-monoambiente-reciclado-y-equipado-en-recoleta-cerca-de-alto-palermo-_JM"
  }
 }

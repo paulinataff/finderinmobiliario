@@ -21378,5 +21378,13 @@
    "edificio de 50 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4173357362-alquiler-departamento-2-ambientes-recoleta-_JM"
+ },
+ "ml:MLA4173611428": {
+  "first_seen": "2026-11-07T17:31:24+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.100.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4173611428-alquiler-departamento-3-ambientes-al-contrafrente-con-balcon-y-cochera-en-recoleta-_JM"
  }
 }

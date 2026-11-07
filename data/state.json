@@ -13866,6 +13866,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4011436346-departamento-en-palermo-_JM"
  },
+ "ml:MLA4011692378": {
+  "first_seen": "2026-11-07T10:34:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.969.750 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4011692378-alquiler-departamento-5-ambientes-en-recoleta-_JM"
+ },
  "ml:MLA4012969268": {
   "first_seen": "2026-10-18T16:25:35+00:00",
   "ok": false,

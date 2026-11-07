@@ -10113,6 +10113,16 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2268634135-departamento-mono-ambiente-palermo-nuevo-_JM"
  },
+ "ml:MLA2268719941": {
+  "first_seen": "2026-11-07T00:06:41+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.420.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (188 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2268719941-guemes-3400-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

@@ -10211,6 +10211,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2271378483-alquiler-piso-amueblado-estilo-francesrecoleta-_JM"
  },
+ "ml:MLA2271379191": {
+  "first_seen": "2026-11-08T02:50:22+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2271379191-alquiler-palermo-3-amb-con-patio-imperdible-_JM"
+ },
  "ml:MLA2271427029": {
   "first_seen": "2026-11-08T01:57:52+00:00",
   "ok": false,

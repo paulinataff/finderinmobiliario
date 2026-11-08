@@ -10203,6 +10203,32 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2270815615-alquiler-dpto-de-3-ambientes-en-palermo-apto-profesional-balcon-corrido-y-vista-abierta-_JM"
  },
+ "ml:MLA2271378483": {
+  "first_seen": "2026-11-08T01:57:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.652.170 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2271378483-alquiler-piso-amueblado-estilo-francesrecoleta-_JM"
+ },
+ "ml:MLA2271427029": {
+  "first_seen": "2026-11-08T01:57:52+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.500.320 supera el máximo",
+   "sin balcón",
+   "edificio de 46 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2271427029-alquiler-excelente-duplex-en-palermo-chico-_JM"
+ },
+ "ml:MLA2271512703": {
+  "first_seen": "2026-11-08T01:57:48+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.652.170 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2271512703-alquiler-piso-amueblado-estilo-tudorrecoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

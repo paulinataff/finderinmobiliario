@@ -21421,6 +21421,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4173611428-alquiler-departamento-3-ambientes-al-contrafrente-con-balcon-y-cochera-en-recoleta-_JM"
  },
+ "ml:MLA4174515276": {
+  "first_seen": "2026-11-08T05:45:32+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4174515276-departamento-alquiler-un-ambiente-y-medio-palermo-con-amenities-_JM"
+ },
  "ml:MLA4174534512": {
   "first_seen": "2026-11-08T04:48:36+00:00",
   "ok": false,
@@ -21436,5 +21444,22 @@
    "total $1.456.440 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4174622938-oppel-departamento-en-alquiler-las-canitas-capital-federal-cod-10809-_JM"
+ },
+ "ml:MLA4174625824": {
+  "first_seen": "2026-11-08T05:45:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.429.110 supera el máximo",
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4174625824-departamento-monoambiente-al-frente-luminoso-vista-balcon-apto-credito-con-cochera-en-palermo-_JM"
+ },
+ "ml:MLA4174625868": {
+  "first_seen": "2026-11-08T05:45:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.905.480 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4174625868-departamento-en-recoleta-_JM"
  }
 }

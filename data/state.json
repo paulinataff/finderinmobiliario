@@ -10246,6 +10246,32 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2272975355-alquiler-2-amb-con-amenities-amoblado-_JM"
  },
+ "ml:MLA2273469749": {
+  "first_seen": "2026-11-09T02:06:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.905.480 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2273469749-alquiler-temporal-3-ambientes-excelente-estado-en-inmejorable-ubicacion-palermo-_JM"
+ },
+ "ml:MLA2273470639": {
+  "first_seen": "2026-11-09T02:06:02+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.750.000 supera el máximo",
+   "sin balcón",
+   "del otro lado de Santa Fe (458 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2273470639-alquiler-departamento-2-ambientes-recoleta-_JM"
+ },
+ "ml:MLA2273590595": {
+  "first_seen": "2026-11-09T02:05:57+00:00",
+  "ok": false,
+  "reasons": [
+   "total $4.763.700 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2273590595-alquiler-piso-6-amb-amoblado-en-la-isla-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -21470,5 +21496,14 @@
    "total $1.905.480 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4174625868-departamento-en-recoleta-_JM"
+ },
+ "ml:MLA4176556348": {
+  "first_seen": "2026-11-09T02:06:06+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.591.530 supera el máximo",
+   "del otro lado de Santa Fe (879 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4176556348-alquiler-2-amb-balcon-aterrazadado-y-vista-abierta-_JM"
  }
 }

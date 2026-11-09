@@ -21521,5 +21521,14 @@
    "total $9.527.400 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4177157712-alquiler-departamento-de-3-ambientes-con-terraza-quintana-281-_JM"
+ },
+ "ml:MLA4179589732": {
+  "first_seen": "2026-11-09T19:28:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.049.715 supera el máximo",
+   "sin balcón"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4179589732-departamento-en-alquiler-en-recoleta-_JM"
  }
 }

@@ -10272,6 +10272,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2273590595-alquiler-piso-6-amb-amoblado-en-la-isla-recoleta-_JM"
  },
+ "ml:MLA2273598567": {
+  "first_seen": "2026-11-09T04:34:30+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.493.380 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2273598567-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

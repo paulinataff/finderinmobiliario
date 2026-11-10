@@ -10296,6 +10296,15 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2278442227-departamento-alquiler-amoblado-av-alvear-amoblado-y-equipado-recoleta-frente-al-hyatt-_JM"
  },
+ "ml:MLA2278749805": {
+  "first_seen": "2026-11-10T17:44:24+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (180 m)",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2278749805-alquiler-depto-3-amb-palermo-_JM"
+ },
  "ml:MLA2278751891": {
   "first_seen": "2026-11-10T15:44:08+00:00",
   "ok": false,
@@ -10303,6 +10312,14 @@
    "monoambiente"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2278751891-alquiler-monoambiente-iq-callao-recoleta-_JM"
+ },
+ "ml:MLA2278761823": {
+  "first_seen": "2026-11-10T17:44:20+00:00",
+  "ok": false,
+  "reasons": [
+   "del otro lado de Santa Fe (451 m)"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2278761823-alquiler-2-ambientes-en-recoleta-_JM"
  },
  "ml:MLA2278770595": {
   "first_seen": "2026-11-10T16:47:29+00:00",
@@ -21598,5 +21615,13 @@
    "total $1.746.690 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4183782182-alquiler-recoleta-2-ambientes-equipado-y-amoblado-_JM"
+ },
+ "ml:MLA4184422400": {
+  "first_seen": "2026-11-10T17:44:20+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.450.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4184422400-alquiler-recoleta-4-ambientes-y-dependencia-_JM"
  }
 }

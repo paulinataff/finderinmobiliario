@@ -10304,6 +10304,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2278751891-alquiler-monoambiente-iq-callao-recoleta-_JM"
  },
+ "ml:MLA2278770595": {
+  "first_seen": "2026-11-10T16:47:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $3.652.170 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2278770595-departamento-en-palermo-_JM"
+ },
+ "ml:MLA2278773365": {
+  "first_seen": "2026-11-10T16:47:29+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.405.925 supera el máximo",
+   "no menciona balcón",
+   "edificio de 72 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2278773365-alquiler-depto-2-amb-reciclado-a-nuevo-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,

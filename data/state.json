@@ -10280,6 +10280,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2273598567-torre-con-amenities-en-palermo-hollywood-4-ambientes-en-piso-8-3-balcones-cocheras-y-baulera-_JM"
  },
+ "ml:MLA2276203841": {
+  "first_seen": "2026-11-10T01:38:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.746.690 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2276203841-departamento-alquiler-amoblado-2-ambientes-en-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -21530,5 +21538,15 @@
    "sin balcón"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4179589732-departamento-en-alquiler-en-recoleta-_JM"
+ },
+ "ml:MLA4180166266": {
+  "first_seen": "2026-11-10T01:38:18+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.580.000 supera el máximo",
+   "no menciona balcón",
+   "edificio de 80 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4180166266-uso-exclusivo-profesional-_JM"
  }
 }

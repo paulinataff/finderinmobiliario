@@ -10288,6 +10288,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2276203841-departamento-alquiler-amoblado-2-ambientes-en-palermo-_JM"
  },
+ "ml:MLA2278442227": {
+  "first_seen": "2026-11-10T13:39:05+00:00",
+  "ok": false,
+  "reasons": [
+   "total $12.703.200 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2278442227-departamento-alquiler-amoblado-av-alvear-amoblado-y-equipado-recoleta-frente-al-hyatt-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -21548,5 +21556,13 @@
    "edificio de 80 años"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4180166266-uso-exclusivo-profesional-_JM"
+ },
+ "ml:MLA4183326334": {
+  "first_seen": "2026-11-10T13:39:05+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.032.512 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4183326334-alquiler-departamento-2-ambientes-recoleta-_JM"
  }
 }

@@ -21616,6 +21616,24 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4183782182-alquiler-recoleta-2-ambientes-equipado-y-amoblado-_JM"
  },
+ "ml:MLA4184360742": {
+  "first_seen": "2026-11-10T18:44:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.429.110 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4184360742-alquiler-departamento-2-ambientes-palermo-soho-torre-full-amenities-pileta-gimnasio-sum-x-3-sauna-seguridas-24-hs-piso-alto-vsita-abierta-guatemala-4551-entre-malabia-y-armenia-caba-_JM"
+ },
+ "ml:MLA4184386082": {
+  "first_seen": "2026-11-10T18:44:32+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.545.000 supera el máximo",
+   "sin balcón",
+   "edificio de 50 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4184386082-departamento-palermo-_JM"
+ },
  "ml:MLA4184422400": {
   "first_seen": "2026-11-10T17:44:20+00:00",
   "ok": false,
@@ -21623,5 +21641,14 @@
    "total $1.450.000 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4184422400-alquiler-recoleta-4-ambientes-y-dependencia-_JM"
+ },
+ "ml:MLA4184428022": {
+  "first_seen": "2026-11-10T18:44:36+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.550.320 supera el máximo",
+   "edificio de 45 años"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4184428022-dpto-3-amb-en-belgrano-en-zona-exclusiva-de-embajadas-3-de-febrero-al-700-calle-cortada-excelentes-accesos-_JM"
  }
 }

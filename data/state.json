@@ -10296,6 +10296,14 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2278442227-departamento-alquiler-amoblado-av-alvear-amoblado-y-equipado-recoleta-frente-al-hyatt-_JM"
  },
+ "ml:MLA2278751891": {
+  "first_seen": "2026-11-10T15:44:08+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2278751891-alquiler-monoambiente-iq-callao-recoleta-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -21564,5 +21572,13 @@
    "total $2.032.512 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4183326334-alquiler-departamento-2-ambientes-recoleta-_JM"
+ },
+ "ml:MLA4183782182": {
+  "first_seen": "2026-11-10T15:44:09+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.746.690 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4183782182-alquiler-recoleta-2-ambientes-equipado-y-amoblado-_JM"
  }
 }

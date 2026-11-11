@@ -21699,5 +21699,49 @@
    "del otro lado de Santa Fe (785 m)"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4185336410-dueno-directo-hermoso-depto-de-3-amb-super-luminoso-amplia-terraza-en-la-mejor-ubicacion-de-palermo-a-4-cuadras-de-plaza-serrano-3-cuadras-de-plaza-armenia-y-5-cuadras-subte-d-_JM"
+ },
+ "ml:MLA4185341720": {
+  "first_seen": "2026-11-11T02:49:47+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.550.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4185341720-3-amb-amplios-con-dep-y-dos-balcones-2-banos-_JM"
+ },
+ "ml:MLA4185388730": {
+  "antiguedad": null,
+  "cochera": false,
+  "first_seen": "2026-11-11T02:49:42+00:00",
+  "listing": {
+   "address": "Ayacucho 1200, Recoleta, Capital Federal",
+   "ambientes": 2,
+   "barrio": "",
+   "cocheras": 0,
+   "currency": "ARS",
+   "detailed": true,
+   "dormitorios": 1,
+   "expensas": 230000.0,
+   "expensas_currency": "ARS",
+   "id": "MLA4185388730",
+   "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_662380-MLA121238194221_112026-O.webp"
+   ],
+   "lat": -34.5945641,
+   "lon": -58.3959312,
+   "m2_cubiertos": 50.0,
+   "price": 850000,
+   "publisher": "",
+   "source": "ml",
+   "title": "Departamento  En Alquiler En Recoleta, Capital Federal, Buenos Aires",
+   "url": "https://departamento.mercadolibre.com.ar/MLA-4185388730-departamento-en-alquiler-en-recoleta-capital-federal-buenos-aires-_JM"
+  },
+  "notes": [],
+  "notified": "2026-11-11T02:49:49+00:00",
+  "ok": true,
+  "pileta": null,
+  "reasons": [],
+  "score": 26,
+  "total_ars": 1080000.0,
+  "zone": "Recoleta baja"
  }
 }

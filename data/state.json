@@ -10439,6 +10439,38 @@
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-2287686253-alquiler-departamento-2-ambientes-bulnes-1669-_JM"
  },
+ "ml:MLA2312916993": {
+  "first_seen": "2026-11-24T04:23:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $2.091.720 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2312916993-alquiler-departamento-en-palermo-queens-villa-crespo-_JM"
+ },
+ "ml:MLA2312917019": {
+  "first_seen": "2026-11-24T04:23:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $6.972.400 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2312917019-alquiler-departamento-de-5-ambientes-con-dependencia-y-cochera-en-belgrano-_JM"
+ },
+ "ml:MLA2314049409": {
+  "first_seen": "2026-11-24T04:23:39+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.600.000 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2314049409-alquiler-dpto-de-3-ambientes-en-palermo-apto-profesional-balcon-corrido-y-vista-abierta-_JM"
+ },
+ "ml:MLA2315294381": {
+  "first_seen": "2026-11-24T04:23:44+00:00",
+  "ok": false,
+  "reasons": [
+   "total $1.743.100 supera el máximo"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-2315294381-alquiler-3-ambientes-con-balcon-palermo-_JM"
+ },
  "ml:MLA3533636910": {
   "first_seen": "2026-10-18T16:25:18+00:00",
   "ok": false,
@@ -21977,5 +22009,13 @@
    "total $2.687.530 supera el máximo"
   ],
   "url": "https://departamento.mercadolibre.com.ar/MLA-4196654288-quartier-boulevard-piso-20-remodelado-2-ambientes-_JM"
+ },
+ "ml:MLA4232823000": {
+  "first_seen": "2026-11-24T04:23:44+00:00",
+  "ok": false,
+  "reasons": [
+   "monoambiente"
+  ],
+  "url": "https://departamento.mercadolibre.com.ar/MLA-4232823000-alq-monoambiente-cterraza-1cuadra-botanico-_JM"
  }
 }
